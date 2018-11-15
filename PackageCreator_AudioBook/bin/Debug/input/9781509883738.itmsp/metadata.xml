@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:17:28 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247848138-2c2ac698ddeaf65574b92e18b9de3e13cbd23f988c56fb7a6556c5e50c0e6fd2</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435333292-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435333292</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509883738</vendor_id>
+        <title>The Melody</title>
+        <artwork_files>
+            <file>
+                <size>1902496</size>
+                <file_name>9781509883738.jpg</file_name>
+                <checksum type="md5">ca4ce4e0bb0b5214d94200e2e8139c26</checksum>
+            </file>
+        </artwork_files>
+        <description>FROM THE MAN BOOKER SHORTLISTED AUTHOR OF HARVEST 'The Melody takes its place among his finest [novels] . . . an ecological fable for modern times' Guardian 'Seductively atmospheric . . . deeply moving' Daily Mail 'Brilliant' Observer Alfred Busi, famed in his town for his music and songs, is mourning the recent death of his wife and quietly living out his days in the large villa he has always called home. Then one night Busi is attacked by a creature he disturbs as it raids the contents of his larder. Busi is convinced that what assaulted him was no animal, but a child, ‘innocent and wild’, and his words fan the flames of old rumour – of an ancient race of people living in the bosk surrounding the town – and new controversy: the town’s paupers, the feral wastrels at its edges, must be dealt with. Once and for all. Lyrical and warm, intimate and epic, The Melody by Jim Crace tracks the few days that will see Busi and the town he loves altered irrevocably. This is a story about grief and ageing, about reputation and the loss of it, about love and music and the peculiar way myth seeps into real life. And it is a political novel too – a rallying cry to protect those we persecute.</description>
+        <track_count>16</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-02-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-melody/id1435333292?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-02-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 17268943-->
+                <apple_id>17268943</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">17268943</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Jim Crace</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 377570007-->
+                <apple_id>377570007</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">377570007</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Timothy Bentinck</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435333298-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333298</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>731888</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">bd6def26c42a969ab795936e2f1f206e</checksum>
+                </audio_file>
+                <title>The Melody Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333299-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333299</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4319056</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">b3fd28b897b88c732a1c4e0e08d0264a</checksum>
+                </audio_file>
+                <title>The Melody Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333300-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333300</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184157248</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">33a7cfac69845cdabf72a676267bfaa8</checksum>
+                </audio_file>
+                <title>The Melody Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333541-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333541</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>339583408</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">f50bc35cb7b45c6272710280eb2da4b2</checksum>
+                </audio_file>
+                <title>The Melody Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333542-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333542</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>263852496</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">45ddfcca3259839921570ee2c4456d14</checksum>
+                </audio_file>
+                <title>The Melody Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>142715152</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">75397388f7a5aaee1bf7e1ba1048c8e6</checksum>
+                </audio_file>
+                <title>The Melody Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333544-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333544</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>168458352</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">8928b25d2ad24eb05a7bc9cbccc70246</checksum>
+                </audio_file>
+                <title>The Melody Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333545-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333545</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>167824368</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">9490f8b097cd8e12c04c1f23aefd45c9</checksum>
+                </audio_file>
+                <title>The Melody Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333546-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333546</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>279538368</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">78ed3f042492b5dbadd68a189e7d61bb</checksum>
+                </audio_file>
+                <title>The Melody Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333547-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333547</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>199585312</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">6975c5f4a840d4ef57d2c3766fc53feb</checksum>
+                </audio_file>
+                <title>The Melody Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333548-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333548</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>186258800</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">3cd122c88b6871f799654f0975b3ec37</checksum>
+                </audio_file>
+                <title>The Melody Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333549-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333549</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>69672352</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">7abd10fc7cf8efcc2e872f3206c63117</checksum>
+                </audio_file>
+                <title>The Melody Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333550-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333550</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>219837664</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">1ffe663e78a88a1897f5cdeb5b2a4d15</checksum>
+                </audio_file>
+                <title>The Melody Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333551-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333551</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>179451600</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">bd3096c25d82e7ea1ae32221b427dc49</checksum>
+                </audio_file>
+                <title>The Melody Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333552-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333552</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>216605328</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">23fec4220630f68117f79e478e1e8e36</checksum>
+                </audio_file>
+                <title>The Melody Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333553-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333553</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883738_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883738_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 17268943-->
+                        <apple_id>17268943</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17268943</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jim Crace</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 377570007-->
+                        <apple_id>377570007</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">377570007</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Timothy Bentinck</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Melody</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4067680</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">a9da33be99a7b00dc6b1aff215a10788</checksum>
+                </audio_file>
+                <title>The Melody Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509883738_9781509883738_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509883738</vendor_offer_code>
+    </album>
+</package>

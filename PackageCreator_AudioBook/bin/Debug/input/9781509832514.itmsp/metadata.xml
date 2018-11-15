@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:45:08 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537263908354-c441dd84336e179604a6e33f12b601970bbdf3908987fbeabcceb5c6831d4a63</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:55:37 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435427432-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435427432</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509832514</vendor_id>
+        <title>The Lie Tree</title>
+        <artwork_files>
+            <file>
+                <size>3210064</size>
+                <file_name>9781509832514.jpg</file_name>
+                <checksum type="md5">620eb197ec39088406cbbdfaa6a6038f</checksum>
+            </file>
+        </artwork_files>
+        <description>Winner of the Costa Book of the Year 2015. The Lie Tree is a wonderfully evocative and atmospheric novel by Frances Hardinge, award-winning author of Cuckoo Song and Fly By Night. It is read by star of BBC's Silent Witness Emilia Fox with an approximate running time of 12 hours. Faith's father has been found dead under mysterious circumstances, and as she is searching through his belongings for clues she discovers a strange tree. The tree only grows healthy and bears fruit if you whisper a lie to it. The fruit of the tree, when eaten, will deliver a hidden truth to the person who consumes it. The bigger the lie, the more people who believe it, the bigger the truth that is uncovered. The girl realizes that she is good at lying and that the tree might hold the key to her father's murder, so she begins to spread untruths far and wide across her small island community. But as her tales spiral out of control, she discovers that where lies seduce, truths shatter . . .</description>
+        <track_count>36</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-03-10</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>28</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-lie-tree/id1435427432?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-03-10</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 257972423-->
+                <apple_id>257972423</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">257972423</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Frances Hardinge</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2768379-->
+                <apple_id>2768379</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2768379</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Emilia Fox</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾米麗雅·福克斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435427434-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427434</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107133936</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">b1f950ed1490f1071dd230feb84a9fb3</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427435-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427435</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97945168</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">e25cf552400aa76b9128594e1d64b8c1</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427436-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427436</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>198852768</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">8d78937d9f2a072e241d69e0d64f7a3f</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427437-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427437</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>154756816</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">4f5d1b33ae031a7fb834d76e0d5efaed</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427438-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427438</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>152697920</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">eaab42904f8f8b4529682cb2e424d1ba</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427439-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427439</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85952304</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">cd2d76f60ae435a9418973ca1714185d</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427440-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427440</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163669424</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">c1d2c4dc1b8c7addae46ec244653a699</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427681-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427681</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>102597024</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">cb5f5f57c1dbc81da35375fa1f70a71f</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427682-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427682</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>73366544</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f4a4579591227746aebbe87672da4efe</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427683-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427683</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135823600</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">dfcad849806947468cbb96e39ee9c058</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427684-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427684</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>81447872</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">e3085532e44817740350858380100226</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427685-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427685</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>114036000</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">ab909f241dc951c08ceaa9613759d4ce</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427686-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427686</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119231600</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">65a34f4efb1366be9665ff528926e120</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427687-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427687</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134020352</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">110f2b37346b0869144561dcc4de294b</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427688-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427688</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>185583632</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">59a243d16410bf72eed592c272f5621b</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427689-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427689</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>74647696</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">183aced9817f2f6f0ca0e6533e69e300</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427690-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427690</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>172793696</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">20be36e2062eda3742a9a0ef8761660f</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427691-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427691</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>99098992</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">5c5f6e2cd8b8886da243f3f9f2768bfa</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427692-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427692</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>167782784</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">a28e6f83aa952db103d1d794f96f074e</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427693-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427693</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>147322272</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">acbde9c425a22f9747234ddeb1baad15</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427694-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427694</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>141157312</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">b16699e0f9d6e2a68a7d728e0d69c92f</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427695-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427695</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100407824</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">45d7cbf797cccadcc987e88edc671878</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427696-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427696</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>133490096</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">094dcc498797bc0ccf71b9a3c0f5a45d</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427697-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427697</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27838320</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">3c76aeea5a5f2c19cc5d803b5f4ce1d1</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427698-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427698</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86651712</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">c84bbcb6e43d471fae494797db6ae038</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427699-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427699</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124460160</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">4f9a0606e1d5d5fde9bb3fde81efc6e2</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427700-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427700</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>72975936</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">60d387bd8f778219d979abfd3d648e04</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427701-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427701</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>175830144</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">448473c9d2adb9f01e333a2548299b12</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427702-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427702</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>105902464</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">f2a2bb180a2ab613f7c085ed9f38a728</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427703-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427703</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>118280592</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">f3ea402e1b7a4fa6aa7d5887fe8f7d32</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427704-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427704</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127987600</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">959422d36fac0db0a2159b8f9658ed2b</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427705-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427705</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75069760</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">8efe5267438cd59bfe8b27c915a5756d</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427706-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427706</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>155329248</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">0372917c50d12cfbb7944f3b5c8ea1cb</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427707-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427707</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124514224</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">0db40acde0c25281e001d0c7cdc34b2f</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427708-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427708</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>152100832</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">b74601e02e178878266cf2d2aadde2e9</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427709-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427709</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832514_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832514_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 257972423-->
+                        <apple_id>257972423</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">257972423</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Frances Hardinge</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2768379-->
+                        <apple_id>2768379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2768379</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Emilia Fox</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾米麗雅·福克斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Lie Tree</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>117187136</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">43cf86528b696b90c19856c8ba4382dd</checksum>
+                </audio_file>
+                <title>The Lie Tree Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509832514_9781509832514_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509832514</vendor_offer_code>
+    </album>
+</package>

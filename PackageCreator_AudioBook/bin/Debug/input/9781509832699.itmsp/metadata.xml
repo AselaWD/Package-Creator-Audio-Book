@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:25:50 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537251950829-050b35743a8bf650daf25f02f65bcb5d174790df01916651e304ee8362b1e406</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435421699-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435421699</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509832699</vendor_id>
+        <title>A Second Chance at Eden</title>
+        <artwork_files>
+            <file>
+                <size>3555052</size>
+                <file_name>9781509832699.jpg</file_name>
+                <checksum type="md5">356b761872bd255f6b7e24a0a4838950</checksum>
+            </file>
+        </artwork_files>
+        <description>A Second Chance at Eden by Peter F. Hamilton, the bestselling master of space opera, is a collection containing a novella and six short stories set in the Confederation Universe of the Night's Dawn trilogy. Sonnie's Edge:The popular sport of 'beastie-baiting' involves contests to the death between artificial monsters controlled via human affinity bonds. Sonnie's team is particularly successful. . . but then her monster, 'Khanivore', has one special advantage. A Second Chance at Eden: A bitek habitat which orbits Jupiter, mining the fusion fuel on which Earth is dependent, Eden is a mini-nation of radical politics -- and even more radical technology. Then its creator is murdered in full view of the whole population, but nobody can identify the perpetrator -- or the motive. New Days Old Times: Settlers came to the planet Nyvan hoping for a lifestyle free of Earthbound hatreds. Alas, though environments may change, human nature does not. Candy Buds: The crime-lord Laurus rules Kariwak with an iron fist, jealously guarding control of the bitek trade. But when an astonishing new substance appears on the streets, virtual reality takes on an entirely new dimension. Deathday: On a desolate planet, a man wages an obsessive campaign of retribution against the last survivor of an alien race. But vengeance can cut both ways. The Lives and Loves of Tiarella Rosa: A passion that spans two generations of women. . . and endures beyond. Escape Route: The starship Lady Macbeth encounters a long-abandoned alien spacecraft, with its escape route still intact -- but leading where? And is the craft as empty as it seems?</description>
+        <track_count>13</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-09-22</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/a-second-chance-at-eden/id1435421699?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-09-22</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 279984751-->
+                <apple_id>279984751</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">279984751</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter F. Hamilton</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 5796679-->
+                <apple_id>5796679</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">5796679</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Steven Crossley</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435421700-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421700</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9529776</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">c1f883c33e9f1670550910557526711b</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421701-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421701</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>296504672</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">a786ef26d003d38dd66ec2c619430314</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421702-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421702</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>589178768</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">7b03385b6878e5d2bf00c0debc9029b1</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421703-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421703</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>603403632</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">e8dd23f6eb8cdb4b7ac58a1d218bc905</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421704-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421704</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>323459776</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">d641b803abacfe30b8ca68a7a7dadbae</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421705-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421705</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>479390960</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">daf8fa76b6952987ef78cb1f56d4536a</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421706-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421706</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>257358304</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">f3f724349ed121f0c689f86d18013e15</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421707-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421707</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>454285840</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">84a2be8056169fa27bb9e21f24ca5e01</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421708-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421708</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>228262880</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f51521c56b065308b3ae7468b4a54852</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421709-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421709</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>426990144</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">3213dee4c46832318d64011d6b835133</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421710-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421710</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>255338688</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">cbf0ca5f1a0570734ee68196e31d25c6</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421891-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421891</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>553789216</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">9539c1d43c4536cbc45fd503363f8412</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421892-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421892</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832699_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832699_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 5796679-->
+                        <apple_id>5796679</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">5796679</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Steven Crossley</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - A Second Chance at Eden</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>223482784</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">6cc0dda0bfa45877b1e2430a5b4ec044</checksum>
+                </audio_file>
+                <title>A Second Chance at Eden Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509832699_9781509832699_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509832699</vendor_offer_code>
+    </album>
+</package>

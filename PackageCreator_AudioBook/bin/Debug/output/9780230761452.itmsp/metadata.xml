@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 18, 2018 2:34:47 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537263287720-b8696e53947c715aa372c38c2fb01095e137abeab61dfb7af11173c356b10fc3</metadata_token>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435323761-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435323761</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9780230761452</vendor_id>
+    <title>Watching Trees Grow</title>
+    <artwork_files>
+      <file>
+        <size>357969</size>
+        <file_name>9780230761452.jpg</file_name>
+        <checksum type="md5">4f1e5818451192dafabb54ce44b74e96</checksum>
+      </file>
+    </artwork_files>
+    <description>Taken from Peter F. Hamilton's short story collection Manhattan in Reverse, Watching Trees Grow is a murder mystery set in alternate Oxford in the 1800s and the continuing investigation that takes place over a two hundred year period. The lead investigator Edward Raleigh is from one of the 'old' families and will stop at nothing including investigating and invading people's memories to find out who murdered a junior member of his family. His journey takes him across the Solar System through ever evolving technologies and, eventually, to the answers he's been searching for.</description>
+    <track_count>12</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>14</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/watching-trees-grow/id1435323761?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>18</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>23</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NZ</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>19</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>15</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>20</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2011-10-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2011-10-07</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="FICTION-00">Fiction</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 279984751-->
+        <apple_id>279984751</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">279984751</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Peter F. Hamilton</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 203230859-->
+        <apple_id>203230859</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">203230859</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Damian Lynch</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435323763-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323763</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>34375056</size>
+          <file_name>Track_001.mp3</file_name>
+          <checksum type="md5">f1d2fd42a3b56412ba5398e05bf20a51</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323764-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323764</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>27199216</size>
+          <file_name>Track_002.mp3</file_name>
+          <checksum type="md5">3e98981e954805a5b701a9120e82f048</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323765-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323765</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>30436272</size>
+          <file_name>Track_003.mp3</file_name>
+          <checksum type="md5">6468705c78db47b11b5ff1de83233169</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323766-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323766</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>34327488</size>
+          <file_name>Track_004.mp3</file_name>
+          <checksum type="md5">d138f67462857441cb6d22844d73b83e</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323767-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323767</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>20279424</size>
+          <file_name>Track_005.mp3</file_name>
+          <checksum type="md5">ef60c9f2996e9f10f37285523cf0b42a</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323768-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323768</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>26685904</size>
+          <file_name>Track_006.mp3</file_name>
+          <checksum type="md5">f45eefd491ddc260c46d870289189065</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323769-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323769</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>21314816</size>
+          <file_name>Track_007.mp3</file_name>
+          <checksum type="md5">60ea8ab91b6f42c8a397db30a37028e2</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323770-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323770</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>17347856</size>
+          <file_name>Track_008.mp3</file_name>
+          <checksum type="md5">ce05c1bb1052b5b64603f47d6292b788</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323771-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323771</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>20008992</size>
+          <file_name>Track_009.mp3</file_name>
+          <checksum type="md5">4bc4ccbb77d686d71e0a352a118d202d</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323772-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323772</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>17504992</size>
+          <file_name>Track_010.mp3</file_name>
+          <checksum type="md5">6d296319d0ffdbba8f09e5e7ae43c1dd</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323773-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323773</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>19054960</size>
+          <file_name>Track_011.mp3</file_name>
+          <checksum type="md5">62c15ae6dbc8f374ac25aa6d27b2633c</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435323774-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435323774</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9780230761452_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230761452_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 279984751-->
+            <apple_id>279984751</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">279984751</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter F. Hamilton</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 203230859-->
+            <apple_id>203230859</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">203230859</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Damian Lynch</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - Watching Trees Grow</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>2372064</size>
+          <file_name>Track_012.mp3</file_name>
+          <checksum type="md5">6411f560799287d3db89ce7b9177f7c0</checksum>
+        </audio_file>
+        <title>Watching Trees Grow Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9780230761452_9780230761452_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9780230761452</vendor_offer_code>
+  </album>
+</package>

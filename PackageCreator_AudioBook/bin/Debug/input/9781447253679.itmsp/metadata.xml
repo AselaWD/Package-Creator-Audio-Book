@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:17:03 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537262223726-c56622bc2f2c6de4aadf1ef985cd20e8ecfe2a6f9bf6bf53566760e846da98c4</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435438122-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435438122</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447253679</vendor_id>
+        <title>Shall We Tell the President?</title>
+        <artwork_files>
+            <file>
+                <size>2181442</size>
+                <file_name>9781447253679.jpg</file_name>
+                <checksum type="md5">308ae6b654b45c8a2157258123057940</checksum>
+            </file>
+        </artwork_files>
+        <description>6 days, 13 hours and 37 minutes to go . . . At the end of The Prodigal Daughter, Florentyna Kane is elected President – the first woman President of the United States. At 7.30 one evening the FBI learn of a plot to kill her – the 1572nd such threat of the year. At 8.30 five people know all the details. By 9.30 four of them are dead. FBI agent Mark Andrews alone knows when. He also knows that a senator is involved. He has six days to learn where – and how. Six days to prevent certain death of the President. Shall We Tell the President is an enthralling, fast-paced thriller from the bestselling author of Kane and Abel, Jeffrey Archer.</description>
+        <track_count>26</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2013-08-01</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/shall-we-tell-the-president/id1435438122?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2013-08-01</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2765327-->
+                <apple_id>2765327</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2765327</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Jeffrey Archer</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2023405-->
+                <apple_id>2023405</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2023405</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Lorelei King</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>蘿拉.金恩</artist_name>
+                    </locale>
+                    <locale name="ko-KR">
+                        <artist_name>로렐레이 킹</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萝拉.金恩</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435438126-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438126</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>890784</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">872e2ee5e2f2294ea49b957362ea2896</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438127-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438127</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31116752</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">e023e5dab664f1e5a9a38c7eef5ca5d4</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438128-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438128</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38222480</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">4200eda3d148e081fdcaee592afd79aa</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438129-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438129</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29894224</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">d4c2d931cb65f576d67273dc8cdfdee5</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438130-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438130</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25144544</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">2f09f3542a69b0cbe31e2141ace9d5f8</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438131-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438131</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30173840</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">28bde043db721bbe2c85a6bd9d043a18</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438132-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438132</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>37154800</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">721bebc676e0482ab31924d20f1855ba</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438133-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438133</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34037664</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">9f1ff2bf569b07232bf0fd2dc6783433</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438134-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438134</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32654640</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">e6ce2050cc7a9960f4092c0497b367b8</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438135-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438135</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30531200</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">208b463cee1aaa6212bc00be2b1665df</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438136-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438136</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21260656</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">9b0e090ca4a7335f8585182abf742c1c</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438137-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438137</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18105904</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">6a4d078e017b4a1c42ee6c786c3b42f1</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438138-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438138</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24692512</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">11a949645f98a647ae8a405f50e6792e</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438139-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438139</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23432368</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">a8c7f274891084201be9de35b2c0710f</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438140-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438140</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16781184</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">57e6d90c700918eb617693da52312e69</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438141-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438141</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32556208</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">5196e37d9ac7b98028da847c591b63ff</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438142-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438142</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24727632</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">6e0667ff662654dc0f64103197ba3da6</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438143-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438143</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3150896</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">16d018141b40999ab30d6ce4fcc9343d</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438144-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438144</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30440288</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">f80159b5f7f308cfcc52b1a3769f9516</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438145-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438145</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18087712</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">94b49e52aa4cb72d1ae3a77b648245af</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438146-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438146</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31343088</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">fdaae97bcf8bb38bce4823644547ba64</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438147-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438147</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33616368</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">d0544009d691e3ffd72d82c3254192a5</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438148-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438148</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32449632</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">2e1d1c4784b48115ca321e04f1ac1ae3</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438149-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438149</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5921968</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">64c03393987b6ac1c97134608f5ccb6f</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438150-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438150</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22815456</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">0bc173c1bc3b92f0a4adb3274caa3881</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438211-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438211</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447253679_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447253679_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Shall We Tell the President?</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1073856</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">d7dc4cd9b8c5d348939c5c5506056adc</checksum>
+                </audio_file>
+                <title>Shall We Tell the President? Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447253679_9781447253679_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447253679</vendor_offer_code>
+    </album>
+</package>

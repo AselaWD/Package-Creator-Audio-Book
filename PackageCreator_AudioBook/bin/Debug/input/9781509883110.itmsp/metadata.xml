@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:10:39 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537251039045-ca901a36f2988e132c4b1acddc50bef23f8e16b031a37bcd30b071517f545e93</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:31:53 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435425205-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435425205</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509883110</vendor_id>
+        <title>The Rise and Fall of the Dinosaurs</title>
+        <artwork_files>
+            <file>
+                <size>5298087</size>
+                <file_name>9781509883110.jpg</file_name>
+                <checksum type="md5">0cf9a67156ffdd1ab41d1bea0504ac22</checksum>
+            </file>
+        </artwork_files>
+        <description>The Sunday Times Bestseller 'Thrilling . . . the best book on the subject written for the general reader since the 1980s.' The Sunday Times 66 million years ago the dinosaurs were wiped from the face of the earth. Today, Dr. Steve Brusatte, one of the leading scientists of a new generation of dinosaur hunters, armed with cutting edge technology, is piecing together the complete story of how the dinosaurs ruled the earth for 150 million years. The world of the dinosaurs has fascinated on book and screen for decades – from early science fiction classics like The Lost World, to Godzilla terrorizing the streets of Tokyo, and the monsters of Jurassic Park. But what if we got it wrong? In The Rise and Fall of the Dinosaurs, top dinosaur expert Brusatte, tells the real story of how dinosaurs rose to dominate the planet. Using the fossil clues that have been gathered using state of the art technology, Brusatte follows these magnificent creatures from their beginnings in the Early Triassic period, through the Jurassic period to their final days in the Cretaceous and the legacy that they left behind. Along the way, Brusatte introduces us to modern day dinosaur hunters and gives an insight into what it’s like to be a paleontologist. The Rise and Fall of the Dinosaurs is full of thrilling accounts of some of his personal discoveries, including primitive human-sized tyrannosaurs, monstrous carnivores even larger than T. rex, and feathered raptor dinosaurs preserved in lava from China. At a time when Homo sapiens has existed for less than 200,000 years and we are already talking about planetary extinction, The Rise and Fall of the Dinosaurs is a timely reminder of what humans can learn from the magnificent creatures who ruled the earth before us.</description>
+        <track_count>13</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-05-03</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-rise-and-fall-of-the-dinosaurs/id1435425205?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-05-03</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="TRAVEL-ADVENTURE-00">Travel &amp; Adventure</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 568989340-->
+                <apple_id>568989340</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">568989340</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Steve Brusatte</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2809503-->
+                <apple_id>2809503</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2809503</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Patrick Lawlor</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435425210-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425210</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>962064</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">7e5ed443af7b5078fd6495be6a9d901e</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425211-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425211</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>55144400</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">8d3cefc0594f58e0385780f8be8ba572</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425212-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425212</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>364345472</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">550b75eee3553c362840c96e8326776f</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425213-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425213</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>365051456</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">37298efefd2034954e3aa6db1b792a2f</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425214-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425214</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>339019376</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">f786b99c19f04b18be8326588abab2f8</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425215-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425215</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>356805856</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">ff33cbabbe55f71f0b83a15566c11cd0</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425216-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425216</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>321892112</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">58e3ce2df274b03d907c24c052d372ae</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425217-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425217</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>320330832</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">47df7ee3426a485d42a2c56a78f263a0</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425218-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425218</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>369859472</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">1dcdaa27270bfc702ec4ca250942876e</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425219-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425219</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>365580320</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">d58dca0ec945a891f6ef9c45ee9dd8a7</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425220-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425220</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>315603232</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">7df9314d1e5bdd14830d944cc311e9bc</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425341-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425341</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>59453040</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">a9a34bb6e1e220afa2bf7a9d35e08c4f</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425342-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425342</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883110_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883110_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 568989340-->
+                        <apple_id>568989340</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">568989340</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Steve Brusatte</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2809503-->
+                        <apple_id>2809503</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2809503</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Patrick Lawlor</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Rise and Fall of the Dinosaurs</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3072752</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">feafe613b6ebfff549393027578df0ad</checksum>
+                </audio_file>
+                <title>The Rise and Fall of the Dinosaurs Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509883110_9781509883110_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509883110</vendor_offer_code>
+    </album>
+</package>

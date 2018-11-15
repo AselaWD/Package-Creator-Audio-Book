@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:08:58 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537254538305-7bad14c4e893854093884ce79adf6012ca541350e895d33cddd9aef7cff127ad</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435439597-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435439597</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509883981</vendor_id>
+        <title>The Hanging Valley</title>
+        <artwork_files>
+            <file>
+                <size>1936388</size>
+                <file_name>9781509883981.jpg</file_name>
+                <checksum type="md5">6b43bb0b7c408368928177ed46056d4f</checksum>
+            </file>
+        </artwork_files>
+        <description>The Hanging Valley is the fourth novel in Peter Robinson's Inspector Banks series, following on from A Necessary End. A faceless corpse is discovered in a tranquil, hidden valley below the village of Swainshead. And when Chief Inspector Alan Banks arrives, he finds that no-one is willing to talk. Banks's frustration only grows when the identity of the body is revealed. For it seems that his latest case may be connected with an unsolved murder in the same area five years ago. Among the silent suspects are the Collier brothers, the wealthiest and most powerful family in the area. When they start using their influence to slow down the investigation, Banks finds himself in a race against time . . . The Hanging Valley is followed by the fifth book in this Yorkshire-based crime series, Past Reason Hated.</description>
+        <track_count>14</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-06-28</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>26</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-hanging-valley/id1435439597?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-06-28</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1435327236-->
+                <apple_id>1435327236</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435327236</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter Robinson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 251126537-->
+                <apple_id>251126537</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">251126537</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Simon Slater</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435439599-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439599</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>198351056</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">79d9231777b7ac3a35e7183a40695d45</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439600-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439600</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>172034640</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">20a1e64a8f22f93cacd6c43d81e0894d</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439601-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439601</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>231384064</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">b589ba802da1c4db47a40a1f108635c0</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439602-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439602</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>214449792</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">0f710b5c66a3045fbed1ae39d4c94b63</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439603-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439603</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>211154320</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">1e71d5fe744f643ed0a947581ea4a739</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439604-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439604</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>203528688</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">217423357cf4587e4a915bf5af206116</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439605-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439605</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>182295840</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">865656b62e31b33550a09ff9b9027b2b</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439606-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439606</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>197385808</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">b4708e0a33d504a91d6e06fdd203336c</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439607-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439607</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>282960720</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">a0be490ac58b255760f7e36be15146c0</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439608-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439608</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>216802192</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">ce671e9a077e5d9e4777f26316d8e483</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439609-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439609</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>256058016</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">a975c6abad2d7325d2b9fe9a66797f4f</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439610-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439610</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>237683904</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">491e30bd51fc2a6e3b712ddbf1a78494</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439611-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439611</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>269347600</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">674ff82f4802718e53ded5474c7ddd2a</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435439612-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435439612</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509883981_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883981_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 251126537-->
+                        <apple_id>251126537</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">251126537</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Simon Slater</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Hanging Valley</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>242421408</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">5a08c1089fd8294c215221d5bc3203d7</checksum>
+                </audio_file>
+                <title>The Hanging Valley Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509883981_9781509883981_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509883981</vendor_offer_code>
+    </album>
+</package>

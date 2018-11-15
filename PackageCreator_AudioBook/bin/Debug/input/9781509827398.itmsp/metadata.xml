@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:50:52 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253451998-80a97b455cc4f643722ca3c755c27c63bfd19a1e1c1f7045a5a498721008a4f5</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 17:34:02 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435414995-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435414995</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509827398</vendor_id>
+        <title>Little Deaths</title>
+        <artwork_files>
+            <file>
+                <size>6997627</size>
+                <file_name>9781509827398.jpg</file_name>
+                <checksum type="md5">b788577453e4821cd4593d98e650791d</checksum>
+            </file>
+        </artwork_files>
+        <description>It's the summer of 1965, and the streets of Queens, New York shimmer in a heatwave. One July morning, Ruth Malone wakes to find a bedroom window wide open and her two young children missing. After a desperate search, the police make a horrifying discovery. Noting Ruth's perfectly made-up face and provocative clothing, the empty liquor bottles and love letters that litter her apartment, the detectives leap to convenient conclusions, fuelled by neighbourhood gossip and speculation. Sent to cover the case on his first major assignment, tabloid reporter Pete Wonicke at first can't help but do the same. But the longer he spends watching Ruth, the more he learns about the darker workings of the police and the press. Soon, Pete begins to doubt everything he thought he knew. Ruth Malone is enthralling, challenging and secretive - is she really capable of murder? Haunting, intoxicating and heart-poundingly suspenseful, Little Deaths is a gripping novel about love, morality and obsession, exploring the capacity for good and evil within us all.</description>
+        <track_count>20</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-01-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/little-deaths/id1435414995?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-01-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 387986379-->
+                <apple_id>387986379</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">387986379</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Emma Flint</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 726424444-->
+                <apple_id>726424444</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">726424444</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Graham Halstead</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 261204636-->
+                <apple_id>261204636</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">261204636</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Lauren Fortgang</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435415010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>227572784</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">a9ad7eb002e460d047e1205d836fde3a</checksum>
+                </audio_file>
+                <title>Little Deaths Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415011-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415011</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>209146928</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">d7871abaddd5f50d84288f413ce3b51c</checksum>
+                </audio_file>
+                <title>Little Deaths Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415012-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415012</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>228764720</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">0aa22a7f6131c1be597d48bf6ddabadb</checksum>
+                </audio_file>
+                <title>Little Deaths Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415013-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415013</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>367772720</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">51e1d00d66bc32e0dc39384cbecf4783</checksum>
+                </audio_file>
+                <title>Little Deaths Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415014-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415014</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>152962096</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">da545cd00fb59ad90a2f9fcc619aacf0</checksum>
+                </audio_file>
+                <title>Little Deaths Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415015-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415015</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>369250224</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">53f045daac761c5fb3888094c6b33211</checksum>
+                </audio_file>
+                <title>Little Deaths Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415016-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415016</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>315438128</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">31fd6ca58466b6f68955b2c7c31a0f54</checksum>
+                </audio_file>
+                <title>Little Deaths Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415017-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415017</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>269888800</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">4d99114fd1b16f9b4a33e1eb7ba23ea0</checksum>
+                </audio_file>
+                <title>Little Deaths Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415018-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415018</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>419671088</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f0fe383191f3f2f9a1ee9ad50f45927e</checksum>
+                </audio_file>
+                <title>Little Deaths Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415019-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415019</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>387001120</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">03cd97e42e15f6df73aae8ba1cda3fb3</checksum>
+                </audio_file>
+                <title>Little Deaths Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415020-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415020</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>202258512</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">e1b70225b7d0dd02b6cf03f2db1dfecd</checksum>
+                </audio_file>
+                <title>Little Deaths Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415141-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415141</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>401669168</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">e1364dab7d4eeed1420760d5257221f3</checksum>
+                </audio_file>
+                <title>Little Deaths Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415142-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415142</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>393233456</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">0451f811d917bdaaf4f5c476e2c66450</checksum>
+                </audio_file>
+                <title>Little Deaths Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415143-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415143</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>386264112</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">5786182a4816595372999323be84be67</checksum>
+                </audio_file>
+                <title>Little Deaths Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415144-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415144</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>376405040</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">b555ab0f7b08982b93e84876dcddacb6</checksum>
+                </audio_file>
+                <title>Little Deaths Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415145-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415145</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>285164592</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">b4da3c4ca8612fed514ff25ec07b2b6a</checksum>
+                </audio_file>
+                <title>Little Deaths Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415146-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415146</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>343890992</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">dcaf5273ef258bfb8f54bec0774387fe</checksum>
+                </audio_file>
+                <title>Little Deaths Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415147-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415147</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>342647856</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">cbdfc0437c88457c5bf6fd82b52a0750</checksum>
+                </audio_file>
+                <title>Little Deaths Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415148-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415148</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>413097008</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">54ecf98ddf363e0437e819cf2ff46926</checksum>
+                </audio_file>
+                <title>Little Deaths Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415149-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415149</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509827398_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509827398_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 387986379-->
+                        <apple_id>387986379</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">387986379</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Emma Flint</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 726424444-->
+                        <apple_id>726424444</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">726424444</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Graham Halstead</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 261204636-->
+                        <apple_id>261204636</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">261204636</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lauren Fortgang</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Little Deaths</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>368938032</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">dd375487ad31aa1c5d88dc492a1f2bd3</checksum>
+                </audio_file>
+                <title>Little Deaths Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509827398_9781509827398_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509827398</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:06:36 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537250796182-57c421ac5c6839276f43a0a5652883506db11a9d91766e65c0cc1a09c3dd55f6</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435335072-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435335072</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230766440</vendor_id>
+        <title>The Rhyming Rabbit</title>
+        <artwork_files>
+            <file>
+                <size>877400</size>
+                <file_name>9780230766440.jpg</file_name>
+                <checksum type="md5">6701333ea4b93c6d102b985843994cb0</checksum>
+            </file>
+        </artwork_files>
+        <description>The Rhyming Rabbit loves to make up entertaining poems, inspired by everything he sees, but the other rabbits don’t appreciate his talent for rhyme. Sad and lonely, the Rhyming Rabbit sets off one starry night all on his own – will he ever find someone to share his poems with? The Rhyming Rabbit is a clever rhyming adventure from the stellar partnership of Julia Donaldson and Lydia Monks, creators of What the Ladybird Heard. This delightful story is brought to life by actor David Tennant in The Rhyming Rabbit audiobook.</description>
+        <track_count>1</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2012-06-07</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-rhyming-rabbit/id1435335072?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2012-06-07</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 201229848-->
+                <apple_id>201229848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">201229848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Julia Donaldson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 156139775-->
+                <apple_id>156139775</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">156139775</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>David Tennant</artist_name>
+                <locales>
+                    <locale name="ko-KR">
+                        <artist_name>데이비드 테넌트</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435335075-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435335075</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230766440_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230766440_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 156139775-->
+                        <apple_id>156139775</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">156139775</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Tennant</artist_name>
+                        <locales>
+                            <locale name="ko-KR">
+                                <artist_name>데이비드 테넌트</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Rhyming Rabbit</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15599872</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">448dc0f5a98f12ea45451161b215da18</checksum>
+                </audio_file>
+                <title>The Rhyming Rabbit Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230766440_9780230766440_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230766440</vendor_offer_code>
+    </album>
+</package>

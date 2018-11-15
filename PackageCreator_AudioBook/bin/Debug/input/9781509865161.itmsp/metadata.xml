@@ -1,0 +1,2815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:41:51 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537256511802-37a9fc68f12089d3360182f577a76172006f6ac2a793124d312b00ee9366fa10</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435427242-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435427242</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509865161</vendor_id>
+        <title>Eye of the Needle</title>
+        <artwork_files>
+            <file>
+                <size>3882450</size>
+                <file_name>9781509865161.jpg</file_name>
+                <checksum type="md5">70a66445e4f752bba0c666eb7605d07e</checksum>
+            </file>
+        </artwork_files>
+        <description>His weapon is the stiletto, his codename: The Needle. He is Hitler's prize undercover agent – a cold and professional killer. It is 1944 and weeks before D-Day. The Allies are disguising their invasion plans with a phoney armada of ships and planes. Their plan would be ruined if an enemy agent found out . . . and then The Needle does just that. Hunted by MI5, he leads a murderous trail across Britain to a waiting U-Boat. But he hasn't planned for a storm-battered island, and the remarkable young woman who lives there . . . Eye of the Needle, Ken Follett's breakthrough international bestseller, is a heart-racingly exciting tale about the fate of the war resting in the hands of a master spy, his opponent and a brave woman.</description>
+        <track_count>40</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-08-23</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/eye-of-the-needle/id1435427242?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-08-23</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 41828779-->
+                <apple_id>41828779</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">41828779</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Ken Follett</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 80625338-->
+                <apple_id>80625338</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">80625338</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Samuel West</artist_name>
+                <locales>
+                    <locale name="no">
+                        <artist_name>Hanne Dieserud</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>사무엘 웨스트</artist_name>
+                    </locale>
+                    <locale name="cmn-Hant">
+                        <artist_name>山繆.韋斯特</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萨缪尔·韦斯特</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435427247-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427247</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11181760</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">84ccfb791ee875ce1ddb65f5e7fe933c</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427248-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427248</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124045920</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">17edb0b6e399c692d8d03e13837a381a</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427249-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427249</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>74228656</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">f8e413dcc0d6bcde27001b68e17a482f</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427250-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427250</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>112019168</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">773008af6ab6cbefe775dee67ebfa085</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427251-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427251</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83413584</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">3266706dbbf6a378bdf52244d8812bec</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427252-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427252</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>154992656</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">f95c11cea56c7584a484518873de525b</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427253-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427253</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27852496</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">ee9b7a76309468206aab6f9db3ac434a</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427254-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427254</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111689424</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">23a8606c804b16b5234cd62b623f9d8e</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427255-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427255</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>89529040</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">194f03cccb3c525e631febfc49a499b7</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427256-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427256</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58054352</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">044a5860d0b8e01dc182dd5a6c978ccb</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427257-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427257</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163720240</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">445f2f26d789f32ba709c9212152928b</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427258-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427258</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>144462544</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">df40ad3a38c91b1ae7486091b889e871</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427259-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427259</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>47371984</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">e464674137c9e75a20c31db015cd6700</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427260-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427260</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110593744</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">654142626b8e5c5731fa89b4e9b1022f</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427591-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427591</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100851408</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">57efd7f3828781a9f2d6bdcae3a79133</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427592-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427592</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146857680</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">e40a8c7d2c69075bee78e7f974ae9512</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427593-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427593</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104423120</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">00194996ed9841acfe6b6caf6849ff0e</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427594-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427594</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>186535632</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">0edc55ae6c430dea7687c31afc55a0ac</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427595-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427595</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30654160</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">2d7a84ce23d5612c841ddb5eb2952691</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427596-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427596</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124747472</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">3e42525a6e129808032348cbefcdc569</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427597-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427597</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>118411984</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">161e9588b20e717820242c6d889198b0</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427598-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427598</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104842960</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">d8f15af3621b4e80c5999a2de782c5ab</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427599-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427599</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>89880272</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">e1dc451a41a5395dc3102efad0336e9b</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427600-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427600</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131501776</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">cfc616a57150f6d3ee343ec9f7524fa1</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427601-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427601</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>46244560</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">a5b8efa99de3899288365cb415bef2eb</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427602-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427602</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95208144</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">e86116e29a323f0633aaaed9e027537c</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427603-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427603</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58130128</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">29d0dc62fd1c55c135bb2073fd933c70</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427604-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427604</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>74387152</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">5168ccd6b6b35bb0d9d59db943d8d8a4</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427605-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427605</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>89310928</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">1c99d1cd5bdc754be8b9360da638b2b1</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427606-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427606</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75439824</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">56c7ac7190e01326db8e820e0e585009</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427607-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427607</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53108432</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">33105a009f926249bd74851a94b26f70</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427608-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427608</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97041104</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">a258cf2a70df829d88db286f5dab5a2d</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427609-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427609</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>59431632</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">57c3ccee97cae3a66ac508450e98dc7b</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427610-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427610</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93685456</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">d04d944d553fe0e87c9b3677874c5451</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427611-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427611</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25781968</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">2e71bb51dbb1d2363e9bacd550f8b672</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427612-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427612</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104525520</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">60f456360f30cf069c91719ba0ae2931</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427613-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427613</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>45314768</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">67e79046d94dc622984e5122eae83849</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427614-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427614</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93125328</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">de2c7f67877e4cc73bae971ca6ff7cd3</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427615-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427615</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10627792</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">c35debcf79bb4130ae60efc4a62a66dc</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435427616-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435427616</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865161_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865161_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Eye of the Needle</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29554400</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">58cd4479d0650fdf5a36c811b0336ba6</checksum>
+                </audio_file>
+                <title>Eye of the Needle Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509865161_9781509865161_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509865161</vendor_offer_code>
+    </album>
+</package>

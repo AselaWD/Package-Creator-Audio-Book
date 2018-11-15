@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:47:30 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260450067-a32e21670c377a535af9b595125cf825ee4686142aa4f780e9bf305b651fab9f</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435322661-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435322661</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509808809</vendor_id>
+        <title>What the Ladybird Heard Next</title>
+        <artwork_files>
+            <file>
+                <size>4257919</size>
+                <file_name>9781509808809.jpg</file_name>
+                <checksum type="md5">7858adec77eb1b7bf45de17a5723d3d0</checksum>
+            </file>
+        </artwork_files>
+        <description>Once upon a farm lived a ladybird, And these are the things that she saw and heard Those crafty robbers Hefty Hugh and Lanky Len are out of jail, and they're heading back to the farm with another cunning plan to cause trouble. They've been stealing eggs from the fat red hen, but now they're setting their sights higher and are planning to steal the fat red hen herself! Fortunately the quiet, clever ladybird is on their trail, and she and her farm animal friends have a plan of their own. Join the cow, the goose, the horse, the sheep, the cat, and everyone's favourite ladybird in this fantastically funny farmyard caper - a much anticipated sequel to the hugely successful What the Ladybird Heard, which has sold over a million copies worldwide. With slapstick action, animal noises, and a mysterious Snuggly Snerd bird, all read aloud by actor and comedian Alexander Armstrong, What the Ladybird Heard Next is destined to become yet another classic in the Julia Donaldson and Lydia Monks collection. Praise for What the Ladybird Heard: "Bursting with colour and verve" - Daily Telegraph "A terrific and witty adventure" - The Guardian</description>
+        <track_count>1</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-02-25</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/what-the-ladybird-heard-next/id1435322661?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-02-25</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 201229848-->
+                <apple_id>201229848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">201229848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Julia Donaldson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 290809615-->
+                <apple_id>290809615</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">290809615</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alexander Armstrong</artist_name>
+                <locales>
+                    <locale name="ja">
+                        <artist_name>アレクサンダー・アームストロング</artist_name>
+                        <phonetic_name>アレクサンダーアームストロング</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435322698-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435322698</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509808809_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509808809_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 290809615-->
+                        <apple_id>290809615</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">290809615</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alexander Armstrong</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>アレクサンダー・アームストロング</artist_name>
+                                <phonetic_name>アレクサンダーアームストロング</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - What the Ladybird Heard Next</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15863952</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">886e4043ed59c076e75fbf6351b515d6</checksum>
+                </audio_file>
+                <title>What the Ladybird Heard Next Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509808809_9781509808809_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509808809</vendor_offer_code>
+    </album>
+</package>

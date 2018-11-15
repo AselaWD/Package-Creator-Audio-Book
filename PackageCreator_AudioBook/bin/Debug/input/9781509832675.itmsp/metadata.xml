@@ -1,0 +1,2404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:18:42 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537262322367-3e8fd4ca83845d7b4f7334adac436cb613210b5dc3d585e74dbedb42bc335e9d</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:15:56 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435425145-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435425145</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509832675</vendor_id>
+        <title>The Naked God</title>
+        <artwork_files>
+            <file>
+                <size>3339074</size>
+                <file_name>9781509832675.jpg</file_name>
+                <checksum type="md5">e747a5887a78d82c993a387508e3ec0c</checksum>
+            </file>
+        </artwork_files>
+        <description>The third book in the The Night's Dawn trilogy, The Naked God by Peter F. Hamilton is an epic conclusion to dramatic and compelling series. The Confederation is starting to collapse politically and economically, allowing the 'possessed' to infiltrate more worlds. Quinn Dexter is loose on Earth, destroying the giant arcologies one at a time. As Louise Kavanagh tries to track him down, she manages to acquire some strange and powerful allies whose goal does not match her own. The campaign to liberate Mortonbridge from the possessed degenerates into a horrendous land battle, the kind that hasn't been seen by humankind for six hundred years. Then some of the protagonists escape in a very unexpected direction . . . Joshua Clavert and Syrinx now fly their starships on a mission to find the Sleeping God - which an alien race believes holds the key to finally overthrowing the possessed. 'The trilogy is an amazing piece of artwork, a masterpiece perhaps' SFReviews.com</description>
+        <track_count>43</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-09-22</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>37</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-naked-god/id1435425145?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-09-22</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 279984751-->
+                <apple_id>279984751</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">279984751</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter F. Hamilton</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1125771666-->
+                <apple_id>1125771666</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1125771666</read_only_value>
+                </read_only_info>
+                <language>de</language>
+                <artist_name>John Lee</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435425281-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425281</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>525470880</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">dde325c5e17d04e2b3150769c4c34d25</checksum>
+                </audio_file>
+                <title>The Naked God Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425282-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425282</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>405740864</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">e08293c510533f16e444be6637445b82</checksum>
+                </audio_file>
+                <title>The Naked God Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425283-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425283</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>479496944</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">57a68e7d5b562a7d944334b09434af91</checksum>
+                </audio_file>
+                <title>The Naked God Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425284-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425284</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>522708096</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">eaf705bfa417cab9cd278bcf26e58e96</checksum>
+                </audio_file>
+                <title>The Naked God Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425285-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425285</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>465837888</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">1b75e7b8f93a4228d78f88638a0f2413</checksum>
+                </audio_file>
+                <title>The Naked God Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425286-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425286</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>561060384</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">ff634fa8734a69a0b380a9fc2210ebbc</checksum>
+                </audio_file>
+                <title>The Naked God Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425287-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425287</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>304388768</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">13bb278421153a2e3387c10c9ff5d35c</checksum>
+                </audio_file>
+                <title>The Naked God Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425288-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425288</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>308009392</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">4165cf48bfe47756bd7af037c12e6dcd</checksum>
+                </audio_file>
+                <title>The Naked God Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425289-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425289</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>340857168</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">76b1aac65e215814ed08c53f10463970</checksum>
+                </audio_file>
+                <title>The Naked God Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425290-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425290</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>338533024</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">1541f081e11dc403a7581806930f8e90</checksum>
+                </audio_file>
+                <title>The Naked God Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425291-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425291</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>434925136</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">05d564fc2ba454b5d243c3bc88afb351</checksum>
+                </audio_file>
+                <title>The Naked God Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425292-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425292</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>322554912</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">8d41ca5045d0839cfa0a4ebb9568e7b0</checksum>
+                </audio_file>
+                <title>The Naked God Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425293-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425293</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>324901312</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">e95e997c342fc6eed748c4f7c5a5a836</checksum>
+                </audio_file>
+                <title>The Naked God Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425294-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425294</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>307906048</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">ed925889f260c0749c3b199f1d6d7ddf</checksum>
+                </audio_file>
+                <title>The Naked God Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425295-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425295</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>323191040</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">b8e6d4d127a741d10d661af5bb42f249</checksum>
+                </audio_file>
+                <title>The Naked God Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425296-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425296</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>620576352</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">2a7b18b9aa98ecea74833d3e5266482e</checksum>
+                </audio_file>
+                <title>The Naked God Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425297-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425297</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>456886240</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">1c6a40f94896adbeb573cd7927b15d03</checksum>
+                </audio_file>
+                <title>The Naked God Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425298-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425298</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>611574784</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">f5f25110d2e20c9b368324285f3c91a7</checksum>
+                </audio_file>
+                <title>The Naked God Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425299-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425299</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>293842768</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">907bf7354c8b9b19875d4ff1cc7b18f9</checksum>
+                </audio_file>
+                <title>The Naked God Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425300-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425300</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>328132208</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">3cd2bfe9c62f0a3a46fe1584ef94c75a</checksum>
+                </audio_file>
+                <title>The Naked God Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425301-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425301</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>340654400</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">dbd0519e9d7430c7df6d53731c465705</checksum>
+                </audio_file>
+                <title>The Naked God Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425302-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425302</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>446866512</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">1f8272322ee4fa46a25023a89758d763</checksum>
+                </audio_file>
+                <title>The Naked God Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425303-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425303</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>562848416</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">ad2a2a1fd02d46cd20858e051056012c</checksum>
+                </audio_file>
+                <title>The Naked God Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425304-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425304</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>486929936</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">9e7e0faec6ade6a91914fe65ba4e947e</checksum>
+                </audio_file>
+                <title>The Naked God Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425305-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425305</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>471750624</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">412fb3d9c463c3922825fb9ce4bec74e</checksum>
+                </audio_file>
+                <title>The Naked God Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425306-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425306</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>448438624</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">ef2d0ba1975335c73d59bb77a7a12fcb</checksum>
+                </audio_file>
+                <title>The Naked God Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425307-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425307</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>528431904</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">e8a4556105771b228bd39d2e86a2d6f3</checksum>
+                </audio_file>
+                <title>The Naked God Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425308-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425308</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>422655904</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">c6449f9daa8563418fad9b2954ab7876</checksum>
+                </audio_file>
+                <title>The Naked God Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425309-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425309</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>467872416</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">ecbcab130e98e3ccfe9edaeeb10414b3</checksum>
+                </audio_file>
+                <title>The Naked God Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425310-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425310</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>525577728</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">f1486c8c7d537d8522727586715ab30b</checksum>
+                </audio_file>
+                <title>The Naked God Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425311-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425311</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>336948592</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">04fb080543faf25fe18846cbd57df7c7</checksum>
+                </audio_file>
+                <title>The Naked God Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425312-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425312</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>303991968</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">4f760d4675513ae18f013d4a2271f8d8</checksum>
+                </audio_file>
+                <title>The Naked God Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425313-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425313</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>354436416</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">53f057652b3028f0a747356de1bb9d04</checksum>
+                </audio_file>
+                <title>The Naked God Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425314-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425314</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>312007424</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">113ed0093dff92514515fb77901e407a</checksum>
+                </audio_file>
+                <title>The Naked God Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425315-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425315</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>549436096</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">9a714591059b5481874542b4115b0c35</checksum>
+                </audio_file>
+                <title>The Naked God Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425316-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425316</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>611733536</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">e9021a85194b2b04d503e0cb4a7f1a39</checksum>
+                </audio_file>
+                <title>The Naked God Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425317-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425317</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>503144608</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">501940d42043a64815726bb6a635c58c</checksum>
+                </audio_file>
+                <title>The Naked God Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425318-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425318</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>353206688</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">ad0b5c1901da63ed210c4ca7ffb35fa9</checksum>
+                </audio_file>
+                <title>The Naked God Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425319-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425319</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>626289088</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">9182aa2487b3558fd1fd5bcd386434d8</checksum>
+                </audio_file>
+                <title>The Naked God Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425320-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425320</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>348846112</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">a5c9e7e4b50b2b6b97cb070d4967272a</checksum>
+                </audio_file>
+                <title>The Naked God Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425321-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425321</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>518138288</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">69ce36ab3b05a84a917309cb02d0f21c</checksum>
+                </audio_file>
+                <title>The Naked God Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425322-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425322</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>542990000</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">5f3726a0dc8150401aa5e001bb64db00</checksum>
+                </audio_file>
+                <title>The Naked God Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435425323-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435425323</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832675_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832675_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The Naked God</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>406715264</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">a43e81c0d4149e21560783bb0daddc0f</checksum>
+                </audio_file>
+                <title>The Naked God Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509832675_9781509832675_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509832675</vendor_offer_code>
+    </album>
+</package>

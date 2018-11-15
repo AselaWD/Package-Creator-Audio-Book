@@ -1,0 +1,3686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 3:03:23 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537265003573-eb6528aab6bce1ab11c53f848e94c07c1952d901285dd6bd86952ebb0834911a</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Thu Sep 13 12:32:22 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436211433-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436211433</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230736610</vendor_id>
+        <title>Paths of Glory (Abridged)</title>
+        <artwork_files>
+            <file>
+                <size>277902</size>
+                <file_name>9780230736610.jpg</file_name>
+                <checksum type="md5">78ad77fe745cbbe0753e14c422d6d6dd</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;Inspired by a true story, &lt;i&gt;Paths of Glory&lt;/i&gt; brings to life one of history’s enduringly enigmatic heroes.&lt;/p&gt;&lt;p&gt; Some people have dreams that are so outrageous that if they were to achieve them, their place in history would be guaranteed. Christopher Columbus, Isaac Newton, Florence Nightingale, Thomas Eddison, Nancy Astor, Charles Lindbergh, Amy Johnson, Edmund Hilary and Neil Armstrong are among such individuals.&lt;/p&gt;&lt;p&gt; But what if one man had such a dream, and when he'd achieved it, there was no proof that he had fulfilled his ambition?&lt;/p&gt;&lt;p&gt; &lt;i&gt;Paths of Glory&lt;/i&gt;, is the story of such a man. But not until you've turned the last page of Jeffrey Archer's extraordinary novel, will you be able to decide if mountaineer George Mallory should be added to this list of legends, because if he were, another name would have to be removed.&lt;/p&gt;</description>
+        <track_count>61</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2009-03-06</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>20</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/paths-of-glory-abridged/id1436211433?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2009-03-06</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2765327-->
+                <apple_id>2765327</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2765327</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Jeffrey Archer</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 72901668-->
+                <apple_id>72901668</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">72901668</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Roger Allam</artist_name>
+                <locales>
+                    <locale name="cmn-Hans">
+                        <phonetic_name>Roger Allam</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436211434-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211434</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8248368</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">fe91ecc84b779f8b7951a89d42fab310</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211435-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211435</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8835184</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">c0ae6cff46cc906db554db757fde4762</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211436-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211436</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7581920</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">b777d5c58761fbbb2bec74f43c0da1a9</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211437-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211437</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9406944</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">960f579bb873b930eb362d03f55d384c</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211438-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211438</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9061504</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">a11067345e2d37291485b4b928fcac9d</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211439-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211439</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10203792</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">616da0744602a233ba34f7e4ea6bcc34</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211440-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211440</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10242032</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">1db65ede443b1eb189916c9aec830551</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211441-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211441</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10466480</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">83af8710fef61a4cc7a4877f74d6513d</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211442-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211442</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7788192</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">71f217c11b87a41d4d636f42c09043c3</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211443-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211443</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10234512</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">47a7652c42c0fa4bbf58648cb935b3e6</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211444-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211444</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9638912</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">3cf063d5c2ea2f3e1f25fac53912c907</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211445-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211445</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9481552</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">a07f5fefad7a377c2aabd1e2c4b4764b</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211446-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211446</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10321024</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">73df41bd81de7fe10f3208950210cd61</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211447-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211447</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9775584</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">c42fa9cd43f9a540dc8538810318693a</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211448-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211448</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9336736</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">e5361b1d3d053c78df3fbb2a4b597567</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211449-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211449</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9170592</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">6bf69a448d25fb4891dd86b344bb6562</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211450-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211450</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9154912</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">5b9308e02b0ebf5c80a849468c3c1f39</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211451-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211451</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9023264</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">e116164a293d936c860f5b754637fe49</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211452-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211452</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8843952</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">348ed80f32b68c12eaffe77d16b427b6</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211453-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211453</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9159936</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">1b959cd6543a4030bd3369c7c58b4054</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211454-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211454</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9151776</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">105439525835659d6f93f7d3dd3894ee</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211455-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211455</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9042704</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">4e4c8830a40529a9a58cc81477dd4156</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211456-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211456</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9014480</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">40ed202d8626b47d27ed727e58af2434</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211457-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211457</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9106640</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">d6215ea9c6d6fb4d866b9b112fdf449a</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211458-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211458</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9891568</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">427d3f0296444120ca3702421c169f2f</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211459-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211459</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10426352</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">3f1a2860b3ee4652fddb1c0b8ac2decf</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211460-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211460</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10094704</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">809b9b8fabd425ff72d5ec59c3075e4c</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9759280</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">96175b9e6ce5e5ee3d667a873e02f003</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8197584</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">081a405d6ac798876a7160816b127ac4</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9939840</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">1e80cfd0185d04fba63420912234e812</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10023856</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">be7178d04e5583c6227fc36f8859af05</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211465-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211465</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10137952</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">58d1a8563747ca0c0e44ddf3dd59f14c</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211466-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211466</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10113504</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">e0176103f095340616c22623ab129a49</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211467-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211467</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9763680</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">ba0670d102152a0ffbd897e7ff663d48</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211468-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211468</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8040848</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">21f8e3c86664f7824044e718c7c70813</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211469-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211469</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5541248</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">d6926af6d3dcd3069e8af64571e9535d</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211470-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211470</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7623312</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">30eebab28f188547530f2812b61fbced</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211471-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211471</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6206432</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">4523d62f477abcd6ada1e6c8578ba65c</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211472-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211472</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8654000</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">4f8d17117053417cd13bb6e9e7093133</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10288416</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">440f5f3b597ae634eefc52820830b996</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211474-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211474</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10187488</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">8af48d773b3ba4042b2c1347b483df39</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211475-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211475</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9568064</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">134716f7e0a777b1a651482a2887e0d2</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9627008</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">984f4c42261cb650d401dfe8ac5127ef</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10218208</size>
+                    <file_name>Track_044.mp3</file_name>
+                    <checksum type="md5">963aeca1d3b3713db826a63f14f35103</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9986864</size>
+                    <file_name>Track_045.mp3</file_name>
+                    <checksum type="md5">2cde83b1336ec7734b8a972c53f076ec</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9118560</size>
+                    <file_name>Track_046.mp3</file_name>
+                    <checksum type="md5">451371ee27693014dd49fbaa464d220e</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211480-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211480</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7264704</size>
+                    <file_name>Track_047.mp3</file_name>
+                    <checksum type="md5">14c8e5e3ef5cb3a0a543dcd7a5ab78dc</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211481-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211481</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7774400</size>
+                    <file_name>Track_048.mp3</file_name>
+                    <checksum type="md5">2b8c62cb19f9abe5a2d05f6c3cf58a15</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211482-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211482</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8580640</size>
+                    <file_name>Track_049.mp3</file_name>
+                    <checksum type="md5">7e5213ce459f839ab356a15aefee4680</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211483-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211483</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6714864</size>
+                    <file_name>Track_050.mp3</file_name>
+                    <checksum type="md5">6bec479e5f6635b136ce4dbe6d4cb2be</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211484-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211484</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10391872</size>
+                    <file_name>Track_051.mp3</file_name>
+                    <checksum type="md5">fbbd96b53e322dc84b75bc1f1f2f390e</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211485-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211485</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10171184</size>
+                    <file_name>Track_052.mp3</file_name>
+                    <checksum type="md5">78dc7756af609d6be1281cce14fe174d</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211486-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211486</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_053</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_053</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 053 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9928560</size>
+                    <file_name>Track_053.mp3</file_name>
+                    <checksum type="md5">b6f8b9c96a1ea672b0ad5fee7d1aa56f</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 053</title>
+                <track_number>53</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_053</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211487-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211487</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_054</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_054</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 054 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9337360</size>
+                    <file_name>Track_054.mp3</file_name>
+                    <checksum type="md5">021fe708c0bc18dbbc911ba6f8913a43</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 054</title>
+                <track_number>54</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_054</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211488-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211488</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_055</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_055</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 055 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8982512</size>
+                    <file_name>Track_055.mp3</file_name>
+                    <checksum type="md5">70a54fade5d1d5120de845276c305780</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 055</title>
+                <track_number>55</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_055</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211489-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211489</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_056</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_056</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 056 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9166832</size>
+                    <file_name>Track_056.mp3</file_name>
+                    <checksum type="md5">75cc2f61beec286ec0ee9cfee5ccb6aa</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 056</title>
+                <track_number>56</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_056</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211490-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211490</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_057</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_057</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 057 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6511744</size>
+                    <file_name>Track_057.mp3</file_name>
+                    <checksum type="md5">4bf735c2329cdfff3297f5bcaf52fa15</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 057</title>
+                <track_number>57</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_057</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211491-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211491</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_058</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_058</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 058 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7675968</size>
+                    <file_name>Track_058.mp3</file_name>
+                    <checksum type="md5">6f5b0d6f18b44b07fd5168c05cfb67b6</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 058</title>
+                <track_number>58</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_058</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211492-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211492</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_059</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_059</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 059 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6718000</size>
+                    <file_name>Track_059.mp3</file_name>
+                    <checksum type="md5">160f3b4fee4b80132ca264f1a2ce3a68</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 059</title>
+                <track_number>59</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_059</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211493-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211493</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_060</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_060</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 060 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6237152</size>
+                    <file_name>Track_060.mp3</file_name>
+                    <checksum type="md5">82e24940365d7c344fb9d91029b3a2ae</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 060</title>
+                <track_number>60</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_060</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436211494-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436211494</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230736610_061</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230736610_061</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 72901668-->
+                        <apple_id>72901668</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">72901668</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Roger Allam</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Roger Allam</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 061 - Paths of Glory</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8761200</size>
+                    <file_name>Track_061.mp3</file_name>
+                    <checksum type="md5">d90a6bf38d9bfb63134c406e6432313f</checksum>
+                </audio_file>
+                <title>Paths of Glory Track 061</title>
+                <track_number>61</track_number>
+                <vendor_offer_code>9780230736610_9780230736610_061</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230736610</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,2238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:39:12 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537249152436-169cf4b49ab299bae6db7645e6ab0390a89540ce3002a11e73bb75b61565c821</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:45:59 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435426735-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435426735</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447288206</vendor_id>
+        <title>Golden Age</title>
+        <artwork_files>
+            <file>
+                <size>3706081</size>
+                <file_name>9781447288206.jpg</file_name>
+                <checksum type="md5">68bc11b0cd42595d3af0a29d255d5e2c</checksum>
+            </file>
+        </artwork_files>
+        <description>Golden Age is the third novel in the dazzling Last Hundred Years Trilogy from Jane Smiley, winner of the Pulitzer Prize. 1987. A visit from a long-lost relative brings the Langdons together again on the family farm; a place almost unrecognizable from the remote Iowan farmland Walter and Rosanna once owned. Whilst a few have stayed, most have spread wide across the US, but all are facing social, economic and political challenges unlike anything their ancestors encountered. Richie Langdon, finally out from under his twin brother's shadow, finds himself running for congress almost unintentionally, and completely underprepared for the world-changing decisions he will have to make. Charlie, the charmer, recently found, struggles to find his way. Jesse's son, Guthrie, set to take over the family farm, is deployed to Iraq, leaving it in the hands of his younger sister, Felicity, who must defend the land from more than just the extremes of climate change. Moving through the 1990s, to our own moment and beyond, this last instalment sees the final repercussions of time on the Langdon family. After a hundred years of personal change and US history, filled with words unsaid and moments lost, Golden Age brings to a magnificent conclusion the century-long portrait of one unforgettable family.</description>
+        <track_count>33</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2015-10-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/golden-age/id1435426735?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2015-10-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2769456-->
+                <apple_id>2769456</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2769456</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Jane Smiley</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2023405-->
+                <apple_id>2023405</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2023405</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Lorelei King</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>蘿拉.金恩</artist_name>
+                    </locale>
+                    <locale name="ko-KR">
+                        <artist_name>로렐레이 킹</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萝拉.金恩</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435426737-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426737</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>248300224</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">6031520457b92f000af4abc650ca2c87</checksum>
+                </audio_file>
+                <title>Golden Age Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426738-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426738</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>171882496</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">f1b007b30d1ae3f381f6b64460b110b6</checksum>
+                </audio_file>
+                <title>Golden Age Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426739-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426739</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>157412208</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">1d359d257a431c08f29fcf1fb5119136</checksum>
+                </audio_file>
+                <title>Golden Age Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426740-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426740</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>143067456</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">9c5b3ed6a214d7bfa5dac47d984b948b</checksum>
+                </audio_file>
+                <title>Golden Age Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426741-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426741</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>164577984</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">c4e7da3acb0510afdf0a5980bb934919</checksum>
+                </audio_file>
+                <title>Golden Age Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426742-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426742</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>187828912</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">51db00765053d9dd3bae3e214daded83</checksum>
+                </audio_file>
+                <title>Golden Age Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426743-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426743</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>194710000</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">347fba9687291a58f0d6b39b54aa0948</checksum>
+                </audio_file>
+                <title>Golden Age Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426744-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426744</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>165091168</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">1e79614bb7083fe2dfda7143664005b8</checksum>
+                </audio_file>
+                <title>Golden Age Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426745-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426745</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>196405504</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">4c08dc23b0c96f6005980d4aa3cf251c</checksum>
+                </audio_file>
+                <title>Golden Age Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426746-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426746</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>183832240</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">4982322d089cc8f715685ea9d6a9941b</checksum>
+                </audio_file>
+                <title>Golden Age Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426747-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426747</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170937376</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">9239c8233788006b95cc45264db55659</checksum>
+                </audio_file>
+                <title>Golden Age Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426748-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426748</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>156356896</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">7b310c1946d42d35b5da145c2386429d</checksum>
+                </audio_file>
+                <title>Golden Age Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426749-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426749</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>153022464</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">3fd80cb8a4705b20e57b0fa555af7161</checksum>
+                </audio_file>
+                <title>Golden Age Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426750-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426750</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>195036928</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">ddae1838fa252ece78857d27cb38d8c4</checksum>
+                </audio_file>
+                <title>Golden Age Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426901-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426901</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>168196640</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">fd297411837c8d0963a5c2d8bb36251e</checksum>
+                </audio_file>
+                <title>Golden Age Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426902-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426902</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>168345920</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">7805d18e05dbc75fbd1aeb342a4f86ab</checksum>
+                </audio_file>
+                <title>Golden Age Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426903-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426903</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>156841712</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">6b92aa4477cd582a48c8acc770ae0c55</checksum>
+                </audio_file>
+                <title>Golden Age Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426904-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426904</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170847648</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">af899f5cb5e4c8f787a5bf7e9d66f3f7</checksum>
+                </audio_file>
+                <title>Golden Age Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426905-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426905</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>165693472</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">a49c37e2db7a580ee536cc437863265a</checksum>
+                </audio_file>
+                <title>Golden Age Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426906-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426906</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>159133456</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">23e73c07ea2f18fb219393f6ab1c0623</checksum>
+                </audio_file>
+                <title>Golden Age Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426907-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426907</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>204096544</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">9de650a6d8f0d9180a0f3e977cffb6cc</checksum>
+                </audio_file>
+                <title>Golden Age Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426908-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426908</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>175371984</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">5ff311199c6f3d2f0d729a1524e53934</checksum>
+                </audio_file>
+                <title>Golden Age Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426909-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426909</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>203476240</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">a2b79f0616d832d953d3931855261805</checksum>
+                </audio_file>
+                <title>Golden Age Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426910-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426910</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>168216000</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">a430ec1fb60e69326f692d0fc05069e2</checksum>
+                </audio_file>
+                <title>Golden Age Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426911-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426911</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170944000</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">cc20cad6453350b228e504e17fe007ba</checksum>
+                </audio_file>
+                <title>Golden Age Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426912-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426912</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>139814304</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">5ef47e5880eb5d9564d4d6eb91f7bf6b</checksum>
+                </audio_file>
+                <title>Golden Age Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426913-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426913</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>179086096</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">13d2bfd8f4e6335af98c1fa0623e7245</checksum>
+                </audio_file>
+                <title>Golden Age Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426914-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426914</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>158649088</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">e8a7e2af259ff73d4d8c733ccbf55651</checksum>
+                </audio_file>
+                <title>Golden Age Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426915-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426915</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163884112</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">f2e1020bbddf95c3ff2d102f21cc96d2</checksum>
+                </audio_file>
+                <title>Golden Age Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426916-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426916</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>229186000</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">1f876470019c5ebb8bbacbc0aab61d85</checksum>
+                </audio_file>
+                <title>Golden Age Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426917-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426917</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>168810576</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">7485b456262cb0a54f7295d2a131111e</checksum>
+                </audio_file>
+                <title>Golden Age Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426918-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426918</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>167477504</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">e5917dec10b416081d0e808fe33f58f2</checksum>
+                </audio_file>
+                <title>Golden Age Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435426919-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435426919</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288206_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288206_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2769456-->
+                        <apple_id>2769456</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2769456</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jane Smiley</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2023405-->
+                        <apple_id>2023405</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2023405</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Lorelei King</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>蘿拉.金恩</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>로렐레이 킹</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萝拉.金恩</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Golden Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>159134432</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">0aa28408c1daf117177cad54f61c9206</checksum>
+                </audio_file>
+                <title>Golden Age Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781447288206_9781447288206_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447288206</vendor_offer_code>
+    </album>
+</package>

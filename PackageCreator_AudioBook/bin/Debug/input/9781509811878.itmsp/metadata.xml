@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:49:10 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253350805-d0315f67435496e825d767afcb97dc597fc8fb2c86d4a99058017aa0852c8359</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435364723-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435364723</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509811878</vendor_id>
+        <title>Dare Not Linger</title>
+        <artwork_files>
+            <file>
+                <size>2473720</size>
+                <file_name>9781509811878.jpg</file_name>
+                <checksum type="md5">6924c90cdf83bce375bfff36f0b99d5e</checksum>
+            </file>
+        </artwork_files>
+        <description>‘I have discovered the secret that after climbing a great hill, one only finds that there are many more hills to climb. I have taken a moment here to rest . . . But I can only rest for a moment, for with freedom comes responsibilities, and I dare not linger, for my long walk is not ended.’ Long Walk to Freedom In 1994, Nelson Mandela became the first president of democratic South Africa. Five years later, he stood down. In that time, he and his government wrought the most extraordinary transformation, turning a nation riven by centuries of colonialism and apartheid into a fully functioning democracy in which all South Africa’s citizens, black and white, were equal before the law. Dare Not Linger is the story of Mandela’s presidential years, drawing heavily on the memoir he began to write as he prepared to finish his term of office, but was unable to finish. Now, the acclaimed South African writer, Mandla Langa, has completed the task using Mandela’s unfinished draft and a wealth of previously unseen archival material. With a prologue by Mandela's widow, Graça Machel, the result is a vivid and inspirational account that tells the extraordinary story of the transition from decades of apartheid rule and the challenges Mandela overcame to make a reality of his cherished vision for a liberated South Africa.</description>
+        <track_count>17</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-10-19</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>28</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/dare-not-linger/id1435364723?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-10-19</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="BIOGRAPHY-MEMOIR-00">Biography &amp; Memoir</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 39946432-->
+                <apple_id>39946432</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">39946432</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Nelson Mandela</artist_name>
+                <locales>
+                    <locale name="cmn-Hans">
+                        <phonetic_name>Nelson Mandela</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1214284669-->
+                <apple_id>1214284669</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1214284669</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Mandla Langa</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 163472489-->
+                <apple_id>163472489</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">163472489</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Adrian Lester</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435364729-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364729</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35255040</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">52765e7a0b1b1b605f593309cb4df683</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364730-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364730</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>89080592</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">c245e9641a4ba30a9f7a32e1cd549375</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364731-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364731</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>172936928</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">8bac0aafee2ea0982b407c6b84b27395</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364732-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364732</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>321218752</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">39cb833b245d9cf03b993190ee3b6ef3</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364733-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364733</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>355756576</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">2a6a0918b78a9c1c946989b2c49dcbad</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364734-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364734</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>343235408</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">d8a3b6a4f5ed010e42a4c2101d04f901</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364735-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364735</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>467722720</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">ca3a4a9bbab921fb86c6ba8fadb29ea9</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364736-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364736</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>252968336</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">12a15a6f0d677df18d17bf37cfbd4bde</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364737-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364737</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>195526784</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f114da6050bea6e97d7c92f2d7fdef68</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364738-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364738</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>310607296</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">9892d5e7fe034340aa85d51c4e5ea9d3</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364739-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364739</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>485367792</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">919323c21caef363ec2ef18b8ebb88ea</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364740-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364740</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>319899248</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">35ad4c4ec0319bcbd9061929b903dfd0</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364891-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364891</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>399287392</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">ea24ce5fdc5170136a548e7ceb7f50bd</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364892-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364892</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151715840</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">3a97abf6c66ce7c1c1e1beb3bf154bd8</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364893-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364893</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>238742240</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">715277f9eaad76df8a37b2e84a482eef</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364894-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364894</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96408720</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">f8abbf2b54511538f84943e72a450617</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435364895-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435364895</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509811878_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509811878_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 39946432-->
+                        <apple_id>39946432</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">39946432</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Nelson Mandela</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Nelson Mandela</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1214284669-->
+                        <apple_id>1214284669</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1214284669</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mandla Langa</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 163472489-->
+                        <apple_id>163472489</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">163472489</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Adrian Lester</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Dare Not Linger</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11828480</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">c6d1153b69e76b3e7646a9ad374cbec5</checksum>
+                </audio_file>
+                <title>Dare Not Linger Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509811878_9781509811878_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509811878</vendor_offer_code>
+    </album>
+</package>

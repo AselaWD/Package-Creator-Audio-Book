@@ -1,0 +1,3019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:23:13 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537255393932-90e5a765ce1a76bdb125667883fb054c9b54a57ebef5312fcaa98b1b2e45e1e7</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436195429-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436195429</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230528437</vendor_id>
+        <title>Bridget Jones's Diary (Abridged)</title>
+        <artwork_files>
+            <file>
+                <size>801028</size>
+                <file_name>9780230528437.jpg</file_name>
+                <checksum type="md5">f5a6ec5d7e7ba3d80da2237799114a55</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;A dazzlingly urban satire on modern relationships?&lt;br&gt;An ironic, tragic insight into the demise of the nuclear family?&lt;br&gt;Or the confused ramblings of a pissed thirty-something?&lt;/p&gt;&lt;p&gt;As Bridget documents her struggles through the social minefield of her thirties and tries to weigh up the eternal question (Daniel Cleaver or Mark Darcy?), she turns for support to four indispensable friends: Shazzer, Jude, Tom and a bottle of Chardonnay.&lt;/p&gt;&lt;p&gt;Welcome to Bridget's first diary: mercilessly funny, endlessly touching and utterly addictive.&lt;/p&gt;&lt;p&gt;Helen Fielding's first Bridget Jones novel, &lt;i&gt;Bridget Jones's Diary&lt;/i&gt;, sparked a phenomenon that has seen three books, newspaper columns and the smash-hit film series &lt;i&gt;Bridget Jones' Diary, Bridget Jones: The Edge of Reason &lt;/i&gt;and &lt;i&gt;Bridget Jones's Baby&lt;/i&gt;.&lt;/p&gt;</description>
+        <track_count>43</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2006-11-17</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/bridget-joness-diary-abridged/id1436195429?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2006-11-17</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2082069-->
+                <apple_id>2082069</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2082069</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Helen Fielding</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>海倫·菲爾丁</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>헬렌 필딩</artist_name>
+                    </locale>
+                    <locale name="ja">
+                        <artist_name>ヘレン・フィールディング</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>海伦·费尔丁</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2082073-->
+                <apple_id>2082073</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2082073</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Tracie Bennett</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436195473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8499776</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">2be919e6c06630b05e3483d80950e669</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6812048</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">9f3b101b1e6ff28d805272edd7ab2946</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5987632</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">74927eeb47635e583de96391f382056a</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5571968</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">1949e241d02a7ee4c7e3938c512ad39c</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4276080</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">7b5d8fedc7f2de003a45a7e310e37a52</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195480-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195480</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14235632</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">da762f02b9ab0ac0b61f801ee5d8ef0d</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195481-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195481</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6139968</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">48f8a225d201f2a2f0dacf93aa478f89</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195482-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195482</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8507920</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">509781e20c650a4effc34e8804a414db</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195483-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195483</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>2404048</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">5ac56c069cf203a3e244beda786171be</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195484-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195484</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5247840</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">a307ad57f1cdab2839c8acaa4689c55b</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195485-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195485</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5931824</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">12a39233938876bd47de678c73717c70</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195486-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195486</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5523696</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">402115d7466702cd1208121e6a264418</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195487-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195487</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6044048</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">15514985e8433ba72ae50e4a28a12aca</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195488-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195488</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4355712</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">4daf75390e25dc17228f2334f9e9cbcd</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195489-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195489</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6735568</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">8e9e80c8f29f005d6df979787091b708</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195490-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195490</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9783744</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">6435ec382efd0a0571c76757609279cd</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195491-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195491</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4091760</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">01ed05b9f49c9f1831ea664f949e2e0b</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195492-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195492</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6435888</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">cbf8a27cd88b1509ab55b50b2c94ed76</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195493-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195493</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6963776</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">b8c90e39fdcbc643791789275cf84de8</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195494-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195494</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5644064</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">0b8b03e9f0a6033fb96095d2000278eb</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195495-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195495</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4545664</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">e6fb4aaa258952164842a452c12f4252</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195496-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195496</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6835872</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">23d8a1799887685dc0dc792b7900d8eb</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195497-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195497</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7283504</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">bd82e4b0ce75898f2b0794af7f00e537</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195498-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195498</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4923712</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">36ba102c2c8fd489881a6687ee185c6b</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195499-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195499</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6076032</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">99d3630f6a2e7adb8c2b84a61f20e7d9</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195500-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195500</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11667696</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">df554475d89585f94048711251f2a38a</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195501-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195501</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5883552</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">e7de12904045ae378517991f72488400</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195502-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195502</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9003824</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">90b73658fc8e5af578df0a113c9867f9</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195503-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195503</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6259728</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">40a8dde09cca24625721de957856c7fa</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195504-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195504</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6676000</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">3ab52c7d36275528bbab15ec48452436</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195505-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195505</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4835936</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">eebe69ae57ce3b210fb159006b468476</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195506-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195506</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6219600</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">255e75e1efe371ea13de6607cd807077</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195507-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195507</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9403824</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">640ca2d08125747360102cb7ccce945b</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195508-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195508</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8331760</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">3e57becb7b9b2facf732290947445392</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195509-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195509</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5451600</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">56659023d63f166a2f5ae1c2a152d6e7</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195510-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195510</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5508016</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">5c011c5237f22a436399f7488fe18cbb</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195511-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195511</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5451600</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">2d3d509c1db8ca5a365f5b01c39e0dbd</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195512-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195512</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5451600</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">6e39bdb08bb59b2ed434ab031bacf761</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195513-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195513</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5947504</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">acdf1cd70efa21b9ef06168c2c90c4b9</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195514-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195514</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9195680</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">ea038292c31f7677059647b6e8abcfcd</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195515-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195515</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7403888</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">3dcc7a836e41bfcaaefaa707a8052d1c</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195516-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195516</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6691680</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">260db124a6231ea961b872d5963d9455</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436195517-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436195517</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230528437_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230528437_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2082069-->
+                        <apple_id>2082069</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082069</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Fielding</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>海倫·菲爾丁</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>헬렌 필딩</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>ヘレン・フィールディング</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>海伦·费尔丁</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2082073-->
+                        <apple_id>2082073</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2082073</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Tracie Bennett</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Bridget Jones's Diary</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5150672</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">17f8378a36bcf95718427be99bfab334</checksum>
+                </audio_file>
+                <title>Bridget Jones's Diary Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9780230528437_9780230528437_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230528437</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:54:54 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260894399-f957526f16e7c088502eccc5bc99cd1d3b3db418734419349e06b870b960af4a</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435334535-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435334535</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509888924</vendor_id>
+        <title>The Folding Star</title>
+        <artwork_files>
+            <file>
+                <size>2800935</size>
+                <file_name>9781509888924.jpg</file_name>
+                <checksum type="md5">33299afff8ed5d430fa217c3dbcaf378</checksum>
+            </file>
+        </artwork_files>
+        <description>Shortlisted for the 1994 Booker Prize Edward Manners - thirty three and disaffected - escapes to a Flemish city in search of a new life. Almost at once he falls in love with seventeen-year-old Luc, and is introduced to the twilight world of the 1890s Belgian painter Edgard Orst. 'As is typical of the best classics, he has fashioned a universal tale of sexual obsession, love and death out of a particular life' Marie Claire 'An extraordinary book which takes the reader into a world of obsession and mystery...The Folding Star is lit by insight and humour' Evening Standard</description>
+        <track_count>27</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-06-28</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-folding-star/id1435334535?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-06-28</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 193287518-->
+                <apple_id>193287518</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">193287518</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Alan Hollinghurst</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 80625338-->
+                <apple_id>80625338</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">80625338</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Samuel West</artist_name>
+                <locales>
+                    <locale name="no">
+                        <artist_name>Hanne Dieserud</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>사무엘 웨스트</artist_name>
+                    </locale>
+                    <locale name="cmn-Hant">
+                        <artist_name>山繆.韋斯特</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萨缪尔·韦斯特</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435334543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>733392</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">de796acd1759419d7c48c82b395f7420</checksum>
+                </audio_file>
+                <title>The Folding Star Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334544-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334544</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4176832</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">d2df0a8ac84013430141dab955280065</checksum>
+                </audio_file>
+                <title>The Folding Star Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334545-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334545</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>307844256</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">ff776cbe51e1cacd9f9838312f82b312</checksum>
+                </audio_file>
+                <title>The Folding Star Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334546-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334546</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>186740656</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">9dad08f79a71e1f06d5e8b397fe4807b</checksum>
+                </audio_file>
+                <title>The Folding Star Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334547-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334547</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>244852288</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">4cf0816e782e211da891ec7cdef3aa04</checksum>
+                </audio_file>
+                <title>The Folding Star Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334548-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334548</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85710112</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">4df7f8fc1ecf750b15d4c3dba74efcfe</checksum>
+                </audio_file>
+                <title>The Folding Star Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334549-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334549</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>261334320</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">10e7273f51d63d41ed278bbe0537dd08</checksum>
+                </audio_file>
+                <title>The Folding Star Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334550-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334550</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>126669872</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">3758b5e739460fc69369aa294d9aa0cc</checksum>
+                </audio_file>
+                <title>The Folding Star Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334551-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334551</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75201248</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">6325ffb2757790d99fb2025f14f1814b</checksum>
+                </audio_file>
+                <title>The Folding Star Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334552-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334552</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>193518160</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">2eafef168e98963fe2e12c301dfc7464</checksum>
+                </audio_file>
+                <title>The Folding Star Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334553-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334553</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>109500736</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">2a57820d28df8371596564dddf9a1d4f</checksum>
+                </audio_file>
+                <title>The Folding Star Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334554-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334554</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131672832</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">a2a2921a1d032a14ae7cff7580be109a</checksum>
+                </audio_file>
+                <title>The Folding Star Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334555-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334555</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121685936</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">de576d0b1920fbb5c8b7731b88238cd3</checksum>
+                </audio_file>
+                <title>The Folding Star Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334556-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334556</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>307966432</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">ca72d538a652be30bbce1ff7cd49d136</checksum>
+                </audio_file>
+                <title>The Folding Star Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334557-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334557</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>161606608</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">971596e94d6cc428475f253b94c4ca3d</checksum>
+                </audio_file>
+                <title>The Folding Star Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334558-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334558</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>349365552</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">c7b75197147713c4eb199647565674ff</checksum>
+                </audio_file>
+                <title>The Folding Star Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334559-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334559</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>325942256</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">841b69158b612742e4f14deb12aae989</checksum>
+                </audio_file>
+                <title>The Folding Star Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334560-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334560</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>221216288</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">a3ead7e10d0a3543fe126e2cb8634dcc</checksum>
+                </audio_file>
+                <title>The Folding Star Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334681-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334681</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184783408</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">8e9bd346bcb00fbb3216e94bff05657a</checksum>
+                </audio_file>
+                <title>The Folding Star Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334682-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334682</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>466628896</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">b612b34a0acd3c3ab3a09d2262ccd4a8</checksum>
+                </audio_file>
+                <title>The Folding Star Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334683-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334683</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>368593696</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">3a5badfd75643c3f5c60226a2f953509</checksum>
+                </audio_file>
+                <title>The Folding Star Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334684-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334684</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151882928</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">ad7e58636edbdf9852126fb510dfefad</checksum>
+                </audio_file>
+                <title>The Folding Star Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334685-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334685</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>356033120</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">78c1430eca0599873dff30ea9e727878</checksum>
+                </audio_file>
+                <title>The Folding Star Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334686-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334686</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>286601072</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">5f9f1ba39aa96c1fbc46d3365b185f37</checksum>
+                </audio_file>
+                <title>The Folding Star Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334687-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334687</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>196083312</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">ed58ec09548d52b8de6d0ce256053caf</checksum>
+                </audio_file>
+                <title>The Folding Star Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334688-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334688</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85569136</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">4df5fc97e0866073ab95393d27195a06</checksum>
+                </audio_file>
+                <title>The Folding Star Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435334689-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435334689</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888924_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888924_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Folding Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4933200</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">0ded677c2b89473af87141dc1596cc12</checksum>
+                </audio_file>
+                <title>The Folding Star Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509888924_9781509888924_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509888924</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:29:27 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537248567145-4de8d13a8ea40a534658ddf88cc443c8fc7a158f74dfde8951a81a0c34024989</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435351053-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435351053</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509838288</vendor_id>
+        <title>The Fix</title>
+        <artwork_files>
+            <file>
+                <size>2291808</size>
+                <file_name>9781509838288.jpg</file_name>
+                <checksum type="md5">e27035d6e6d0891fddc7c15ea2d59f37</checksum>
+            </file>
+        </artwork_files>
+        <description>Amos Decker, David Baldacci's unique special agent, who suffered a head injury that resulted in giving him the gift of a remarkable memory takes on another case in The Fix. Walter Dabney is a family man. A loving husband and the father of four grown daughters, he’s built a life many would be proud of. But then the unthinkable happens. Standing outside the FBI Headquarters in Washington, DC, Dabney shoots school teacher Anne Berkshire in cold blood before turning the gun on himself. One of the many witnesses is Amos Decker; a man who forgets nothing and sees what most miss. Baffled by what appears to be a seemingly senseless and random killing, Decker is thrust into the investigation to determine what drove this family man to pull the trigger. As part of an FBI special task force, Decker and the team delve into the lives of Dabney and Berkshire to find a connection that doesn’t seem to exist. What they do find are secrets that stretch back a lifetime and reveal a current plot of impending destruction that will send the world reeling, placing Decker and his team squarely in the crosshairs.</description>
+        <track_count>12</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-04-20</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-fix/id1435351053?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-04-20</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2091351-->
+                <apple_id>2091351</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2091351</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>David Baldacci</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2025416-->
+                <apple_id>2025416</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2025416</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kyf Brewer</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 256940136-->
+                <apple_id>256940136</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">256940136</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Orlagh Cassidy</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435351057-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351057</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 01 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>633559808</size>
+                    <file_name>Track_01.wav</file_name>
+                    <checksum type="md5">81cc7f5200ae95ad5d95df4e1eb4f84f</checksum>
+                </audio_file>
+                <title>The Fix Track 01</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351058-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351058</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 02 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>653870624</size>
+                    <file_name>Track_02.wav</file_name>
+                    <checksum type="md5">2fa3ae4b49a3eb6b45cf1bf09338bb6f</checksum>
+                </audio_file>
+                <title>The Fix Track 02</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351059-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351059</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 03 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>668862240</size>
+                    <file_name>Track_03.wav</file_name>
+                    <checksum type="md5">85e03c3ab6a877bb21254033c2174eb1</checksum>
+                </audio_file>
+                <title>The Fix Track 03</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351060-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351060</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 04 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>685912624</size>
+                    <file_name>Track_04.wav</file_name>
+                    <checksum type="md5">2057d6f18b42cd057a7869d781feefda</checksum>
+                </audio_file>
+                <title>The Fix Track 04</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351481-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351481</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 05 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>711902544</size>
+                    <file_name>Track_05.wav</file_name>
+                    <checksum type="md5">92aa0938c04e27a63bf9f84b1211b9a1</checksum>
+                </audio_file>
+                <title>The Fix Track 05</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351482-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351482</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 06 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>690247232</size>
+                    <file_name>Track_06.wav</file_name>
+                    <checksum type="md5">2557933a0fb8546162dae15d6ff4eb8c</checksum>
+                </audio_file>
+                <title>The Fix Track 06</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351483-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351483</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 07 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>641894608</size>
+                    <file_name>Track_07.wav</file_name>
+                    <checksum type="md5">67a2b25645a00cafe59a1de3acd22123</checksum>
+                </audio_file>
+                <title>The Fix Track 07</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351484-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351484</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 08 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>689478288</size>
+                    <file_name>Track_08.wav</file_name>
+                    <checksum type="md5">620df6944c398ac0488d649d198dff7f</checksum>
+                </audio_file>
+                <title>The Fix Track 08</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351485-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351485</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 09 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>642313536</size>
+                    <file_name>Track_09.wav</file_name>
+                    <checksum type="md5">8916b732ecf3f4de9db49200fa3cd897</checksum>
+                </audio_file>
+                <title>The Fix Track 09</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351486-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351486</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 10 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>588795984</size>
+                    <file_name>Track_10.wav</file_name>
+                    <checksum type="md5">14bda1ce1f8afb7e7d6a8f1a9e989e17</checksum>
+                </audio_file>
+                <title>The Fix Track 10</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351487-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351487</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 11 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>551924192</size>
+                    <file_name>Track_11.wav</file_name>
+                    <checksum type="md5">db58d74424acda86f7fd8fedf7c0869e</checksum>
+                </audio_file>
+                <title>The Fix Track 11</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351489-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351489</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838288_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838288_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 12 - The Fix</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>454429920</size>
+                    <file_name>Track_12.wav</file_name>
+                    <checksum type="md5">bc0734984099430bf217891da2611634</checksum>
+                </audio_file>
+                <title>The Fix Track 12</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509838288_9781509838288_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509838288</vendor_offer_code>
+    </album>
+</package>

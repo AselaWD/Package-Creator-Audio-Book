@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:26:35 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537248395239-49f97253a00588f89eb8054ac17b9d14f869773a9ac0ae3ae890f5e7f2f80cb8</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435401550-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435401550</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230737228</vendor_id>
+        <title>Chocolate Mousse for Greedy Goose</title>
+        <artwork_files>
+            <file>
+                <size>605764</size>
+                <file_name>9780230737228.jpg</file_name>
+                <checksum type="md5">2d508cab56070d9b0cab17d2c98ee8a3</checksum>
+            </file>
+        </artwork_files>
+        <description>"Chocolate mousse!" says greedy Goose. "Don't just grab it," says angry Rabbit. Good manners aren't on the menu at this meal. Duck won't eat his carrots. Moth's eating the cloth, and Sheep would rather sleep than wash the dishes. Thank goodness some of the animals know how to behave! Chocolate Mousse For Greedy Goose is a delicious dinnertable tale by the award-winning Julia Donaldson and is full of bright, fun illustrations from Nick Sharratt.</description>
+        <track_count>1</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2008-06-20</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/chocolate-mousse-for-greedy-goose/id1435401550?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2008-06-20</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 201229848-->
+                <apple_id>201229848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">201229848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Julia Donaldson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 290809183-->
+                <apple_id>290809183</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">290809183</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Michael Fenton-Stevens</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435402031-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435402031</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230737228_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230737228_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 290809183-->
+                        <apple_id>290809183</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">290809183</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Michael Fenton-Stevens</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Chocolate Mousse for Greedy Goose</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5798928</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">affacb2d01307b89e97da7d1ea446add</checksum>
+                </audio_file>
+                <title>Chocolate Mousse for Greedy Goose Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230737228_9780230737228_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230737228</vendor_offer_code>
+    </album>
+</package>

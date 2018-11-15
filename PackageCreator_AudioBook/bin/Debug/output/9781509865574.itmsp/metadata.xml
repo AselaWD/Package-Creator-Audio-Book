@@ -1,0 +1,970 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 17, 2018 11:25:06 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537251906606-b2db824ef4f37cf80483bbbd8cca557264071bce797653400fc068c169773af3</metadata_token>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435421503-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435421503</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509865574</vendor_id>
+    <title>The 13-Storey Treehouse</title>
+    <artwork_files>
+      <file>
+        <size>5206234</size>
+        <file_name>9781509865574.jpg</file_name>
+        <checksum type="md5">c4891c98ed709e13f396231dfc70cb39</checksum>
+      </file>
+    </artwork_files>
+    <description>Andy and Terry live in the WORLD'S BEST treehouse! It's got a giant catapult, a secret underground laboratory, a tank of man-eating sharks and a marshmallow machine that follows you around and shoots marshmallows into your mouth whenever you're hungry! Just watch out for the sea monkeys, and the monkeys pretending to be sea monkeys, and the giant mutant mermaid sea monster . . . Oh, and, whatever you do, don't get trapped in a burp-gas-filled bubble . . . ! Andy Griffiths and Terry Denton's fantastically funny The 13-Storey Treehouse is read by Stig Wemyss, Australia's most loved narrator of audio books for children and young adults and has a running time of approximately 97 minutes.</description>
+    <track_count>13</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>14</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-13-storey-treehouse/id1435421503?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>18</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>19</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>15</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>20</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2017-03-23</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 6603926-->
+        <apple_id>6603926</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">6603926</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Andy Griffiths</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 160736538-->
+        <apple_id>160736538</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">160736538</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Stig Wemyss</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435421510-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421510</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>21188208</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">d360f6066375c7876464cbf3625231c9</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421511-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421511</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>12029744</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">684d0000ca2414edb078455fea45583f</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421512-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421512</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>21610592</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">099198bf61bc9084a162f47afc61f180</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421513-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421513</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>28176448</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">27ca2f95d0ebb90f464da3ca51707a50</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421514-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421514</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>43369408</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">77c84dbcf0de47238beaf1aa1cdd113f</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421515-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421515</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>13882960</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">72dde71827f1cbff0abf0631f8c49995</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421516-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421516</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>145020432</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">1cad00fb0ede37f4e38e62a2d71810d3</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421517-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421517</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>53338128</size>
+          <file_name>Track_008.wav</file_name>
+          <checksum type="md5">00fdaa3e74812e674ca4ca24755c8fe0</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421518-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421518</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>24946000</size>
+          <file_name>Track_009.wav</file_name>
+          <checksum type="md5">3dcbf1192932da9e282bf695e7115747</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421519-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421519</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>51966496</size>
+          <file_name>Track_010.wav</file_name>
+          <checksum type="md5">ff8dce82bb1f12f88753879d43ca3729</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421520-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421520</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>40633616</size>
+          <file_name>Track_011.wav</file_name>
+          <checksum type="md5">2dfce6461b4951e1496fd55052b02e31</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421521-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421521</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>22892288</size>
+          <file_name>Track_012.wav</file_name>
+          <checksum type="md5">ae6afa8541d162deb824e1cc85ce7b13</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435421522-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435421522</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865574_013</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865574_013</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 013 - The 13-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>54060976</size>
+          <file_name>Track_013.wav</file_name>
+          <checksum type="md5">c99c77c1005783c4ca687af14ce3c31a</checksum>
+        </audio_file>
+        <title>The 13-Storey Treehouse Track 013</title>
+        <track_number>13</track_number>
+        <vendor_offer_code>9781509865574_9781509865574_013</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9781509865574</vendor_offer_code>
+  </album>
+</package>

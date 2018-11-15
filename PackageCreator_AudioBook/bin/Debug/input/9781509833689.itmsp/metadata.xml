@@ -1,0 +1,2867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:05:16 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537254316225-27ce8a9ac1d966ed17d34cb8843b4d5e37ba20b721a8c6278a0ed5469bedd95b</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435434321-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435434321</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509833689</vendor_id>
+        <title>Miss You</title>
+        <artwork_files>
+            <file>
+                <size>860999</size>
+                <file_name>9781509833689.jpg</file_name>
+                <checksum type="md5">fc018d19dbafac238fc9a91d20bd7bfb</checksum>
+            </file>
+        </artwork_files>
+        <description>Get to know Tess and Gus in Kate Eberlen's first novel, Miss You. Tess and Gus are meant to be. They just haven't met properly yet. And perhaps they never will . . . Today is the first day of the rest of your life is the motto on a plate in the kitchen at home, and Tess can't get it out of her head, even though she's in Florence for a final, idyllic holiday before university. Her life is about to change forever - but not in the way she expects. Gus and his parents are also on holiday in Florence. Their lives have already changed suddenly and dramatically. Gus tries to be a dutiful son, but longs to escape and discover what sort of person he is going to be. For one day, the paths of an eighteen-year-old girl and boy criss-cross before they each return to England. Over the course of the next sixteen years, life and love will offer them very different challenges. Separated by distance and fate, there's no way the two of them are ever going to meet each other properly . . . or is there?</description>
+        <track_count>39</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-08-11</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>28</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/miss-you/id1435434321?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-08-11</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1088768862-->
+                <apple_id>1088768862</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1088768862</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Kate Eberlen</artist_name>
+                <locales>
+                    <locale name="el">
+                        <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1034516333-->
+                <apple_id>1034516333</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1034516333</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Anna Acton</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 373144562-->
+                <apple_id>373144562</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">373144562</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Finlay Robertson</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435434324-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434324</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>862992</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">0a106174091940fed6dd55a7f0a18de3</checksum>
+                </audio_file>
+                <title>Miss You Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434325-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434325</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135541824</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">de6ce3ddf89d059c02c67d66190e2640</checksum>
+                </audio_file>
+                <title>Miss You Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434326-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434326</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>147868176</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">a7efdfd1905b462f3f3efb631a12ec77</checksum>
+                </audio_file>
+                <title>Miss You Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434327-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434327</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>149960000</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">035a003301cfc328fe16e7606696f0b8</checksum>
+                </audio_file>
+                <title>Miss You Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434328-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434328</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98536736</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">fc99f9ea23798f5945c394814beb90d8</checksum>
+                </audio_file>
+                <title>Miss You Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434329-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434329</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>113287600</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">2c4a9ed76de322fca5ed7180ffc35146</checksum>
+                </audio_file>
+                <title>Miss You Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434330-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434330</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163750832</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">beed1d8576b20ea8bc723fc77788e765</checksum>
+                </audio_file>
+                <title>Miss You Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434331-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434331</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136661712</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">31d85f4773c3edd7306feb6a98ab0946</checksum>
+                </audio_file>
+                <title>Miss You Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434332-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434332</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124264736</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">1fcaa196b1aa952e661a53e26dc85e31</checksum>
+                </audio_file>
+                <title>Miss You Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434333-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434333</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>132809728</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">be4d34c250accad45c3a18a1453c7b0e</checksum>
+                </audio_file>
+                <title>Miss You Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434334-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434334</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>206555872</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">3e96a00fcf85c8686a6f0b82cde08161</checksum>
+                </audio_file>
+                <title>Miss You Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434335-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434335</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94809952</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">1d86f5e66058e3874b895df16af67862</checksum>
+                </audio_file>
+                <title>Miss You Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434336-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434336</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>147837696</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">875b38dcdb3ac74042d269b1f9065af9</checksum>
+                </audio_file>
+                <title>Miss You Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434337-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434337</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>187580224</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">392eb575162eb87454633f3d4d18ef7c</checksum>
+                </audio_file>
+                <title>Miss You Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434338-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434338</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>130033152</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">37b7295c0afd0f3fb704fa3e27f42653</checksum>
+                </audio_file>
+                <title>Miss You Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434339-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434339</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>221276352</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">40ad637b23ee65dbfdd707c1d5785141</checksum>
+                </audio_file>
+                <title>Miss You Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434340-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434340</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>205160064</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">c1f9cb72c001ec44602bb04b8ad795ed</checksum>
+                </audio_file>
+                <title>Miss You Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434731-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434731</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98194432</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">129a4e1ca475b5d53cdcd36579c8be0c</checksum>
+                </audio_file>
+                <title>Miss You Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434732-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434732</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>169783456</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">33245fe12cc3c431b0a3b7e3557cc7c8</checksum>
+                </audio_file>
+                <title>Miss You Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434733-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434733</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111298944</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">19671077253b7d46dc623e91f2a6ea31</checksum>
+                </audio_file>
+                <title>Miss You Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434734-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434734</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151602544</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">14e21cb5d2c99677b8bc9e0b109874ad</checksum>
+                </audio_file>
+                <title>Miss You Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434735-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434735</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>126489280</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">f89a632e9e9d551f54c974d34738b735</checksum>
+                </audio_file>
+                <title>Miss You Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434736-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434736</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>172412304</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">8ee7310c84d97bea29b4186b3f7c76e8</checksum>
+                </audio_file>
+                <title>Miss You Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434737-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434737</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151066768</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">8e5a560b3a6502b343bb0158168a2ea1</checksum>
+                </audio_file>
+                <title>Miss You Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434738-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434738</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>159531904</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">dc05c9f6428bfcee48323d2a00f1ad37</checksum>
+                </audio_file>
+                <title>Miss You Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434739-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434739</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>242634880</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">75986cc5dc9eb3a5decf4ed41784c540</checksum>
+                </audio_file>
+                <title>Miss You Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434740-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434740</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33734880</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">a54a640ca647387b090dcd582cc4f2c5</checksum>
+                </audio_file>
+                <title>Miss You Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434741-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434741</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31632208</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">c165ca0fde0d7802d32f7addf9c89d63</checksum>
+                </audio_file>
+                <title>Miss You Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434742-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434742</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53566256</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">65ab17fd3dcdf66e9bf306dae3d69209</checksum>
+                </audio_file>
+                <title>Miss You Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434743-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434743</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7354832</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">037e5019cc1df617ad694373d4876add</checksum>
+                </audio_file>
+                <title>Miss You Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434744-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434744</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9625360</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">4c5bc670f9ff7679bcfcb766a593d2fc</checksum>
+                </audio_file>
+                <title>Miss You Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434745-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434745</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13599168</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">26fe05c398d4ea3e8ac7d62f6a74fb43</checksum>
+                </audio_file>
+                <title>Miss You Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434746-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434746</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20018416</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">16a5f527f7fb83aa7f77af275b28c614</checksum>
+                </audio_file>
+                <title>Miss You Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434747-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434747</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122749136</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">656f841e331d36227c5278aaa0f96779</checksum>
+                </audio_file>
+                <title>Miss You Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434748-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434748</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>50411920</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">74757a5663ffbaf149200f9313006a1b</checksum>
+                </audio_file>
+                <title>Miss You Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434749-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434749</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>52726848</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">e56eabbc1def3012fbce56e8f81bf515</checksum>
+                </audio_file>
+                <title>Miss You Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434750-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434750</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40434544</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">443eee5b4d00e3429793b654224c27e7</checksum>
+                </audio_file>
+                <title>Miss You Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434751-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434751</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4024800</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">04a1c053165dea0dcc0b0412a8953e7f</checksum>
+                </audio_file>
+                <title>Miss You Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435434752-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435434752</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509833689_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509833689_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1088768862-->
+                        <apple_id>1088768862</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1088768862</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kate Eberlen</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Κεϊτ Εμπερλεν</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1034516333-->
+                        <apple_id>1034516333</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1034516333</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Anna Acton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 373144562-->
+                        <apple_id>373144562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373144562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Finlay Robertson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Miss You</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4512128</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">7639ee0791c192b1e33b09ff6b9d341f</checksum>
+                </audio_file>
+                <title>Miss You Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509833689_9781509833689_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509833689</vendor_offer_code>
+    </album>
+</package>

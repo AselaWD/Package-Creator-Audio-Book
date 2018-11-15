@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:17:23 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537262243713-6e2e8448f46daee9ac91b9f82cef63b59e1df7635f3602a16e2ddc7f9eea7dc6</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435355282-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435355282</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509843398</vendor_id>
+        <title>The Names</title>
+        <artwork_files>
+            <file>
+                <size>446596</size>
+                <file_name>9781509843398.jpg</file_name>
+                <checksum type="md5">ded64cb3c10feb673b50e1adb7ff01ea</checksum>
+            </file>
+        </artwork_files>
+        <description>Don DeLillo's seventh novel is an exotic thriller. Set mostly in Greece, it concerns a mysterious 'language cult' seemingly behind a number of unexplained murders. Obsessed by news of this ritualistic violence, an American risk analyst is drawn to search for an explanation. We follow his progress on an obsessive journey that begins to take over his life and the lives of those closest to him. In addition to offering a series of precise character studies, The Names explores the intersection of language and culture, the perception of America from both inside and outside its borders, and the impact that narration has on the facts of a story. Meditative and probing, DeLillo wonders: how does one cope with the fact that the act of articulation is simultaneously capable of defining and circumscriptively restricting access to the self?</description>
+        <track_count>16</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-09-28</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-names/id1435355282?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-09-28</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2072116-->
+                <apple_id>2072116</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2072116</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Don DeLillo</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 429675530-->
+                <apple_id>429675530</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">429675530</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Jacques Roy</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435355449-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355449</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>905248</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">003f2c2ade818b864507b48a9ffaa1b2</checksum>
+                </audio_file>
+                <title>The Names Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355450-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355450</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184638512</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">59a9d56cce7541e7e17bd18170d12427</checksum>
+                </audio_file>
+                <title>The Names Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355451-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355451</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>220880432</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">0cb56dd18752027540c668d5bbf87709</checksum>
+                </audio_file>
+                <title>The Names Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355452-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355452</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>399216048</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">97701024a0ea7622a579574f3dbd80bb</checksum>
+                </audio_file>
+                <title>The Names Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355453-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355453</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>382571568</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">c5bd5271c06ebb99b602bf0532f0cc26</checksum>
+                </audio_file>
+                <title>The Names Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355454-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355454</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>347988544</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">1b82894e728a691ff53545dfb550e0a1</checksum>
+                </audio_file>
+                <title>The Names Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355455-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355455</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>250070576</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">f00fd6add0826416abb09f1d76a6b8e9</checksum>
+                </audio_file>
+                <title>The Names Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355456-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355456</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>237999152</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">df6bda00717d3cef183c717bc4e50bd1</checksum>
+                </audio_file>
+                <title>The Names Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355457-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355457</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>290791664</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">1ecc5057d109e20f1077b32ad51e6003</checksum>
+                </audio_file>
+                <title>The Names Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355458-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355458</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>294989872</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">50c4fc5915d8f63695a832db8b0cac5e</checksum>
+                </audio_file>
+                <title>The Names Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355459-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355459</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>225951472</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">e0bc42463f0310134bbd9367121782ab</checksum>
+                </audio_file>
+                <title>The Names Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355460-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355460</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>222563504</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">42d17eed2ec4fae334ad4090ce620b9c</checksum>
+                </audio_file>
+                <title>The Names Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>453731792</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">7d561b226cd5ede7695078ef3aa0371b</checksum>
+                </audio_file>
+                <title>The Names Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>253308560</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">ad29e4214c006cd0c19cee4dce5f97e4</checksum>
+                </audio_file>
+                <title>The Names Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58647600</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">67d8213dad4123c3a1d5dae963584d40</checksum>
+                </audio_file>
+                <title>The Names Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435355464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435355464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843398_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843398_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Names</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1543264</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">1071f33dba9db67d358f0138d9acf9aa</checksum>
+                </audio_file>
+                <title>The Names Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509843398_9781509843398_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509843398</vendor_offer_code>
+    </album>
+</package>

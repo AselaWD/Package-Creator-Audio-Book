@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:33:07 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537263187030-621de54f10b5b673b55989683ba6fcbf1ebe199feffff9dc8be5a25fedc1f461</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435398686-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435398686</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509853359</vendor_id>
+        <title>The Christmas Truce</title>
+        <artwork_files>
+            <file>
+                <size>2497424</size>
+                <file_name>9781509853359.jpg</file_name>
+                <checksum type="md5">f9af5195d69118a14c44ccb304c2a246</checksum>
+            </file>
+        </artwork_files>
+        <description>Down at the Front, on a cold winter's night in 1914, amidst the worst war the world had ever seen, an inexplicable silence spread from man to man. Belief was in the air. Then the soldiers ceased fire and the magic of Christmas took hold . . . Carol Ann Duffy's brilliant poem celebrates the miraculous truce between the trenches, when enemy shook hands with enemy, shared songs, swapped gifts, even played football, and peace found a place in No Man's Land. With gorgeous colour illustrations by David Roberts, this special, full size edition of The Christmas Truce is a Christmas gift to treasure.</description>
+        <track_count>1</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-11-17</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-christmas-truce/id1435398686?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-11-17</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 202475525-->
+                <apple_id>202475525</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">202475525</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Carol Ann Duffy</artist_name>
+                <roles>
+                    <role>Author</role>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435398689-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435398689</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509853359_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509853359_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 202475525-->
+                        <apple_id>202475525</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">202475525</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Carol Ann Duffy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Christmas Truce</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68067776</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">70f6f0c3cf2929bec33d78df53e267ae</checksum>
+                </audio_file>
+                <title>The Christmas Truce Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509853359_9781509853359_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509853359</vendor_offer_code>
+    </album>
+</package>

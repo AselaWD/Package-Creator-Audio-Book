@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:17:08 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537255028815-734f73493dd949359906ed9e001d12d4a56164155fca2d0757e2a97d9e590f65</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435307539-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435307539</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230753396</vendor_id>
+        <title>What the Ladybird Heard</title>
+        <artwork_files>
+            <file>
+                <size>387220</size>
+                <file_name>9780230753396.jpg</file_name>
+                <checksum type="md5">d8186c0537242e5b4b6bdec1a46bca2d</checksum>
+            </file>
+        </artwork_files>
+        <description>The ladybird said never a word. But the ladybird saw, And the ladybird heard . . . Hefty Hugh and Lanky Len are two crafty robbers with a cunning plan to steal the farmer’s fine prize cow. But little do they know that the tiniest, quietest creature of all has overhead their plot, and she has a plan of her own . . . What the Ladybird Heard is a fantastically funny story from the stellar partnership of Julia Donaldson and Lydia Monks. With brilliant rhyming verse read fantastically by Alexander Armstrong, this much-loved modern classic is a perfect story for listening to together. Enjoy more stories from Julia Donaldson and Lydia Monks: Sharing a Shell, The Princess and the Wizard, The Rhyming Rabbit, The Singing Mermaid, Sugarlump and the Unicorn, Princess Mirror-Belle and the Dragon Pox, What the Ladybird Heard Next and What the Ladybird Heard on Holiday.</description>
+        <track_count>2</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2010-06-04</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/what-the-ladybird-heard/id1435307539?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2010-06-04</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 201229848-->
+                <apple_id>201229848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">201229848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Julia Donaldson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 290809615-->
+                <apple_id>290809615</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">290809615</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alexander Armstrong</artist_name>
+                <locales>
+                    <locale name="ja">
+                        <artist_name>アレクサンダー・アームストロング</artist_name>
+                        <phonetic_name>アレクサンダーアームストロング</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435307542-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435307542</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230753396_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230753396_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 290809615-->
+                        <apple_id>290809615</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">290809615</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alexander Armstrong</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>アレクサンダー・アームストロング</artist_name>
+                                <phonetic_name>アレクサンダーアームストロング</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - What the Ladybird Heard</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12152928</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">0cb68deea1275ad8ec5fd1d556807ed7</checksum>
+                </audio_file>
+                <title>What the Ladybird Heard Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230753396_9780230753396_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435307543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435307543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230753396_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230753396_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 290809615-->
+                        <apple_id>290809615</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">290809615</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alexander Armstrong</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>アレクサンダー・アームストロング</artist_name>
+                                <phonetic_name>アレクサンダーアームストロング</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - What the Ladybird Heard</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5142512</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">1e8908816e1b47c1efeb85518384b7d1</checksum>
+                </audio_file>
+                <title>What the Ladybird Heard Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230753396_9780230753396_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230753396</vendor_offer_code>
+    </album>
+</package>

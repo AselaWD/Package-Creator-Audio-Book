@@ -1,0 +1,3019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:29:18 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537259358548-9c419da9e5ed8f085afbc8c1ddf5f14003f0eca18621c711855d245406299d76</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435415171-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435415171</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509865321</vendor_id>
+        <title>The Riddle of the Third Mile</title>
+        <artwork_files>
+            <file>
+                <size>5433435</size>
+                <file_name>9781509865321.jpg</file_name>
+                <checksum type="md5">87d694f2916d6b69afec7cde156539a4</checksum>
+            </file>
+        </artwork_files>
+        <description>The Riddle of the Third Mile is the sixth novel in Colin Dexter's Oxford-set detective series. The thought suddenly occurred to Morse that this would be a marvellous time to murder a few of the doddery old bachelor dons. No wives to worry about their whereabouts; no landladies to whine about the unpaid rents. In fact nobody would miss most of them at all . . . By the 16th of July the Master of Lonsdale was concerned, but not yet worried. Dr Browne-Smith had passed through the porter's lodge at approximately 8.15 a.m. on the morning of Friday, 11th July. And nobody had heard from him since. Plenty of time to disappear, thought Morse. And plenty of time, too, for someone to commit murder . . . The Riddle of the Third Mile is followed by the seventh Inspector Morse book, The Secret of Annexe 3.</description>
+        <track_count>43</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-10-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-riddle-of-the-third-mile/id1435415171?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-10-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2633422-->
+                <apple_id>2633422</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2633422</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Colin Dexter</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 80625338-->
+                <apple_id>80625338</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">80625338</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Samuel West</artist_name>
+                <locales>
+                    <locale name="no">
+                        <artist_name>Hanne Dieserud</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>사무엘 웨스트</artist_name>
+                    </locale>
+                    <locale name="cmn-Hant">
+                        <artist_name>山繆.韋斯特</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萨缪尔·韦斯特</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435415183-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415183</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>736976</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">30977ddddaa71c890a3e758b0542fefb</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415184-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415184</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1039776</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">f31037a4579a578c7b6a3e48f97e14b5</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415185-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415185</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>56494128</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">fc4bb486d3a8a6d91b05be6a2a9dac4b</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415186-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415186</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25970288</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">7c321b3322b75e15daf2add30e976366</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415187-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415187</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>116832192</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">17dd1bf1e8428464267df8aab4dbbe83</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415188-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415188</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96257536</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">33627fd62e5404b53a7c16b99a6f847b</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415189-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415189</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>55210336</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">ab4dd5557fb5e843ed8357de1c87095e</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415190-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415190</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60516000</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">6c10743ec797c3f94ffb1650eccb1fed</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415191-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415191</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>79644448</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">29d20a5005f3036c75a1901e05202448</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415192-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415192</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>57047280</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">ccf9e0cd3b1bfdf3e6692923ce673acf</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415193-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415193</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>54405248</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">49c41bd26eb173e9f9c1609394338b75</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415194-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415194</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53433264</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">d5ae62dd070b28a87729cf788c5a5d9e</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415195-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415195</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68735648</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">c22bcb1c3a06aedbbc36ff0692cfbe28</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415196-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415196</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26498496</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">d796775851a4fc8fff2d6c572e26906a</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415197-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415197</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>81033696</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">868446f9a53f8a5ddd16381a9ccd2258</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415198-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415198</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43636848</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">b258ffdceb522574b2e512e69be78ca5</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415199-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415199</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>50990544</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">d9a6ce3dd22feac4c93b7b830c5cce09</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415200-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415200</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>48214000</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">185ff013594d3921e20f33fde0525e62</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415351-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415351</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35560528</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">4e8b682b0583b898805acc4fc5bdc09e</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415352-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415352</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>51495184</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">dc2634450765aed8402b0d0430fef5c7</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415353-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415353</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>55261392</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">53488dc28d3fc74bde98ff426aa2a9bb</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415354-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415354</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13600320</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">81984909eb9ff45b50b09923cba978a2</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415355-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415355</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38446288</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">5b5babfe19ca99cb4175d90060df9629</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415356-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415356</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78310176</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">f5313b1d3c77c740b47c5898c4e53387</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415357-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415357</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53333120</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">d4d751045d4796a5241a1fff161c3096</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415358-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415358</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33502672</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">7c6c282f86290814b4f5ac667630403a</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415359-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415359</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42472416</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">2f5e5a6fb85c97f2f29e0c490c2e27d5</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415360-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415360</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53435232</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">03642b517ef2268c1ea80f0063047520</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415361-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415361</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70463616</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">81b570bcbd51d205a60ee96b9cb0d1d7</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415362-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415362</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>66907520</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">d566d8e7ce3f6bed462fbf9b94cc2317</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415363-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415363</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68340960</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">cda12dec965d9b326ed9205d806ef4d0</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415364-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415364</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53773216</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">5e7fc77b9759a602414eed47c4537dec</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415365-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415365</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40867920</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">af363c4f63c4a40e877a831983e3fe27</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415366-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415366</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38213360</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">8a6d4adb92d41e32b6f1669997b024ec</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415367-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415367</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>52728336</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">674cd2c150763ac254415e2e06ae5406</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415368-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415368</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>61256272</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">8c7a5988750e03846e7603a3aafdcdf1</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415369-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415369</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43020272</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">2b35ddc90b688e8060e375bbaf0c12ab</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415370-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415370</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>44728608</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">f9a6e05f15a94f355e94735b6a1a0f5e</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415371-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415371</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>56897072</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">1954e58a70f369a89404f4dbff748a8e</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415372-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415372</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22494704</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">a28220f41d0b5cc2f732ec428453e279</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415373-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415373</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15512128</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">061a23639c848671eab6fdacbca68aeb</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415374-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415374</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5881472</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">ad9ad25cc5655a92094794565943ad2f</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415375-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415375</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865321_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865321_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The Riddle of the Third Mile</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3651152</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">808276946269bd07fc243e66877832f9</checksum>
+                </audio_file>
+                <title>The Riddle of the Third Mile Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509865321_9781509865321_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509865321</vendor_offer_code>
+    </album>
+</package>

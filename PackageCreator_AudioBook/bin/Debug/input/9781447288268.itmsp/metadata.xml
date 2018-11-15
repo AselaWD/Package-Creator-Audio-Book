@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:16:23 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537258583209-b0035bd903597cff36c594352df083a0114913d053637d2e6c5b8580aa20d147</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435412862-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435412862</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447288268</vendor_id>
+        <title>The Guilty</title>
+        <artwork_files>
+            <file>
+                <size>3187996</size>
+                <file_name>9781447288268.jpg</file_name>
+                <checksum type="md5">34ee95e7d14986a232aaa619eb2da482</checksum>
+            </file>
+        </artwork_files>
+        <description>Special Agent Will Robie left his hometown in Mississippi when he was a teenager. Its residents remember him as a wild sports star and girl-magnet. He left a lot of hearts broken, and a lot of people angry. Now, over twenty years later, he's back. His estranged father, Dan, who is the local judge, has been arrested for murder and Will wonders if it's time to try to heal old wounds. A lot of bad blood has flowed between father and son, but Robie's fellow agent, Jessica Reel, persuades him to stick around and confront his demons. Then another murder changes everything, and stone-cold killer Robie will finally have to come to grips with his toughest assignment of all. His family. The Guilty is the fourth thriller in the Will Robie series by David Baldacci, following on from The Innocent, The Hit and The Target.</description>
+        <track_count>10</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2015-11-19</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-guilty/id1435412862?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2015-11-19</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2091351-->
+                <apple_id>2091351</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2091351</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>David Baldacci</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2025416-->
+                <apple_id>2025416</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2025416</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kyf Brewer</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 256940136-->
+                <apple_id>256940136</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">256940136</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Orlagh Cassidy</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435412864-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412864</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>766721904</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">554e7907968dbca73e872a4a66a14305</checksum>
+                </audio_file>
+                <title>The Guilty Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412865-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412865</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>744263056</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">72e219b5bc80b3a391a5e2042ab16cff</checksum>
+                </audio_file>
+                <title>The Guilty Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412866-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412866</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>781813488</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">e6c8e1326ab35664bcc3bb5237fc6c02</checksum>
+                </audio_file>
+                <title>The Guilty Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412867-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412867</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>814374192</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">fe5c041f8fcfbcf93686cb40d8e2e0c3</checksum>
+                </audio_file>
+                <title>The Guilty Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412868-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412868</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>764134432</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">7f0f5d6c639bf93bd2bd36a4827e102b</checksum>
+                </audio_file>
+                <title>The Guilty Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412869-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412869</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>779055504</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">55279015262578dfa2f816fd8277e6b7</checksum>
+                </audio_file>
+                <title>The Guilty Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412870-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412870</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>768522464</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">79c66f3521eec56c38b4308e3cfcb18e</checksum>
+                </audio_file>
+                <title>The Guilty Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412871-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412871</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>796444352</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">6c29f6c23f80107628b404b2faaa3c89</checksum>
+                </audio_file>
+                <title>The Guilty Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412872-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412872</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>583020256</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">5ada4cc2fef9b415ee728111d20c985f</checksum>
+                </audio_file>
+                <title>The Guilty Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435412873-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435412873</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447288268_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447288268_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2025416-->
+                        <apple_id>2025416</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2025416</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyf Brewer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 256940136-->
+                        <apple_id>256940136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">256940136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Orlagh Cassidy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Guilty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>672679936</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">99cdf61c5f6446f2ba34b6118e6dc0b5</checksum>
+                </audio_file>
+                <title>The Guilty Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447288268_9781447288268_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447288268</vendor_offer_code>
+    </album>
+</package>

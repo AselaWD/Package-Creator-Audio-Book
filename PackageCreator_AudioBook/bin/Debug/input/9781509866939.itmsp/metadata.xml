@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:23:04 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537251784898-c547b30942858cbe3583d282ea16e65e4347132c6e148833d908dfc550c3e021</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 22:37:16 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435441369-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435441369</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509866939</vendor_id>
+        <title>The Detective Dog</title>
+        <artwork_files>
+            <file>
+                <size>4620430</size>
+                <file_name>9781509866939.jpg</file_name>
+                <checksum type="md5">9c09c6f03ba4600cbb2f1e7dc92c5372</checksum>
+            </file>
+        </artwork_files>
+        <description>When a crime needs solving, there’s only one dog for the job! Join Nell the Detective and help solve the mystery of the missing books. There once was a dog with a keen sense of smell. She was known far and wide as Detective Dog Nell. Peter’s dog Nell has an amazing sense of smell. Her ever-sniffing nose is always hard at work solving mysteries and finding all Peter’s lost toys. But Nell has other talents too . . . When she’s not cracking cases, Nell goes to school with Peter and listens to the children read. Books about dinosaurs, books about space and even books about dogs – Nell loves them all! But one day Peter and Nell arrive at school to find all the books have disappeared! Who could have taken them, and why? Luckily, Detective Dog Nell, with help from the whole class, is ready to sniff out the thief! Written by Julia Donaldson and read by actress and singer Floella Benjamin, The Detective Dog is a fast-paced celebration of books, reading, libraries and the relationship between a little boy and his rather special dog.</description>
+        <track_count>1</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-09-07</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-detective-dog/id1435441369?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-09-07</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 201229848-->
+                <apple_id>201229848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">201229848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Julia Donaldson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1141438902-->
+                <apple_id>1141438902</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1141438902</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Baroness Floella Benjamin</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435441370-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435441370</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509866939_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509866939_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 201229848-->
+                        <apple_id>201229848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">201229848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Julia Donaldson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1141438902-->
+                        <apple_id>1141438902</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1141438902</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Baroness Floella Benjamin</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Detective Dog</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106058384</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">7d2e45233c36a7b1b4cd14fbbf7aa8af</checksum>
+                </audio_file>
+                <title>The Detective Dog Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509866939_9781509866939_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509866939</vendor_offer_code>
+    </album>
+</package>

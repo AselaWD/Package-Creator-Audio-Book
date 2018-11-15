@@ -1,0 +1,2889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:04:38 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247078845-2d24b9e093d6f192732b168962a29b25fe34a53ebfd7715b8dd0d523fcb0558c</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435445231-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435445231</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509856107</vendor_id>
+        <title>The G File</title>
+        <artwork_files>
+            <file>
+                <size>2111532</size>
+                <file_name>9781509856107.jpg</file_name>
+                <checksum type="md5">8a8ad978017511a959b63ba6cb52827e</checksum>
+            </file>
+        </artwork_files>
+        <description>A Swedish crime writer as thrilling as Mankell, a detective as compelling as Wallander . . . A dark and sinister case from the past comes back to haunt Chief Inspector Van Veeteren in the final novel in the Van Veeteren series, The G File by Håkan Nesser. 1987. Verlangan, a former cop turned private detective is hired by a woman to follow her husband Jaan 'G' Hennan. A few days later, his client is found dead at the bottom of an empty swimming pool. Maardam police, led by Chief Inspector Van Veeteren, investigate the case. Van Veeteren has encountered Jaan 'G' Hennan before and knows only too well the man's dark capabilities. As more information emerges about G's shadowy past, the Chief Inspector becomes more desperate than ever to convict him. But G has a solid alibi – and no one else can be found in relation to the crime. 2002. Fifteen years have passed and the G File remains the one case former Chief Inspector Van Veeteren has never been able to solve. But when Verlangan's daughter reports the private detective missing, Van Veeteren returns to Maardam CID once more. For all Verlangan left behind was a cryptic note; and a telephone message in which he claimed to have finally discovered the proof of G's murderous past . . .</description>
+        <track_count>52</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-02-22</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-g-file/id1435445231?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-02-22</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1435319806-->
+                <apple_id>1435319806</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435319806</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Håkan Nesser</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 19339123-->
+                <apple_id>19339123</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">19339123</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>David Timson</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435445232-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445232</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125141664</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">2563c1f5c09b4119787ff27dd0ccb024</checksum>
+                </audio_file>
+                <title>The G File Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445233-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445233</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60130592</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">7ad6cf2f14289c9512373a0c03bb3d53</checksum>
+                </audio_file>
+                <title>The G File Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445234-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445234</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98689216</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">bca5cc4bc700269d2c9420dd5e2621c7</checksum>
+                </audio_file>
+                <title>The G File Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445235-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445235</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70399216</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">cd4422fcb293d8eb64f5780cc691db82</checksum>
+                </audio_file>
+                <title>The G File Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445236-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445236</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124328816</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">7ff5c1662f001ad013d3030e89b7829a</checksum>
+                </audio_file>
+                <title>The G File Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445237-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445237</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90856848</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">c8e795576ad2184cdd351365e9c1cd2b</checksum>
+                </audio_file>
+                <title>The G File Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445238-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445238</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104492656</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">209195c69c2f2b6bf6373a45a342341f</checksum>
+                </audio_file>
+                <title>The G File Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445239-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445239</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>142150496</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">bda54bd02c29167cb5fd165695935b8f</checksum>
+                </audio_file>
+                <title>The G File Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445240-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445240</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110784384</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">ae8eefa66cec1353e54db70a8b3a3abc</checksum>
+                </audio_file>
+                <title>The G File Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445241-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445241</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93965504</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">ef78c33c196f4e61d64d676b61563325</checksum>
+                </audio_file>
+                <title>The G File Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445242-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445242</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>102350480</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">39c9cf1c500bb95ad710e035ba79737d</checksum>
+                </audio_file>
+                <title>The G File Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445243-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445243</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>101316480</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">c9ed527d76aeb6a04aa61a251e24ccb1</checksum>
+                </audio_file>
+                <title>The G File Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445244-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445244</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>88826976</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">9970c233ab2214ea684e8e321d2dc960</checksum>
+                </audio_file>
+                <title>The G File Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445245-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445245</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90545664</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">91898364c9ae4fb2da87affaac9d0834</checksum>
+                </audio_file>
+                <title>The G File Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445246-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445246</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>69951888</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">25448c072bd631a454fac3d88471af8b</checksum>
+                </audio_file>
+                <title>The G File Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445247-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445247</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>102415440</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">25a734594d5139c7c0b880b827529ff1</checksum>
+                </audio_file>
+                <title>The G File Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445248-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445248</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103298960</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">95ead17569d0cc8f076abbdf112acfae</checksum>
+                </audio_file>
+                <title>The G File Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445249-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445249</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106434528</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">e92896a6235c24f87dc1be42cfa3430d</checksum>
+                </audio_file>
+                <title>The G File Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445250-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445250</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>112717264</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">afbb41252c9fa293898da7bda801508f</checksum>
+                </audio_file>
+                <title>The G File Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445251-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445251</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85480096</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">fd101e361163f062d4030164838c9191</checksum>
+                </audio_file>
+                <title>The G File Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445252-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445252</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>61168240</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">81b2ccd5a4afc19289011a4b7d0cfd90</checksum>
+                </audio_file>
+                <title>The G File Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445253-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445253</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65915168</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">f5160ee2d82fde3e27ca81fec2fa4e97</checksum>
+                </audio_file>
+                <title>The G File Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445254-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445254</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65925440</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">f5ecceb733abe100fd0897e0732d9e17</checksum>
+                </audio_file>
+                <title>The G File Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445255-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445255</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90731904</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">8012d0398e1bb57e39d59a647b900d6f</checksum>
+                </audio_file>
+                <title>The G File Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445256-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445256</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125087824</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">dd362502d556d49eebcb847a5a408b8c</checksum>
+                </audio_file>
+                <title>The G File Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445257-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445257</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68536240</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">93d12ff1616c682a101fef75b1e0ee81</checksum>
+                </audio_file>
+                <title>The G File Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445258-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445258</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129759328</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">4130d175995f922d201f22145808c539</checksum>
+                </audio_file>
+                <title>The G File Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445259-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445259</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90151552</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">9f0dc2267a1a5bab43ac0f539aa63d14</checksum>
+                </audio_file>
+                <title>The G File Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445260-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445260</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>88627088</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">63ae5553bc0b54376b3915343886f965</checksum>
+                </audio_file>
+                <title>The G File Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445261-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445261</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103140960</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">d556976611951918c7e9e91fe179cda4</checksum>
+                </audio_file>
+                <title>The G File Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445262-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445262</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122397680</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">e83c1b3cdf798d3ee2793c2cba724088</checksum>
+                </audio_file>
+                <title>The G File Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445263-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445263</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>64761504</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">419d86ec81660e8ea483446e108ece24</checksum>
+                </audio_file>
+                <title>The G File Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445264-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445264</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>82766176</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">f7db360c74d98922d6628271b4897dc4</checksum>
+                </audio_file>
+                <title>The G File Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445265-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445265</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107034752</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">d58a72628f9d3be5491e3eaa5e234d61</checksum>
+                </audio_file>
+                <title>The G File Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445266-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445266</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103321776</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">15b97d816ffa16508f9b4f99cc12067e</checksum>
+                </audio_file>
+                <title>The G File Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445267-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445267</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100220656</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">ad35780c66b7ad5b937b05700ff29e1e</checksum>
+                </audio_file>
+                <title>The G File Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445268-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445268</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97384128</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">aad2f06244b85e0e139b541b880970a4</checksum>
+                </audio_file>
+                <title>The G File Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445269-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445269</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83064656</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">fe236f23a7109a856e28e5c0d3e16ed0</checksum>
+                </audio_file>
+                <title>The G File Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445270-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445270</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86658160</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">7a917b4f78e224b0bea75abd551f880f</checksum>
+                </audio_file>
+                <title>The G File Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445271-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445271</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75516672</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">260a091c06788d37dea49b40a2fb828f</checksum>
+                </audio_file>
+                <title>The G File Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445272-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445272</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104402896</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">34aeb4faf9812afeec47c96080c11c91</checksum>
+                </audio_file>
+                <title>The G File Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445273-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445273</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84544848</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">c41484f758d28e1f63e1346b560b7f34</checksum>
+                </audio_file>
+                <title>The G File Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445274-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445274</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>113392864</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">291adcd12719a7c6a3a1686f5fcafbeb</checksum>
+                </audio_file>
+                <title>The G File Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445275-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445275</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86389952</size>
+                    <file_name>Track_044.wav</file_name>
+                    <checksum type="md5">d930601529e25fe184e89d7df86c9824</checksum>
+                </audio_file>
+                <title>The G File Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445276-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445276</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78057088</size>
+                    <file_name>Track_045.wav</file_name>
+                    <checksum type="md5">499b7873626669c9efc890c6c224e4c4</checksum>
+                </audio_file>
+                <title>The G File Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445277-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445277</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>63432560</size>
+                    <file_name>Track_046.wav</file_name>
+                    <checksum type="md5">4311f012b90ccb0c209922cca6f2b94a</checksum>
+                </audio_file>
+                <title>The G File Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445278-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445278</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>71052720</size>
+                    <file_name>Track_047.wav</file_name>
+                    <checksum type="md5">d3aa2276b2358a003a7f6c1de9a26261</checksum>
+                </audio_file>
+                <title>The G File Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445279-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445279</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65701808</size>
+                    <file_name>Track_048.wav</file_name>
+                    <checksum type="md5">600575e8321bee8aaec907711f2e89e9</checksum>
+                </audio_file>
+                <title>The G File Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445280-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445280</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38978848</size>
+                    <file_name>Track_049.wav</file_name>
+                    <checksum type="md5">249e68277c22bd85bbda611d97edcd78</checksum>
+                </audio_file>
+                <title>The G File Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445281-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445281</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70639344</size>
+                    <file_name>Track_050.wav</file_name>
+                    <checksum type="md5">4f848fc5800a1944fbbf6ac11c7dc258</checksum>
+                </audio_file>
+                <title>The G File Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445282-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445282</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78218416</size>
+                    <file_name>Track_051.wav</file_name>
+                    <checksum type="md5">58131983c15102175a33efaacb67a80d</checksum>
+                </audio_file>
+                <title>The G File Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435445283-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435445283</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509856107_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509856107_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435319806-->
+                        <apple_id>1435319806</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435319806</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Håkan Nesser</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 19339123-->
+                        <apple_id>19339123</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">19339123</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Timson</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - The G File</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>91333424</size>
+                    <file_name>Track_052.wav</file_name>
+                    <checksum type="md5">bdf382c35071fcdd126389427c190d02</checksum>
+                </audio_file>
+                <title>The G File Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9781509856107_9781509856107_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509856107</vendor_offer_code>
+    </album>
+</package>

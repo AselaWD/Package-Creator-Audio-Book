@@ -1,0 +1,1702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:47:29 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253249749-c0c392a2f2b15aa2d3f24b015cda70ae9678c2e68fc176e54a849069c09a6556</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Thu Sep 13 10:32:33 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436198868-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436198868</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447291688</vendor_id>
+        <title>Pandora's Star</title>
+        <artwork_files>
+            <file>
+                <size>2456711</size>
+                <file_name>9781447291688.jpg</file_name>
+                <checksum type="md5">0ca2efddf9485b8df42670f8684c1165</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;The first part of the epic Commonwealth Saga, &lt;i&gt;Pandora's Star &lt;/i&gt;by Peter F. Hamilton is a fantastic galaxy-spanning novel from the master of space opera.&lt;/p&gt;&lt;p&gt;Earth AD 2329: Humanity has colonized over four hundred planets, all interlinked by wormholes. For the first time in mankind's history there is peace.&lt;/p&gt;&lt;p&gt;Then a star over a thousand light years away suddenly vanishes, imprisoned inside a force field of immense size.&lt;/p&gt;&lt;p&gt;Only a faster-than-light starship, captained by ex-NASA astronaut Wilson Kime, can reach that distance to investigate.&lt;/p&gt;&lt;p&gt;But there was a good reason for sealing off an entire star system. And getting in may not be as difficult as stopping something from getting out . . .&lt;/p&gt;&lt;p&gt;The Commonwealth Saga concludes with &lt;i&gt;Judas Unchained.&lt;/i&gt;&lt;/p&gt;</description>
+        <track_count>30</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2014-11-06</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>37</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/pandoras-star/id1436198868?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2014-11-06</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 279984751-->
+                <apple_id>279984751</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">279984751</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter F. Hamilton</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1125771666-->
+                <apple_id>1125771666</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1125771666</read_only_value>
+                </read_only_info>
+                <language>de</language>
+                <artist_name>John Lee</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436198890-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198890</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31415584</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">41be071811a6ca44b58d8ca8cb7c950e</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198981-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198981</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>67783696</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">d95b8edcfcbc5b2f409f5d6fdce21120</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198982-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198982</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>118700032</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">3afd44f88710202c7a365178fca9b13d</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198983-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198983</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65707264</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">b89e66d72ebeef140e47826c82ebb364</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198984-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198984</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125988560</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">5356253d806c99aed84f5286ebda1ed0</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198985-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198985</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93777728</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">1671459515e06f49b04d8c76bc6e47bf</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198986-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198986</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95564320</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">036688917f2d72a374da121c20493f74</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198987-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198987</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110278464</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">cdfb1fc17d7049247a955ac1e624fb39</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198988-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198988</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>117623936</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">ba2cca655a56ef3224a84e23be46b815</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198989-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198989</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>105657264</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">6457fb752645192db7418754164983cf</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198990-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198990</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>166551472</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">d97949c1ff88cc4bbf669f4dbc55584f</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198991-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198991</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136111600</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">e861c0cb8a9de7cf1c51455fec9ab76a</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198992-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198992</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146624640</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">81b1a7191da3f9c7c65df6701e60de16</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198993-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198993</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75332016</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">d4723f29c26cac14a78ef0fca775fe36</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198994-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198994</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>99812992</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">7b3c8b5728c9c974250a22e7f971bae5</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198995-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198995</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110029952</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">3dfb80085dcd5e3ea0d8968ad7eae75c</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198996-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198996</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129850976</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">8ced51d907bd46cf8b382b19a4d91495</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198997-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198997</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86502976</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">c339f88926cd050d40b818d0e2c7f654</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436198998-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436198998</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121920816</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">ae8908acf96dd36115bc78070905d8ac</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199003-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199003</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>105048864</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">f3acafdb604869b4defe89ead29111e7</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199004-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199004</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>120509808</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">7c07dc1554dfe95b83a540ba93f60c95</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199005-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199005</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121554592</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">0b5a458a5f3ffc0d5269bec3752db6d5</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199006-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199006</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103145808</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">e251a44f6a2e9b76a31d1846fe0ca8c9</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199007-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199007</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98345024</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">73306395f9ea46ae561e50a04483204f</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199008-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199008</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95075440</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">59baecf285feef1cc9ad071fa3b297cf</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199009-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199009</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125730640</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">7c33d4f8aa298bbdccfdc7a9a2ec2573</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>113198752</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">37e88ccafe75e87a1713be74e58bce28</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199011-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199011</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>126588272</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">617bc1163cd2b3d710b8d40250f2b0e6</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199012-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199012</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136059648</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">10b81c0bdeaeeea5476e24b69e405de7</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436199013-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436199013</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291688_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291688_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1125771666-->
+                        <apple_id>1125771666</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1125771666</read_only_value>
+                        </read_only_info>
+                        <language>de</language>
+                        <artist_name>John Lee</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Pandora's Star</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86205008</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">4a53905ce71970dc64eadd4c6add5e7a</checksum>
+                </audio_file>
+                <title>Pandora's Star Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447291688_9781447291688_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447291688</vendor_offer_code>
+    </album>
+</package>

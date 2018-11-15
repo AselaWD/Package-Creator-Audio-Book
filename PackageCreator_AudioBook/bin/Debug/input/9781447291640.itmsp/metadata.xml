@@ -1,0 +1,2728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:45:55 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253155383-3cf362df527601a6bf7951878e5faa7c0cacb73aee83dac73d9cb03db72904c2</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Thu Sep 13 07:58:37 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436180188-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436180188</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447291640</vendor_id>
+        <title>The Dreaming Void</title>
+        <artwork_files>
+            <file>
+                <size>2409603</size>
+                <file_name>9781447291640.jpg</file_name>
+                <checksum type="md5">8eb083629639cb78f80a030c28d80a6c</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;i&gt;The Dreaming Void&lt;/i&gt; is the first in the Void trilogy by Peter F. Hamilton, the master of space opera.&lt;/p&gt;&lt;p&gt;AD 3580. The Intersolar Commonwealth has spread through the galaxy to over a thousand star systems. It is a culture of rich diversity with a place for everyone. A powerful navy protects it from any hostile species that may lurk among the stars. For Commonwealth citizens, even death has been overcome. At its centre is a massive black hole. This Void is not a natural artefact. Inside there is a strange universe where the laws of physics are very different to those we know. It is slowly consuming the other stars of the galactic core - one day it will have devoured the entire galaxy.&lt;/p&gt;&lt;p&gt; Inigo, a human, has started to dream of a wonderful existence of the Void. He has a following of millions of believers. They now clamour to make a pilgrimage into the Void to live the life they have been shown. Other starfaring species fear their migration will cause the Void to expand again. They are prepared to stop them no matter what the cost.&lt;/p&gt;&lt;p&gt; And so the pilgrimage begins . . .&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Dreaming Void&lt;/i&gt; is followed by &lt;i&gt;The Temporal Void&lt;/i&gt; and &lt;i&gt;The Evolutionary Void.&lt;/i&gt;&lt;/p&gt;</description>
+        <track_count>49</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2014-11-06</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>37</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-dreaming-void/id1436180188?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2014-11-06</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 279984751-->
+                <apple_id>279984751</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">279984751</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter F. Hamilton</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 152707628-->
+                <apple_id>152707628</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">152707628</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Toby Longworth</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436180191-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180191</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19775712</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">c278fdb89065a41a44b49db7b77aa307</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180192-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180192</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34980016</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">c7cc2165cb267effb51e3c80983c1465</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180193-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180193</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36019168</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">fa8a1293a266d6d7dbfcad03b6baa70b</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180194-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180194</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36951744</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">f8c8bb77d1c3054ac8be85390c91d1c3</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180195-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180195</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40433872</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">83474ef63fbf0d5d07483f3840bb82ea</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180196-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180196</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35857728</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">ab664ecbc4183381f594e7af70664f1e</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180197-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180197</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17400656</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">ac22b085399bd29f02ab4f6756df996e</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180198-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180198</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35642480</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">85b315c3cc3554cbf41e3b685bcd182b</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180199-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180199</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35108544</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">c72a9d830321a4602e6d58f85202adec</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180200-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180200</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28775408</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">b87627d411a9d3eb7d8c2a884487e054</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180351-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180351</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35586064</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">2d0c837c23a3f8791533ab002f1f3f24</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180352-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180352</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21043696</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">d8542cd9393e1c031c05494e184093a4</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180353-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180353</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43186752</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">67c7b01a0f9e3a756f5eb41dec525a7a</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180354-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180354</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43273264</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">f7f3ad6bfacc072abcef9a898d0d34c8</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180355-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180355</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42618112</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">1a8813874df184653f5d2c88b75492d3</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180356-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180356</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>41946048</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">1fe784c3fc04266a2e1a37eab3174273</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180357-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180357</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28186608</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">769c936f0c1f190e8d5021bf94c01a6b</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180358-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180358</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42347280</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">b5e3c5e7fcef261a7839007d125820f8</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180359-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180359</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43009952</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">7afa105c0aca096c51f939709374dd23</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180360-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180360</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36316128</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">433b8198bc053e3e367a94a98ae0da6c</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180361-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180361</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42989264</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">58b0bc63a0ca3aa37bfe5a0254a65315</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180362-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180362</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43263232</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">ad4a51b333f9991d1ecd6409e6e8b032</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180363-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180363</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43333456</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">84322ae93cff299a6267504d1d4e213e</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180364-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180364</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42714048</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">4218ff9132d18be012ab1d244f942ccc</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180365-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180365</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15208032</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">21a8e6ea190858d2894c9851ac26a701</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180366-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180366</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43494576</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">39e41f187c8e4e0488690fb6cf633c51</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180367-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180367</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42565456</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">6fdf2f063f274a16012a4b23b85b82f9</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180368-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180368</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28007312</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">03d9deb421f7f9d72f7e5959a48cfd43</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180369-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180369</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42814352</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">d00699e7d1abb45dbf434405ca7983ce</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180370-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180370</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43236288</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">d6624ea0c97a842634434eaa5d61c30c</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180371-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180371</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43189888</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">47b65a47fc4737ba2cc823fd43c0ab80</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180372-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180372</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>47740832</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">77849796746b8ce04193e9c31d86efa7</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180373-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180373</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43099600</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">cdc88dab181217ed99dd141528fa1144</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180374-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180374</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42962928</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">53cdd835f2129ca30f8b3afc6afc5e68</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180375-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180375</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18121120</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">101f45efb8c5830e7551cc54fed9acfa</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180376-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180376</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43299600</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">2939da5bc5ac05d83bede88124c4c9bb</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180377-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180377</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43209952</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">14b49857e9dd53cbf5766bf401886520</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180378-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180378</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43254464</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">97b8bbaef44c283d33ec1c081f3489e6</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180379-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180379</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43030640</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">6e5a6a300c82d78e518889784521fea3</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180380-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180380</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43282048</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">ddeb1cee89cbfecda90733c804aae243</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180381-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180381</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21610032</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">825a80a02da3fc6c1bd7591f1413642b</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180382-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180382</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43035664</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">5e7854d71c03715c6b8406006d12b968</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180383-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180383</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42959168</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">8ee5b30c40a88eb5a1b28a6d546efe13</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180384-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180384</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>41357344</size>
+                    <file_name>Track_044.mp3</file_name>
+                    <checksum type="md5">c0f0b5ebae7b8bddc8b99006527d865e</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180385-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180385</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43228128</size>
+                    <file_name>Track_045.mp3</file_name>
+                    <checksum type="md5">53196b96b13d09920d8cec757a71d927</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180386-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180386</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43218096</size>
+                    <file_name>Track_046.mp3</file_name>
+                    <checksum type="md5">ef29cf152c6efc61262eb173ec7c82e3</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180387-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180387</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22597456</size>
+                    <file_name>Track_047.mp3</file_name>
+                    <checksum type="md5">2449cc5a26507eddbf4089246feb87a8</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180388-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180388</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43046320</size>
+                    <file_name>Track_048.mp3</file_name>
+                    <checksum type="md5">ee5a356e7cb325babe0591b47ea7bb43</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436180389-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436180389</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447291640_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447291640_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279984751-->
+                        <apple_id>279984751</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279984751</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter F. Hamilton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 152707628-->
+                        <apple_id>152707628</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">152707628</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Toby Longworth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - The Dreaming Void</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9014208</size>
+                    <file_name>Track_049.mp3</file_name>
+                    <checksum type="md5">ac9bfc9d6f839a44837f7b764161eb28</checksum>
+                </audio_file>
+                <title>The Dreaming Void Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781447291640_9781447291640_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447291640</vendor_offer_code>
+    </album>
+</package>

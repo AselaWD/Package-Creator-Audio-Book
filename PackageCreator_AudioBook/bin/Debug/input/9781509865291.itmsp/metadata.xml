@@ -1,0 +1,2543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:40:34 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537256434589-ca290f90fb6b73fa2f00ffd470d38bfae12190737643572f287bb5032f9b348c</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435344458-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435344458</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509865291</vendor_id>
+        <title>The Silent World of Nicholas Quinn</title>
+        <artwork_files>
+            <file>
+                <size>3926061</size>
+                <file_name>9781509865291.jpg</file_name>
+                <checksum type="md5">c75e360edd580e8d8f96f7c3a5ba0d00</checksum>
+            </file>
+        </artwork_files>
+        <description>The Silent World of Nicholas Quinn is the third novel in Colin Dexter's Oxford-set detective series. Morse had never ceased to wonder why, with the staggering advances in medical science, all pronouncements concerning times of death seemed so disconcertingly vague. The newly appointed member of the Oxford Examinations Syndicate was deaf, provincial and gifted. Now he is dead . . . And his murder, in his north Oxford home, proves to be the start of a formidably labyrinthine case for Chief Inspector Morse, as he tries to track down the killer through the insular and bitchy world of the Oxford Colleges . . . The Silent World of Nicholas Quinn is followed by the fourth Inspector Morse book, Service of All the Dead.</description>
+        <track_count>36</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-10-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-silent-world-of-nicholas-quinn/id1435344458?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-10-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2633422-->
+                <apple_id>2633422</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2633422</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Colin Dexter</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 80625338-->
+                <apple_id>80625338</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">80625338</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Samuel West</artist_name>
+                <locales>
+                    <locale name="no">
+                        <artist_name>Hanne Dieserud</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>사무엘 웨스트</artist_name>
+                    </locale>
+                    <locale name="cmn-Hant">
+                        <artist_name>山繆.韋斯特</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>萨缪尔·韦斯特</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435344703-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344703</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1029360</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">28e029c6e6fb74b8e2a345845b764666</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344704-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344704</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>102446848</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">89e01bd985ed57b3844d269c3c828a4e</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344705-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344705</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>57756576</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">3f0daeafc6a288940675581b71276ae2</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344706-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344706</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83573920</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">3f600507c946440920127e462fdbc017</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344708-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344708</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53994464</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">4472f4cae453206526a9803bb15ba058</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344709-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344709</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65166736</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">7a321db9f78e4864760ddf63fa6e054d</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344710-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344710</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103571264</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">93575c34f8e4314b4de874cbfb7b4ea7</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344711-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344711</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38900944</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">82228a69559e38bdd86022ecd7d162b9</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344712-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344712</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86709760</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f6675660d10366d155d9ab5413d5810b</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344713-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344713</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65470848</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">794526adbd8d27d8d862f189051ee27a</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344714-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344714</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124785680</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">c61fefdc12f3c0442b1982a67388f9d0</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344715-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344715</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>87253552</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">18f385248cb4ab1b1dd192a5d30953a3</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344716-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344716</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70297984</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">211beed135b3d57d16f9e0270fd9ae3a</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344717-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344717</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>69015184</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">2d2d86888010a13dc748b65401856d1d</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344718-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344718</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>92559424</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">fc2ca59ecf2654d2e815b122c3ef2535</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344719-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344719</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>77563184</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">1bd2425cf9ef9cca2d9bc14231760553</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344720-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344720</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>66481120</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">c2ebcb0b77a7846f1c16eb53697149e0</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344721-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344721</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>48930224</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">96b6fe1b521bb5798049380cdab1f973</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344722-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344722</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>59705600</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">3eee7b4b6f01381daac0e98870a2b663</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344723-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344723</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>50663392</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">18360e77c62eadb60534c9a9d188c318</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344724-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344724</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42497456</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">ce5d832e60c1074d504a32bf293730c8</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344725-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344725</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>87537792</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">6d1f5c53bfe5c6ae9856bd73a77dedf0</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344726-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344726</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32172336</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">67b18a43b7b8105c4e588a5415e9edde</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344727-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344727</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35917520</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">7d5f7b8676a23a66af8cb86639ee0157</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344728-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344728</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>74947904</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">6e35806c889a39b08052f6581946fddd</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344729-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344729</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>37328960</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">93cef57408a696ea6254c050ae382876</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344730-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344730</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>88430912</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">a234a445cdf9f8fbeb9fae5876ead6bf</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344941-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344941</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24998176</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">019b2c8f330dbed420723094b6ac9610</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344942-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344942</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>44623696</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">371ea455084efbbe83322e4b3a050ab6</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344943-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344943</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58118800</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">2001b18b7558003ed40c58487a1f8927</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344944-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344944</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40689424</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">9b5c270c4b44db08d24ff1beaade789d</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344945-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344945</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107784080</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">8319c217f8e4c853aee2c854a9d83a13</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344946-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344946</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>109439072</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">8ffebfc1f269f4bf366b2546ccac4244</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344947-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344947</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94271728</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">c702bb90d3178e17cac64751262f8aac</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344948-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344948</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15857920</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">08bc2724e8850d661704c53b87e353e6</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344949-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344949</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865291_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865291_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80625338-->
+                        <apple_id>80625338</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80625338</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Samuel West</artist_name>
+                        <locales>
+                            <locale name="no">
+                                <artist_name>Hanne Dieserud</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>사무엘 웨스트</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>山繆.韋斯特</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>萨缪尔·韦斯特</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Silent World of Nicholas Quinn</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3777936</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">cb271d3737e879a9dbe9ca1cc7a279fc</checksum>
+                </audio_file>
+                <title>The Silent World of Nicholas Quinn Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509865291_9781509865291_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509865291</vendor_offer_code>
+    </album>
+</package>

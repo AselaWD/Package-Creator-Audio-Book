@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:23:53 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537248233367-4b5565bc46fff29b3ce9c1a83f15bbf315a897552bd7c4b4f0ab8738e681bdbe</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 16:02:17 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435406320-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435406320</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509894697</vendor_id>
+        <title>The Brewer of Preston</title>
+        <artwork_files>
+            <file>
+                <size>3415983</size>
+                <file_name>9781509894697.jpg</file_name>
+                <checksum type="md5">7368b4e6407215adb34b28c85e0de985</checksum>
+            </file>
+        </artwork_files>
+        <description>From Andrea Camilleri, the bestselling author of the Inspector Montalbano mysteries, comes The Brewer of Preston, a hilarious standalone comedy. 1870s Sicily. Much to the displeasure of Vigàta's stubborn populace, the town has just been unified under the Kingdom of Italy. They're now in the hands of a new government they don't understand, and they definitely don't like. Eugenio Bortuzzi has been named Prefect for Vigàta, a regional representative from the Italian government tasked to oversee the town. But the rowdy and unruly Sicilians don't care much for this rather pompous mainlander nor the mediocre opera he's hell-bent on producing in their new municipal theatre. The Brewer of Preston, it's called, and the Vigàtese are revving up to wreak havoc on the performance's opening night . . .</description>
+        <track_count>25</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-06-14</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-brewer-of-preston/id1435406320?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-06-14</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 118350841-->
+                <apple_id>118350841</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">118350841</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Andrea Camilleri</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 282407970-->
+                <apple_id>282407970</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">282407970</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Mark Meadows</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435406561-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406561</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>73841536</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">f3e4310d0c09bd3f08cd451a4562676e</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406562-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406562</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97720592</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">854396b13823f3f3a4a327c5231ec982</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406563-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406563</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>92661136</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">57dbfacfc386c72da6b412d90e063e0a</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406564-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406564</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>76748144</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">ac5c36f23b249fe600ee7802be567a77</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406565-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406565</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78865840</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">eb338f4714ab37513ca36edbaac322e5</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406566-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406566</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100807936</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">8fcce74d3c34ca01f2dbf5fd158eba3a</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406568-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406568</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>77352880</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">f79b766cc623fc3d8610b2a4455c26c5</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406569-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406569</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75387424</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">a387872601d904a37e9e0f6eff99f060</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406570-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406570</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90774752</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">188fdcee2836b648cfe85007d71c6a7d</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406571-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406571</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70478432</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">b945c2005047757c2f5087304d3035a1</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406572-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406572</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>80915120</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">c8f1baab5d967b64e9e455b4cd219ab2</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406573-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406573</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70421024</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">7ea5cfbe22dba9d1fbc84e40960bcb4f</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406574-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406574</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83881712</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">adebaf5e4f61a31c125f8789bed00bc4</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406575-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406575</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>91121264</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">0915d2bde563f2b882f388ca0756f131</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406576-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406576</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98791760</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">995fea31a385d70d915c4f61a395ff34</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406577-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406577</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>92371312</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">c80c074afa69bb8c12657d7bb752cf0f</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406578-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406578</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98083024</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">a72ddd4e601b1ee683b835ee3a94966c</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406579-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406579</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>126547888</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">beb21b8bc24d0c0d49de98e2cc038b05</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406580-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406580</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98161712</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">dcd87d6e1fbe087a66a04b09a5cd408e</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406581-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406581</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104681248</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">99fd15513095be8d6f49580970ffbaf9</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406582-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406582</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93860976</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">20262678f927dafc0bd5d619e5620c53</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406583-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406583</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90922192</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">6800454d5e36467a26206d80818e93f8</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406584-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406584</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94091344</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">3f8ce3191aa01394af7f0f85a952b6d5</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406585-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406585</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>120343920</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">15b0b897ac75d604727c96ece118e982</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435406586-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435406586</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894697_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894697_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 118350841-->
+                        <apple_id>118350841</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">118350841</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andrea Camilleri</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 282407970-->
+                        <apple_id>282407970</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">282407970</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mark Meadows</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Brewer of Preston</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25742304</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">a5af9b170756455421580c7857b8a410</checksum>
+                </audio_file>
+                <title>The Brewer of Preston Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509894697_9781509894697_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509894697</vendor_offer_code>
+    </album>
+</package>

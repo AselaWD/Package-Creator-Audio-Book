@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:12:47 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247566960-b2f1b7a4b5da9e139e0db40ce047d7173179240624bcdf483df1f9d4974b58ef</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435331491-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435331491</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509899517</vendor_id>
+        <title>The Jersey</title>
+        <artwork_files>
+            <file>
+                <size>2777922</size>
+                <file_name>9781509899517.jpg</file_name>
+                <checksum type="md5">1cee79b4767b16590481fc52b26fcf3f</checksum>
+            </file>
+        </artwork_files>
+        <description>With exclusive interviews with Richie McCaw, Steve Hansen, Beauden Barrett and Dan Carter, The Jersey is the first definitive story behind the greatest sports team on the planet. 'Extremely well written. Compelling, accurate, insightful and brilliant in the way it captures the New Zealand way. - John Hart, former All Blacks coach. With a better winning record than any other sports team in history, they stand head and shoulders above their nearest rugby rivals, and go to the 2019 World Cup as back-to-back World Champions. How did a country of just 4.8 million people conquer the world? Peter Bills, who has reported on international rugby for more than 40 years, was given exclusive access to all the key figures in New Zealand rugby as he set out to understand the secrets behind the All Blacks success. From Steve Hansen to Beauden Barrett, Richie McCaw to the late Sir Colin Meads, Peter Bills talked at length with over 90 people, both in New Zealand and around the world, with intimate knowledge of what makes the All Blacks tick. This is a story of the first settlers, and the 'Originals' who forged the All Blacks legacy, right through to modern times. It draws heavily on the contributions made by all New Zealanders: players, coaches, officials, supporters and those who have worn the most recognized jersey in the world. Intrinsically, The Jersey goes to the heart of the All Blacks success. It is also an epic story of not just a rugby team but a nation, whose identities are inextricably linked. Additionally, it debates a question, terrifying for any of their opponents. Could the All Blacks get even better?</description>
+        <track_count>17</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-08-09</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-jersey/id1435331491?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-08-09</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="BIOGRAPHY-MEMOIR-00">Biography &amp; Memoir</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1029366753-->
+                <apple_id>1029366753</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1029366753</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter Bills</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 469055311-->
+                <apple_id>469055311</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">469055311</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Mike Sengelow</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435331498-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331498</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60647872</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">c15efc0335ed221b2689044a4d11e263</checksum>
+                </audio_file>
+                <title>The Jersey Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331499-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331499</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>311829600</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">4c1b065c37058b53a02e610fbd1a3ef5</checksum>
+                </audio_file>
+                <title>The Jersey Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331500-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331500</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>158728848</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">c2425b7e14704a3660dfbf4df9de35b1</checksum>
+                </audio_file>
+                <title>The Jersey Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331651-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331651</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>342379952</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">9a1a702e04938f4fa2d23b5cf73b2b28</checksum>
+                </audio_file>
+                <title>The Jersey Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331652-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331652</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>247773472</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">75b27c903ad64a21703258970360cc39</checksum>
+                </audio_file>
+                <title>The Jersey Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331653-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331653</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>185881696</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">8d61556749db9722c14808b887ee2a91</checksum>
+                </audio_file>
+                <title>The Jersey Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331654-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331654</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>283314688</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">45d88dc21865e4eca023f18b135908e8</checksum>
+                </audio_file>
+                <title>The Jersey Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331655-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331655</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>215135952</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">c70de3b526b54d7e61c27cb844de3bbb</checksum>
+                </audio_file>
+                <title>The Jersey Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331656-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331656</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>339363408</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">24c36cc3f656d4918042bc7338373431</checksum>
+                </audio_file>
+                <title>The Jersey Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331657-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331657</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>305958784</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">9e2f74e347fb620beeff5bc6a3db0452</checksum>
+                </audio_file>
+                <title>The Jersey Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331658-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331658</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>356078688</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">3e2df903cff7f84fb15ebcbb8ec50746</checksum>
+                </audio_file>
+                <title>The Jersey Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331659-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331659</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>260294016</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">d6a2b0f62250d06217fcf1cd7ab3254e</checksum>
+                </audio_file>
+                <title>The Jersey Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331660-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331660</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>213604160</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">92e1acfab1f93a41da4ed0b1bb86d76c</checksum>
+                </audio_file>
+                <title>The Jersey Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331661-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331661</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>313125808</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">b537201976463080ed938c31dca91f4b</checksum>
+                </audio_file>
+                <title>The Jersey Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331662-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331662</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>239771120</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">4d249a85d222662b02cea85611b9ee81</checksum>
+                </audio_file>
+                <title>The Jersey Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331663-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331663</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>442673920</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">8bff898473ba4943a799342722f5d23f</checksum>
+                </audio_file>
+                <title>The Jersey Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435331664-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435331664</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899517_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899517_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1029366753-->
+                        <apple_id>1029366753</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1029366753</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Bills</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 469055311-->
+                        <apple_id>469055311</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">469055311</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Mike Sengelow</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Jersey</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>227256672</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">afae6b9523a6dfbe228a5ed1f17c384c</checksum>
+                </audio_file>
+                <title>The Jersey Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509899517_9781509899517_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509899517</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:47:49 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260469224-92d159bed701e48932f4b524f05d15b507a242b09dfb749b68e9b1a969c0f709</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 17:42:06 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435415245-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435415245</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509895694</vendor_id>
+        <title>Oaxaca Journal</title>
+        <artwork_files>
+            <file>
+                <size>559190</size>
+                <file_name>9781509895694.jpg</file_name>
+                <checksum type="md5">b3e92f0f64c3d2dc5bf092179b810d6a</checksum>
+            </file>
+        </artwork_files>
+        <description>‘Light and fast-moving, unburdened by library research but filled with erudition’ New Yorker Oliver Sacks, the bestselling author of Awakenings and The Man Who Mistook His Wife for a Hat, is most famous for his studies of the human mind: insightful and beautifully characterized portraits of those experiencing complex neurological conditions. However, he has another scientific passion: the fern. Since childhood Oliver has been fascinated by the ability of these primitive plants to survive and adapt in many climates. Oaxaca Journal is the enthralling account of his trip, alongside a group of fellow fern enthusiasts, to the beautiful province of Oaxaca, Mexico. Bringing together Oliver’s endless curiosity about natural history and the richness of human culture with his sharp eye for detail, this book is a captivating evocation of a place, its plants, its people, and its myriad wonders.</description>
+        <track_count>11</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-07-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>26</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/oaxaca-journal/id1435415245?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-07-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="TRAVEL-ADVENTURE-00">Travel &amp; Adventure</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 265734056-->
+                <apple_id>265734056</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">265734056</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Oliver Sacks</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1435318323-->
+                <apple_id>1435318323</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435318323</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Jonathan Davis</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435415249-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415249</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>50504464</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">3f8463ae0d965cc559ee43d9f52d7a13</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415250-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415250</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151607472</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">fbc92871567b5a504b2616c41125d7a7</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415251-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415251</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>149378944</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">1f97a994367b08291940ff80fe806286</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415252-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415252</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>249565872</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">aafbe41028b59d6b6eed4765f08ea54c</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415253-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415253</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85245680</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">598ec24f759e5a2eded8ecfda8c38bf5</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415254-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415254</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>63383472</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">b0dfdd81ee8157cca362b8c06d65e78a</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415255-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415255</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104138592</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">2941cd3f172dc51cca55ebddfd62ca48</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415256-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415256</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184893744</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">5918d5978d7beffb27c4b5d6d87faaaf</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415257-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415257</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107981504</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">c23f3a9d3deb573ee70c08b34f7e4d28</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415258-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415258</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>153944208</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">d737ea35d77e36db546eccfe8540176c</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435415259-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435415259</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509895694_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509895694_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 265734056-->
+                        <apple_id>265734056</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">265734056</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oliver Sacks</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435318323-->
+                        <apple_id>1435318323</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435318323</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Davis</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Oaxaca Journal</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100441888</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">7f2d71dceb23c95264efcaaeecfdf30f</checksum>
+                </audio_file>
+                <title>Oaxaca Journal Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509895694_9781509895694_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509895694</vendor_offer_code>
+    </album>
+</package>

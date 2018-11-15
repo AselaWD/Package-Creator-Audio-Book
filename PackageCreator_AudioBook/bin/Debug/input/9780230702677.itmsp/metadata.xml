@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 3:01:25 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264885070-394aa0a91221d4cda55f21eed94a6663a0d63049cabe960286f8ea96faccc14b</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436189863-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436189863</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230702677</vendor_id>
+        <title>A Necessary End (Abridged)</title>
+        <artwork_files>
+            <file>
+                <size>1209386</size>
+                <file_name>9780230702677.jpg</file_name>
+                <checksum type="md5">34db78a9f647c39ff068f3d56377d6ea</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;i&gt;A Necessary End&lt;/i&gt; is the third novel in Peter Robinson's Inspector Banks series, following on from &lt;i&gt;A Dedicated Man&lt;/i&gt;.&lt;/p&gt;&lt;p&gt;In the usually peaceful town of Eastvale, a simmering tension has now reached breaking point. An anti-nuclear demonstration has ended in violence, leaving one policeman stabbed to death. Fired by professional outrage, Superintendent 'Dirty Dick' Burgess descends with vengeful fury on the inhabitants of 'Maggie's Farm', an isolated house high on the daleside.&lt;/p&gt;&lt;p&gt; Inspector Banks is uneasy about Burgess's handling of the investigation. But he has been warned off the case. Soon Banks realizes that the only way he can salvage his career is by beating Burgess to the killer . . .&lt;/p&gt;&lt;p&gt;&lt;i&gt;A Necessary End&lt;/i&gt; is followed by the fourth book in this Yorkshire-based crime series, &lt;i&gt;The Hanging Valley&lt;/i&gt;.&lt;/p&gt;</description>
+        <track_count>34</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2007-06-01</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/a-necessary-end-abridged/id1436189863?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2007-06-01</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1435327236-->
+                <apple_id>1435327236</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435327236</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter Robinson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 58839791-->
+                <apple_id>58839791</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">58839791</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Neil Pearson</artist_name>
+                <locales>
+                    <locale name="cmn-Hans">
+                        <phonetic_name>Neil Pearson</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436189866-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189866</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4992528</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">f7126de17baad68cdafe99d17eac5f35</checksum>
+                </audio_file>
+                <title>A Necessary End Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189867-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189867</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8277152</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">2e674e7d07f84d192b478766628d789e</checksum>
+                </audio_file>
+                <title>A Necessary End Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189868-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189868</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7589808</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">439da438c0389d23842a8a06ea7cf46f</checksum>
+                </audio_file>
+                <title>A Necessary End Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189869-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189869</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8291552</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">eb56e18d7fffce693c66640b6c569e86</checksum>
+                </audio_file>
+                <title>A Necessary End Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189870-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189870</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10047472</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">cc48f7c1b890bf528d46709a2acf44ef</checksum>
+                </audio_file>
+                <title>A Necessary End Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189871-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189871</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9862176</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">e4e736e8976f6a32c5a23448cac7cdd9</checksum>
+                </audio_file>
+                <title>A Necessary End Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189872-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189872</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8732256</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">a9f8c18cf74415fb967f33c61b06c540</checksum>
+                </audio_file>
+                <title>A Necessary End Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189873-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189873</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9594880</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">2099cfc339904159798b62640a75635c</checksum>
+                </audio_file>
+                <title>A Necessary End Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189874-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189874</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3179008</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">9cd680771a2965313adfb83cdd8ee6d2</checksum>
+                </audio_file>
+                <title>A Necessary End Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189875-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189875</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7484640</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">fb9bcbc807586bb5ed73071c6246ffc6</checksum>
+                </audio_file>
+                <title>A Necessary End Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189876-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189876</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6516832</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">9b81ec388d427081750afc989be5779f</checksum>
+                </audio_file>
+                <title>A Necessary End Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189877-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189877</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9677520</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">d7f31e75314239f5235809a934b821d6</checksum>
+                </audio_file>
+                <title>A Necessary End Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189878-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189878</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6420432</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">330fb15436ac3a5feede4460fae6e7ca</checksum>
+                </audio_file>
+                <title>A Necessary End Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189879-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189879</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7941616</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">0ecddcad0b14266aeebd862fc3bfb8c0</checksum>
+                </audio_file>
+                <title>A Necessary End Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189880-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189880</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6822320</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">d815aae2884b8f5e67c246f56a32ed48</checksum>
+                </audio_file>
+                <title>A Necessary End Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189881-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189881</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7177264</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">53c0d48467e9c499463d1116285a9161</checksum>
+                </audio_file>
+                <title>A Necessary End Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189882-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189882</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10846256</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">5eac662d71e7e18f75881319f574bb4e</checksum>
+                </audio_file>
+                <title>A Necessary End Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189883-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189883</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9253712</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">eda424b7148bc557dbed705e6704c3a3</checksum>
+                </audio_file>
+                <title>A Necessary End Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189884-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189884</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9415840</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">89a5813290255625e1272af21f8da595</checksum>
+                </audio_file>
+                <title>A Necessary End Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189885-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189885</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8386704</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">6f1896b6ffced5c72d6f33f5827c37e7</checksum>
+                </audio_file>
+                <title>A Necessary End Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189886-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189886</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5637312</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">157828a27cc4530344f8c267a1f85ce1</checksum>
+                </audio_file>
+                <title>A Necessary End Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189887-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189887</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5057008</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">c7c224836c607be0641b9491dae83794</checksum>
+                </audio_file>
+                <title>A Necessary End Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189888-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189888</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10893824</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">b2ca540a0cb38f8b29bce5077e379dac</checksum>
+                </audio_file>
+                <title>A Necessary End Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189890-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189890</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6719664</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">026c3c981392c87fb347cf8f841a928c</checksum>
+                </audio_file>
+                <title>A Necessary End Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189921-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189921</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5304896</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">f30221e247422cb186fad210a45a7a87</checksum>
+                </audio_file>
+                <title>A Necessary End Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189922-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189922</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6531232</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">37b183eedeafab8d7d4dc4df2de054d2</checksum>
+                </audio_file>
+                <title>A Necessary End Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189923-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189923</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10497568</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">1462a2a0ac20992ca97eef9704254eac</checksum>
+                </audio_file>
+                <title>A Necessary End Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189924-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189924</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9885344</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">0359e50708a75517db47753662904104</checksum>
+                </audio_file>
+                <title>A Necessary End Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189925-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189925</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7374464</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">aeef18c1c51c84de303a45172002d26c</checksum>
+                </audio_file>
+                <title>A Necessary End Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189926-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189926</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5298016</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">c2ce17ad49fe6bd62980c36bdd74d23e</checksum>
+                </audio_file>
+                <title>A Necessary End Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189927-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189927</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5462656</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">21cdee10969ff13ac8ee3aadae8238c6</checksum>
+                </audio_file>
+                <title>A Necessary End Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189928-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189928</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6047968</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">a3b2422e667985dee2e20b2dc2ab858c</checksum>
+                </audio_file>
+                <title>A Necessary End Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189929-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189929</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10833104</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">cd1e55f21435b1551dd1d9de73ce787f</checksum>
+                </audio_file>
+                <title>A Necessary End Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189930-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189930</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702677_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702677_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - A Necessary End</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8305952</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">f4c74f6ba7ff4bb2581c25bc1e6ee7ef</checksum>
+                </audio_file>
+                <title>A Necessary End Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9780230702677_9780230702677_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230702677</vendor_offer_code>
+    </album>
+</package>

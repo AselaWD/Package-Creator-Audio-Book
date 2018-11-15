@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:08:03 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537261683194-4b7ef1a3923d3ae427b090957f20b700d8159e7b5730108187ac6827cbc10306</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435421547-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435421547</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509865697</vendor_id>
+        <title>The 65-Storey Treehouse</title>
+        <artwork_files>
+            <file>
+                <size>3853152</size>
+                <file_name>9781509865697.jpg</file_name>
+                <checksum type="md5">64a547c955534415f70258db0ab81b20</checksum>
+            </file>
+        </artwork_files>
+        <description>The 65-Storey Treehouse is the fifth book in Andy Griffiths and Terry Denton's wacky treehouse adventures, where the laugh-out-loud story is read by Stig Wemyss. Andy and Terry's amazing 65-Storey Treehouse now has a pet-grooming salon, a birthday room where it's always your birthday (even when it's not), a room full of exploding eyeballs, a lollipop shop, a quicksand pit, an ant farm, a time machine and Tree-NN: a 24-hour-a-day TV news centre keeping you up to date with all the latest treehouse news, current events and gossip. Well, what are you waiting for? Come on up!</description>
+        <track_count>13</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-03-23</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-65-storey-treehouse/id1435421547?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-03-23</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 6603926-->
+                <apple_id>6603926</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">6603926</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Andy Griffiths</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 160736538-->
+                <apple_id>160736538</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">160736538</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Stig Wemyss</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435421548-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421548</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>39670672</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">283d8d5de4f77ed534baa78be87a7738</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421549-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421549</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34811584</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">064b82c78c5ad8ce2eb3e8717243b7ca</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421550-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421550</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65892912</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">366eb84cde33cea2578be07a65cf8d6a</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421551-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421551</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>50003904</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">44769e0735b988f728fc914d058c965d</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421552-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421552</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>39499472</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">558248efa310d457feac282c46ce4f43</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421553-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421553</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>54497040</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">99c827104d8a2d8d3204baa201d6d4dc</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421554-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421554</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>41992192</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">03ac958a99d5341a3a9069b21a949b47</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421555-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421555</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>79967952</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">2d1c4ff05e3f61d7d86d899b085a31b0</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421556-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421556</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>51487744</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">3cceac987d1926229813ace342323c75</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421557-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421557</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58074000</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">1d0e7a01ebf52700f397d1f6766fd29a</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421558-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421558</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>63453952</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">dfaf81729db24a7b05d73bf2abfe88fd</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421559-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421559</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60035040</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">34c577e13b32ec89987b990fae0975c1</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435421560-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435421560</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509865697_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865697_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 6603926-->
+                        <apple_id>6603926</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">6603926</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Andy Griffiths</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 160736538-->
+                        <apple_id>160736538</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">160736538</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Stig Wemyss</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The 65-Storey Treehouse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>64721920</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">8308d9c04a8178546eca0434ce08c9c0</checksum>
+                </audio_file>
+                <title>The 65-Storey Treehouse Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509865697_9781509865697_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509865697</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,2565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:47:01 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264021591-a7d254d6e4a9ff77acd712a5f060cd2b79ee73ae7c4b58b4a75b7cce664494ce</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435380157-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435380157</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509857319</vendor_id>
+        <title>A Season of Secrets</title>
+        <artwork_files>
+            <file>
+                <size>3872152</size>
+                <file_name>9781509857319.jpg</file_name>
+                <checksum type="md5">fea814ec9c9ea0e9e7d84764b5676b09</checksum>
+            </file>
+        </artwork_files>
+        <description>Sweeping from the Great War, through the Jazz Age to the 1940s, this unforgettable tale follows the entwined lives of the Fentons, an aristocratic family from Yorkshire. Thea, the eldest daughter of Viscount Gilbert Fenton, flouts the unwritten rules of her class by embarking on a love affair with Hal, the fiercely socialist son of one of her father's tenant farmers. Carrie, her close childhood friend and granddaughter of the Viscount's nanny, has always been expected to marry Hal - but when she goes into service she finds herself longing for the one person she can never hope to marry. Olivia, the middle Fenton sister, follows a more conventional path, forging friendships with the British royal family and attending a finishing school in Germany. Her relationship with Count von der Schulenburg does not raise eyebrows, but as the mid-1930s approach, she finds herself in a country experiencing rapid, radical and dangerous social change. Violet, the youngest of the Fenton sisters, is also the most reckless. She dreams of becoming an actress in Hollywood, unaware her life will be filled with more drama than any part she will ever play. And then there is Rozalind, their American cousin, who is secretly in love with a married U.S. senator. Her ambitions to become a photojournalist will also take her into the heart of Hitler's Germany. Set against the rich canvas of the first half of the twentieth century, A Season of Secrets is an unforgettable tale of passion and betrayal, love and war from the ever popular Margaret Pemberton.</description>
+        <track_count>46</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-03-23</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/a-season-of-secrets/id1435380157?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-03-23</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 562174046-->
+                <apple_id>562174046</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">562174046</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Margaret Pemberton</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1216396448-->
+                <apple_id>1216396448</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1216396448</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kristin Atherton</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435380353-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380353</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111612832</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">71e8c7c20694edd66ca2d72d97e09f32</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380354-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380354</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>154869376</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">e289273a2a2e246b8e9bc5ae5df9bda8</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380355-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380355</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163511920</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">ff461eff2c4fbfb53366d902a3855e3d</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380356-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380356</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97739264</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">972a46edaea02530fde8984aec680acf</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380357-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380357</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131785856</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">49603c4ecea50c318c1e2bad8b819ee5</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380358-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380358</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137970816</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">56fae5f68f0322edbb21dfc2d2205331</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380359-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380359</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>142579680</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">b5d5fac9e92fcf9d3dc4f23829187283</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380360-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380360</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>198078528</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">7c9a23e4cdaf1451c65ff95bc1cb0850</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380361-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380361</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>176430576</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">edfea206b10d2bf438b16caf5e53683a</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380362-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380362</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131647312</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">ed354e1f1599407c54c55236fe5ab64f</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380363-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380363</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>180300560</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">d1c90b3c50b10db8602a8313d5939542</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380364-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380364</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146557216</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">4b7b0193e117af71bfe1a28bec4b7649</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380365-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380365</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>160380112</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">12d3a06b212c0458b182e924a5c94b89</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380366-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380366</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>132800624</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">a74ee2ccce347f13b46480d198a4fac1</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380367-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380367</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>144719472</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">b8871f695c7294bff6dc82e7ce521925</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380368-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380368</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134228704</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">6c253268be321e621bbed602c8eb16af</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380369-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380369</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>142257344</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">c09a9ef2b5cde3afd1a1e3f1e5fa2667</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380370-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380370</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119288352</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">19978164fd09b16a661ef6227aa12682</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380431-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380431</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>149495344</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">555c54848ff6c065025bab01780618e6</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380432-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380432</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121730384</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">9e5050b30d1fa70427ed71a41ae90722</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380434-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380434</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>138778032</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">f6b1b9b8a59aaf7df272b9240e657a12</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380435-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380435</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129533968</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">b4b94e1fca9556fa633ef77e9253b65f</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380437-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380437</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93339376</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">4023587fcf908b22f2e77a902ff3a57e</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380438-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380438</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>211827376</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">0a3057c26de9dc63036c5a12e82fdb08</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380439-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380439</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134268560</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">e25bcea23d5db53b1806ee82e31b667b</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380440-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380440</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>118809120</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">35d74bc3309da38167ebf548828d5ec5</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380441-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380441</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98433328</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">1ef6d5ec7ff40bc1b28cfefb03dc497e</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380442-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380442</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>187719216</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">e06d5419c630946ef0bb3aa62894d98b</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380443-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380443</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125174304</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">c0ad7cbbbeb3e7813bd5e07cbae15c5e</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380444-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380444</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>196271152</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">cebc6938b3d6bce05acb7382dc976df9</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380445-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380445</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>143430256</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">9e1bb82fb067f8e203718e0a4fc900f0</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380446-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380446</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>130137872</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">87ef870ed40b18d5797863857a46728d</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380447-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380447</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60424272</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">565be247c984592106bccd16d760bcf8</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380448-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380448</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>148191504</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">43275a0a56f1af6ef20bb39b9b91f776</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380449-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380449</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96134736</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">2239dd736e0bff24c8fa045bebb83e8c</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380450-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380450</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78598160</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">f3a6e1ce5137df14e3823c3d34ab23af</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380451-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380451</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>166211408</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">b3951ac55dcda4bc3ff94ee457024b45</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380452-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380452</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131203424</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">8a3b8964d79b6ba4b239107819d3fc4a</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380453-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380453</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>152723456</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">2ba36176c69f08b8e54dbe37d574468b</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380454-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380454</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125226016</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">34a07f99ed02bac22b43b57c6ba41ee4</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380455-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380455</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>79773856</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">b33c9b9f0d7a8758f25f11f5404924e9</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380456-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380456</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>77707952</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">012e287d48dbde3058deeff4b2bb24c5</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380457-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380457</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96207808</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">0919d4abb627c40a508c2914c6dcb4a0</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380458-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380458</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28470176</size>
+                    <file_name>Track_044.wav</file_name>
+                    <checksum type="md5">c31c49c551ff17c8a2d00dd5eccc732d</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380459-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380459</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34749952</size>
+                    <file_name>Track_045.wav</file_name>
+                    <checksum type="md5">4cc1ac4c5c266de4d1af6445b862ad1f</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435380460-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435380460</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857319_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857319_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 562174046-->
+                        <apple_id>562174046</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">562174046</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Margaret Pemberton</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - A Season of Secrets</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22596016</size>
+                    <file_name>Track_046.wav</file_name>
+                    <checksum type="md5">669a618fcc87db639ff5d4a9ec0854bd</checksum>
+                </audio_file>
+                <title>A Season of Secrets Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781509857319_9781509857319_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509857319</vendor_offer_code>
+    </album>
+</package>

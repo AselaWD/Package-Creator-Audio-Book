@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:12:37 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537261957585-22de572c8299ca4e5061f423da8119d92a75a338a05f457c3f9442405144fe4a</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 21:39:17 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435437315-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435437315</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509832781</vendor_id>
+        <title>59 Seconds</title>
+        <artwork_files>
+            <file>
+                <size>1621985</size>
+                <file_name>9781509832781.jpg</file_name>
+                <checksum type="md5">8bfc95b459d6a43922a12b1cc58565ae</checksum>
+            </file>
+        </artwork_files>
+        <description>Most people would like to be more creative, more persuasive and more attractive. For years, gurus and 'life coaches' have urged people to improve their lives by changing the way they think and behave, but scientific research has revealed that many of their techniques, from group brainstorming to visualization, are ineffective. Fortunately, in 59 Seconds psychologist Richard Wiseman is on hand to provide fast-acting, myth-busting scientific answers to a huge range of everyday problems. From job-hunting to relationships, and from parenting to self-esteem, personal and professional success may be less than a minute away . . . * Find out why putting a pencil between your teeth instantly makes you feel happier * Discover why even thinking about going to the gym can help you keep in shape * Learn how putting just one thing in your wallet will improve the chance of it being returned if lost</description>
+        <track_count>12</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-09-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/59-seconds/id1435437315?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-09-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="SELF-DEVELOPMENT-00">Self Development</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 344558756-->
+                <apple_id>344558756</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">344558756</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Richard Wiseman</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 674322890-->
+                <apple_id>674322890</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">674322890</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Peter Noble</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435437317-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437317</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>49455744</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">2fe0dd036d4ec3000ac8cc37cc2b475c</checksum>
+                </audio_file>
+                <title>59 Seconds Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437318-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437318</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>300305472</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">0dab0560956340a68846dbee90fa1fa7</checksum>
+                </audio_file>
+                <title>59 Seconds Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437319-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437319</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>410084352</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">eb99ca7942424ea061895415495e69a3</checksum>
+                </audio_file>
+                <title>59 Seconds Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437320-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437320</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>262323280</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">f771f35b70a3ca2629c1b62326348b44</checksum>
+                </audio_file>
+                <title>59 Seconds Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437321-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437321</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>234808880</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">afd09bbf5b99a1570eecdd978511e671</checksum>
+                </audio_file>
+                <title>59 Seconds Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437322-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437322</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>299021520</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">70639f975869fe9f793ae7cbb75dff41</checksum>
+                </audio_file>
+                <title>59 Seconds Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437323-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437323</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>221066096</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">1a95b4f894e78b9b2b942437ffd91ed0</checksum>
+                </audio_file>
+                <title>59 Seconds Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437324-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437324</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>224558432</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">60a63d72d1cf4b875aabede16ae4b49a</checksum>
+                </audio_file>
+                <title>59 Seconds Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437325-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437325</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>292949280</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">9e9fe28401edf5213f9e998585c2dcc4</checksum>
+                </audio_file>
+                <title>59 Seconds Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437326-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437326</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>269267856</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">01bd96f90543e77a838f3c950a515a5e</checksum>
+                </audio_file>
+                <title>59 Seconds Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437327-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437327</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>254695392</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">24bae26685753229bd6b221a0425eee3</checksum>
+                </audio_file>
+                <title>59 Seconds Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435437328-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435437328</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509832781_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509832781_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 344558756-->
+                        <apple_id>344558756</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">344558756</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard Wiseman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 674322890-->
+                        <apple_id>674322890</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">674322890</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Peter Noble</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - 59 Seconds</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3595248</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">fd6872bef682959836c2ec1468f75691</checksum>
+                </audio_file>
+                <title>59 Seconds Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509832781_9781509832781_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509832781</vendor_offer_code>
+    </album>
+</package>

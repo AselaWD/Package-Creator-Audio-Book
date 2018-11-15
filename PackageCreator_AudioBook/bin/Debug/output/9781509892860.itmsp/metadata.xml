@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 18, 2018 2:14:28 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537262068881-9b8e0aaf678f49d7031c3dfcbef726f75bd01374ccbfea64e8dd136b10c83756</metadata_token>
+  <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 16:04:48 PDT 2018]</comments>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435406428-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435406428</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509892860</vendor_id>
+    <title>Crudo</title>
+    <artwork_files>
+      <file>
+        <size>2410377</size>
+        <file_name>9781509892860.jpg</file_name>
+        <checksum type="md5">986232b2f33ac7590fd0b3b4eef1a19f</checksum>
+      </file>
+    </artwork_files>
+    <description>A Sunday Times Top Ten Bestseller Shortlisted for the Gordon Burns Prize Kathy is a writer. Kathy is getting married. It’s the summer of 2017 and the whole world is falling apart. From a Tuscan hotel for the super-rich to a Brexit-paralysed UK, Kathy spends the first summer of her 40s trying to adjust to making a lifelong commitment just as Trump is tweeting the world into nuclear war. But it’s not only Kathy who’s changing. Political, social and natural landscapes are all in peril. Fascism is on the rise, truth is dead, the planet is hotting up. Is it really worth learning to love when the end of the world is nigh? And how do you make art, let alone a life, when one rogue tweet could end it all. Olivia Laing radically rewires the novel in a brilliant, funny and emphatically raw account of love in the apocalypse. A Goodbye to Berlin for the 21st century, Crudo charts in real time what it was like to live and love in the horrifying summer of 2017, from the perspective of a commitment-phobic peripatetic artist who may or may not be Kathy Acker . . .</description>
+    <track_count>8</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>14</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/crudo/id1435406428?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>18</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>23</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NZ</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>19</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>15</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>20</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2018-06-28</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="FICTION-00">Fiction</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 422612428-->
+        <apple_id>422612428</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">422612428</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Olivia Laing</artist_name>
+        <roles>
+          <role>Author</role>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435406438-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406438</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>2221216</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">657e4fb64ba6aa3eaac119dc467911a4</checksum>
+        </audio_file>
+        <title>Crudo Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406439-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406439</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>280514960</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">fd77d96f75366fa4b7c4f4e2c74b555f</checksum>
+        </audio_file>
+        <title>Crudo Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406440-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406440</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>286080000</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">5e9ebe09eb74c0863e71c46deadd6417</checksum>
+        </audio_file>
+        <title>Crudo Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406711-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406711</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Narrator</role>
+              <role>Author</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>136719472</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">2592a9eec137fced2fead5979ff23c29</checksum>
+        </audio_file>
+        <title>Crudo Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406712-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406712</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>286529008</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">1cd76a1a8367f8a988f34e287f81a42d</checksum>
+        </audio_file>
+        <title>Crudo Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406713-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406713</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Narrator</role>
+              <role>Author</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>171879984</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">9971888984c53a018dc5602d8b1c4c84</checksum>
+        </audio_file>
+        <title>Crudo Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435406714-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406714</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509892860_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509892860_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - Crudo</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>5390112</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">895d026534b269e8d4cc46734aa91c98</checksum>
+        </audio_file>
+        <title>Crudo Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509892860_9781509892860_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <booklet>
+        <!--Apple ID: 1435406715-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435406715</read_only_value>
+        </read_only_info>
+        <vendor_id>54714581</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:54714581</xid>
+        <title>Digital Booklet -  Crudo</title>
+        <locales />
+        <copyright>2018 Pan Macmillan</copyright>
+        <volume_number>1</volume_number>
+        <vendor_offer_code>9781509892860_54714581</vendor_offer_code>
+        <track_number>8</track_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 422612428-->
+            <apple_id>422612428</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">422612428</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Olivia Laing</artist_name>
+            <roles>
+              <role>Author</role>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <file>
+          <size>129424</size>
+          <file_name>9781509892860.pdf</file_name>
+          <checksum type="md5">723FFA6901C69EBDC28BA24255058C3C</checksum>
+        </file>
+      </booklet>
+    </tracks>
+    <vendor_offer_code>9781509892860</vendor_offer_code>
+  </album>
+</package>

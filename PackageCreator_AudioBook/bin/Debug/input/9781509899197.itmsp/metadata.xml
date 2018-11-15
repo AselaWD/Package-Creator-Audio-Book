@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:44:57 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260297835-f033e4621dea50f151880503009f123f39dedc6729607dbe5e6eb68867d11e3f</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435409140-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435409140</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509899197</vendor_id>
+        <title>Patrick Melrose Volume 2</title>
+        <artwork_files>
+            <file>
+                <size>3047979</size>
+                <file_name>9781509899197.jpg</file_name>
+                <checksum type="md5">d587029d4d0c5b25d3e5f4cfc2ce49e0</checksum>
+            </file>
+        </artwork_files>
+        <description>Read by actor Alex Jennings, Patrick Melrose Volume 2 contains the final two novels in Edward St Aubyn's semi-autobiographical series, filmed for Sky Atlantic and starring Benedict Cumberbatch as aristocratic addict, Patrick. The once illustrious, once wealthy Melroses are in peril, and Patrick Melrose, now a husband and father, is trying to gather together the pieces of his life. Caught up in the turmoil of broken promises, assisted suicide, adultery and – most tender and terrifying of all – fatherhood, Patrick is still a long way from salvation, but even as the family struggles against the pull of its dark past, a new generation promises new light, new hope and – perhaps – the promise of a brighter future. Deeply moving, hilarious and heartbreaking, Patrick Melrose Volume 2 contains the final two novels in the Patrick Melrose series: Mother’s Milk and At Last. Patrick Melrose Volume 1 is also available, containing the first three novels in the series, Never Mind, Bad News and Some Hope.</description>
+        <track_count>30</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-05-03</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/patrick-melrose-volume-2/id1435409140?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-05-03</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 269522886-->
+                <apple_id>269522886</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">269522886</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Edward St Aubyn</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 3259942-->
+                <apple_id>3259942</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">3259942</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alex Jennings</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾利克斯·詹寧斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435409533-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409533</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>99276432</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">1e98ad93229e8062822c177d2325c716</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409534-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409534</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>149050256</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">48941f65fdb8c2181ccabf499b0fa894</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409535-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409535</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107095920</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">278c639c45068dbb56fea6b41c5ed498</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409536-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409536</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170512784</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">cc7b81ea582dc122c7e85d00222b4650</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409537-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409537</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>120616240</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">6f413da6877c16a84742ccb620f6f570</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409538-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409538</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>166499888</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">8850c452c3cffafeb805459e60499a3d</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409539-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409539</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>160355120</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">e8f62023390e67f243b6ab4b425d6313</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409540-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409540</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135316288</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">bde095881385b54ecbb1e1a9db8bad04</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409541-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409541</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>150497040</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">b028620402cd87e8e1efb33fb1c1b9c6</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409542-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409542</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137032448</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">3d369b01b5359f0d6bf1250eb441e625</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119499232</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">c0e5086d0b943900fff55a96dcebbd32</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409544-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409544</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119267008</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">a99614538920b9ddbb2d4da0002c6a54</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409545-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409545</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146412144</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">448b4e0da635ebc5c1b9a034745bd14e</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409546-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409546</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>228274880</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">e0264e92ab8728e32042a293e3d2ce17</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409547-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409547</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151049744</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">678a4d46273c875f328e504dde06fc9b</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409548-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409548</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>219061392</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">3ce7d412bebfa9a0c12551b58bd69f4b</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409549-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409549</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>105797152</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">60b34e677faf427beb985ea4dcf26317</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409550-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409550</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129288464</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">b016f296d1accf3b9764cdc732c888a0</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409551-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409551</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184627808</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">e594095bd4a79d83d5d7ba28ee993b6f</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409552-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409552</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>212918752</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">034a9da718290ea04ab2c6feeb44e1b1</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409553-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409553</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>143677424</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">a9e97b6f2f58e74a71ddbff687fb4c1d</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409554-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409554</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>101582160</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">1256ac958723789bf5281548ef5a3610</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409555-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409555</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>132416912</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">b090de6c49fa07455e4fab1da99d6b32</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409556-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409556</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>128262320</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">decf97bd3fe045b33fa32519d94e2472</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409557-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409557</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104692736</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">1395095ea1216aade1b3998699700d56</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409558-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409558</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93949664</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">12597e0f7db5eee6ee02183b2e41c237</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409559-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409559</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110588336</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">f5d7ab4ee26cc00647be894bc2323d08</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409560-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409560</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104033712</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">92fd61e400967f6140a53d628c4ee17b</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409621-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409621</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>203363232</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">7a44c45150c45bb729d86d3956d5f589</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435409622-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435409622</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509899197_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509899197_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Patrick Melrose Volume 2</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>81842656</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">d8c41ce3dcdd8d1cfa30004d0f0b27e5</checksum>
+                </audio_file>
+                <title>Patrick Melrose Volume 2 Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509899197_9781509899197_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509899197</vendor_offer_code>
+    </album>
+</package>

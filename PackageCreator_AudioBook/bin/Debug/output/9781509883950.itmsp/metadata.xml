@@ -1,0 +1,939 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 18, 2018 2:06:18 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537261578547-0459bd8ddce7d847a5fe0c1e6d33b30d60e442a29922290f45cf4e23aca66052</metadata_token>
+  <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:37:07 PDT 2018]</comments>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435425677-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435425677</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509883950</vendor_id>
+    <title>A Dedicated Man</title>
+    <artwork_files>
+      <file>
+        <size>2062587</size>
+        <file_name>9781509883950.jpg</file_name>
+        <checksum type="md5">8354fda3554310742746157ef649a40d</checksum>
+      </file>
+    </artwork_files>
+    <description>A Dedicated Man is the second novel in Peter Robinson's Inspector Banks series, following on from Gallows View. Near the village of Helmthorpe, Swainsdale, the body of a well-liked local historian is found half-buried under a dry stone wall. Harry Steadman has been brutally murdered. But who would want to kill such a thoughtful, dedicated man? Chief Inspector Alan Banks is called in to investigate and soon discovers that disturbing secrets lie behind the apparently bucolic facade. It is clear that young Sally Lumb, locked in her lover's arms on the night of the murder, knows more than she is letting on. And her knowledge could lead to danger . . . A Dedicated Man is followed by the third book in this Yorkshire-based crime series, A Necessary End.</description>
+    <track_count>12</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>26</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/a-dedicated-man/id1435425677?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>36</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NZ</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>40</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>32</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>26</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>35</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-28</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>29</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2018-06-28</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="FICTION-00">Fiction</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 1435327236-->
+        <apple_id>1435327236</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">1435327236</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Peter Robinson</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 251126537-->
+        <apple_id>251126537</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">251126537</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Simon Slater</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435425680-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425680</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>219090880</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">db4660036929eb7cb0fd7003eafc858f</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425681-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425681</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>212713936</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">c3b28f421c05fbd29ed4e3a413a9aaad</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425682-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425682</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>222887888</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">45c8d2a6fe3fd93da412744d1120c206</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425683-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425683</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>224339952</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">57f9939be5f65ea18831c87d1e279c24</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425684-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425684</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>331000944</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">ad9a14d349ed3e8f0b852c47fc44fafe</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425685-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425685</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>277126544</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">e6144dd16589987507765de5a669c5a9</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425686-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425686</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>336276688</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">e4ff7aebe3f0f9fbad1eda35e5f314ad</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425687-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425687</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>256326288</size>
+          <file_name>Track_008.wav</file_name>
+          <checksum type="md5">10320535fcd5dee31391fe3993863763</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425688-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425688</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>210677728</size>
+          <file_name>Track_009.wav</file_name>
+          <checksum type="md5">1c6c2225d36d3a01fb69e210f8a3a178</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425689-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425689</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>195372400</size>
+          <file_name>Track_010.wav</file_name>
+          <checksum type="md5">662104846439f2c217e3746c02809c82</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425690-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425690</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>191348768</size>
+          <file_name>Track_011.wav</file_name>
+          <checksum type="md5">d60a052479a631f9b67c68348b83d932</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435425691-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435425691</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509883950_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509883950_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1435327236-->
+            <apple_id>1435327236</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1435327236</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Peter Robinson</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 251126537-->
+            <apple_id>251126537</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">251126537</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Simon Slater</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - A Dedicated Man</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>186062320</size>
+          <file_name>Track_012.wav</file_name>
+          <checksum type="md5">acd09655fc95cca7b720e38ac2bec2ac</checksum>
+        </audio_file>
+        <title>A Dedicated Man Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9781509883950_9781509883950_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9781509883950</vendor_offer_code>
+  </album>
+</package>

@@ -1,0 +1,3051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:15:26 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537262126763-2f3784ce8583fefa040ef6d21cafbfc07fa56bc404995e60ada73bc5b145afa4</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435351675-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435351675</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447261445</vendor_id>
+        <title>Whiteout</title>
+        <artwork_files>
+            <file>
+                <size>2752594</size>
+                <file_name>9781447261445.jpg</file_name>
+                <checksum type="md5">68633d47765febf125adc47fdf758807</checksum>
+            </file>
+        </artwork_files>
+        <description>Filled with startling twists, Whiteout is the ultimate knife-edge drama from Ken Follett – an international bestselling author who is in a class of his own. As a blizzard whips down from the north on Christmas Eve, several people converge on a remote family house. Stanley Oxenford, director of a pharmaceutical research company, has everything riding on a drug he is developing to fight a lethal virus. Several others are interested in his success too: his children, at home for Christmas with their offspring, have their eyes on the money he will make; Toni Gallo, head of his security team and recently forced to resign from the police, is betting her career on keeping it safe; an ambitious local television reporter sniffs a story, even if he has to bend the facts to tell it; and a violent trio of thugs are on their way to steal it, with a client already waiting. As the storm worsens and the group is held under siege by the elements, the emotional sparks crackle and dark secrets are revealed that threaten to drive Stanley and his family apart for ever.</description>
+        <track_count>55</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2015-10-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/whiteout/id1435351675?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2015-10-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 41828779-->
+                <apple_id>41828779</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">41828779</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Ken Follett</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 422521292-->
+                <apple_id>422521292</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">422521292</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Sally Armstrong</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435351678-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351678</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19947600</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">2cbb4b530678e8a68fabf6c63ba18095</checksum>
+                </audio_file>
+                <title>Whiteout Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351679-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351679</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36837328</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">1d90c4e6ca6156ecdf9455b14cd413c6</checksum>
+                </audio_file>
+                <title>Whiteout Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351680-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351680</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22631936</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">132b481c101c165a58a2015333307d2f</checksum>
+                </audio_file>
+                <title>Whiteout Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351681-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351681</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16682816</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">f26bad38d7b96bdade2c984973744ae3</checksum>
+                </audio_file>
+                <title>Whiteout Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351682-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351682</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20671184</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">04de0679ebfb77a1a4977c56b0945f08</checksum>
+                </audio_file>
+                <title>Whiteout Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351683-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351683</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13940480</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">733fc2b7bfded6ffaccb079fe3703628</checksum>
+                </audio_file>
+                <title>Whiteout Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351684-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351684</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19924608</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">4c3389929f6610e02f21d4e44e6e1258</checksum>
+                </audio_file>
+                <title>Whiteout Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351685-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351685</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22400496</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">81e7a1aa913ae84dc229736dd54f54e2</checksum>
+                </audio_file>
+                <title>Whiteout Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351686-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351686</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17797712</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">1fa0033cd5aea168896cf71d0c76948d</checksum>
+                </audio_file>
+                <title>Whiteout Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351687-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351687</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27411824</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">51b80d966f9ed3ea07b8aea8e8fe1394</checksum>
+                </audio_file>
+                <title>Whiteout Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351688-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351688</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21242224</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">c5ba28f33b6f71f4ddc9545295f886a3</checksum>
+                </audio_file>
+                <title>Whiteout Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351689-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351689</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32490544</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">b26173094a1ca48e045ad9bb8893b5e7</checksum>
+                </audio_file>
+                <title>Whiteout Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351690-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351690</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16526592</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">1ea52397a4ca8a284aaada2dbb313bba</checksum>
+                </audio_file>
+                <title>Whiteout Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351781-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351781</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13842784</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">de53d2dcb98804c776c7692deff562ac</checksum>
+                </audio_file>
+                <title>Whiteout Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351782-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351782</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21899984</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">e69552db9028d44caab01757ed1f807c</checksum>
+                </audio_file>
+                <title>Whiteout Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351783-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351783</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10576432</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">8128f9c4ecf443fb8942954412d4547f</checksum>
+                </audio_file>
+                <title>Whiteout Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351784-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351784</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16635792</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">5ce362122a30a22d525a4f7f747caf2c</checksum>
+                </audio_file>
+                <title>Whiteout Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351785-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351785</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23635568</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">0e1c5b8499444b794d65bf52067d5f78</checksum>
+                </audio_file>
+                <title>Whiteout Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351786-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351786</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13068512</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">ff8f9c1251d1b72f6ce94952cb370981</checksum>
+                </audio_file>
+                <title>Whiteout Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351787-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351787</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12815120</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">4a6ebbacc5e2141928b0617634f61596</checksum>
+                </audio_file>
+                <title>Whiteout Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351788-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351788</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20970544</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">4f199c626aad36bb76439c41bedc3f49</checksum>
+                </audio_file>
+                <title>Whiteout Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351789-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351789</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9982400</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">492d45f068220ebf84bd08f549b163f3</checksum>
+                </audio_file>
+                <title>Whiteout Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351790-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351790</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24700832</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">da75d07c70c9b4ea9c923fa6af2fdcf2</checksum>
+                </audio_file>
+                <title>Whiteout Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351791-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351791</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6869648</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">b9fe6dbab8151ede35cd22ace7d55415</checksum>
+                </audio_file>
+                <title>Whiteout Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351792-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351792</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13114480</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">a1df444a308ce40df8ec9374183b137e</checksum>
+                </audio_file>
+                <title>Whiteout Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351793-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351793</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9393600</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">727e5904e82a387e3d394b1823ae5367</checksum>
+                </audio_file>
+                <title>Whiteout Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351794-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351794</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17595536</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">52613f306feecd9efda753b80347d6ce</checksum>
+                </audio_file>
+                <title>Whiteout Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351795-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351795</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8218096</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">f2bebe44f5c589b6b6115318bb899832</checksum>
+                </audio_file>
+                <title>Whiteout Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351796-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351796</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5594880</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">ddd913de9cbf3d7ba994bc8feee2e898</checksum>
+                </audio_file>
+                <title>Whiteout Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351797-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351797</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7127744</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">4303dc9a4c6c82514abdb88bb962df54</checksum>
+                </audio_file>
+                <title>Whiteout Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351798-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351798</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18047968</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">cf24b86ef29421ecffefe4c231fe6983</checksum>
+                </audio_file>
+                <title>Whiteout Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351799-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351799</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14016752</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">6410800cb3b856ee870a7ae2e7746492</checksum>
+                </audio_file>
+                <title>Whiteout Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351800-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351800</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11182992</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">3d357372572507861e6403d366ad4a63</checksum>
+                </audio_file>
+                <title>Whiteout Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351801-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351801</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12785872</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">963028cb01f7eb63165d168a4c7304ef</checksum>
+                </audio_file>
+                <title>Whiteout Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351802-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351802</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9196640</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">b14553a63ab12dfc1edda57abc1ecf8a</checksum>
+                </audio_file>
+                <title>Whiteout Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351803-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351803</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12505824</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">0790e4c91b5b37a75bef625798e24bb6</checksum>
+                </audio_file>
+                <title>Whiteout Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351804-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351804</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11925392</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">91c32a29fd521321004293489c3dde0e</checksum>
+                </audio_file>
+                <title>Whiteout Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351805-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351805</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16266944</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">0a23ccd83eae256f27dfe81a40dff286</checksum>
+                </audio_file>
+                <title>Whiteout Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351806-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351806</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21790800</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">8e7a6b978e23f9f3172e8967644b3237</checksum>
+                </audio_file>
+                <title>Whiteout Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351807-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351807</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16856784</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">c4ee125f42ed6448716c7b1fb83efeec</checksum>
+                </audio_file>
+                <title>Whiteout Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351808-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351808</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20238080</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">592f33707623e0ec806eb90ad45b24c4</checksum>
+                </audio_file>
+                <title>Whiteout Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351809-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351809</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10894080</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">102951915bda8254ae09369c6038d0d1</checksum>
+                </audio_file>
+                <title>Whiteout Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351810-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351810</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9120368</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">5bdd2bf1c3166c39df5123fb21a2765d</checksum>
+                </audio_file>
+                <title>Whiteout Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351841-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351841</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14842224</size>
+                    <file_name>Track_044.mp3</file_name>
+                    <checksum type="md5">3b7637e3a4c314bf85d3f3c1396bfff4</checksum>
+                </audio_file>
+                <title>Whiteout Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351842-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351842</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25162688</size>
+                    <file_name>Track_045.mp3</file_name>
+                    <checksum type="md5">7b51c3b7af7a1d17b7557c190d787816</checksum>
+                </audio_file>
+                <title>Whiteout Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351843-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351843</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17360944</size>
+                    <file_name>Track_046.mp3</file_name>
+                    <checksum type="md5">047c71731c3f88b33b70d675b66cefc6</checksum>
+                </audio_file>
+                <title>Whiteout Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351844-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351844</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11604608</size>
+                    <file_name>Track_047.mp3</file_name>
+                    <checksum type="md5">7e3d82a0597a2f9fe5da007ad075ca8c</checksum>
+                </audio_file>
+                <title>Whiteout Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351845-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351845</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14286336</size>
+                    <file_name>Track_048.mp3</file_name>
+                    <checksum type="md5">5cb2165cbd2fc61720d7f0079399a03f</checksum>
+                </audio_file>
+                <title>Whiteout Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351846-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351846</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16891792</size>
+                    <file_name>Track_049.mp3</file_name>
+                    <checksum type="md5">11e8cae5555440393b083bc0eeae9123</checksum>
+                </audio_file>
+                <title>Whiteout Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351847-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351847</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10161600</size>
+                    <file_name>Track_050.mp3</file_name>
+                    <checksum type="md5">a53fbe41cc665ef76ceabf08bf439e98</checksum>
+                </audio_file>
+                <title>Whiteout Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351848-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351848</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13266512</size>
+                    <file_name>Track_051.mp3</file_name>
+                    <checksum type="md5">33b594148d8248603ef8573f2d814eee</checksum>
+                </audio_file>
+                <title>Whiteout Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351849-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351849</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18159248</size>
+                    <file_name>Track_052.mp3</file_name>
+                    <checksum type="md5">c8f175402c55afc326c1d23a874b0501</checksum>
+                </audio_file>
+                <title>Whiteout Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351850-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351850</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_053</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_053</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 053 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6860768</size>
+                    <file_name>Track_053.mp3</file_name>
+                    <checksum type="md5">8f91a390ec1a5b207350ab0f3365abf6</checksum>
+                </audio_file>
+                <title>Whiteout Track 053</title>
+                <track_number>53</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_053</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351851-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351851</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_054</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_054</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 054 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11389888</size>
+                    <file_name>Track_054.mp3</file_name>
+                    <checksum type="md5">0d9e26b8ba15c79c21572a4bf5bc3ca3</checksum>
+                </audio_file>
+                <title>Whiteout Track 054</title>
+                <track_number>54</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_054</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435351852-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351852</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261445_055</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261445_055</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 41828779-->
+                        <apple_id>41828779</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">41828779</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ken Follett</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 422521292-->
+                        <apple_id>422521292</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">422521292</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Sally Armstrong</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 055 - Whiteout</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20111120</size>
+                    <file_name>Track_055.mp3</file_name>
+                    <checksum type="md5">25fedac2b981b17f479eec1c3cce0677</checksum>
+                </audio_file>
+                <title>Whiteout Track 055</title>
+                <track_number>55</track_number>
+                <vendor_offer_code>9781447261445_9781447261445_055</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447261445</vendor_offer_code>
+    </album>
+</package>

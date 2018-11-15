@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 18, 2018 2:43:17 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537263797798-b09ad4f9055b26b26d5af0d1b45989350197eb60c9c7439f6f74ff97fcf70ca1</metadata_token>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435392760-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435392760</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509844616</vendor_id>
+    <title>The Crossway</title>
+    <artwork_files>
+      <file>
+        <size>2569757</size>
+        <file_name>9781509844616.jpg</file_name>
+        <checksum type="md5">210901cc005710d1dbe48b7061ac7a72</checksum>
+      </file>
+    </artwork_files>
+    <description>A BBC Radio 4 'Book of the Week' in 2018. 'Moving and thought-provoking' Observer ‘An extraordinary travelogue, strange and brilliant’ i 'A beguiling portrait of one young man’s search into the hidden corners of Europe' Sunday Times In 2013 Guy Stagg made a pilgrimage from Canterbury to Jerusalem. Though a non-believer, he began the journey after suffering several years of mental illness, hoping the ritual would heal him. For ten months he hiked alone on ancient paths, crossing ten countries and more than 5,500 kilometres. The Crossway is an account of this extraordinary adventure. Having left home on New Year’s Day, Stagg climbed over the Alps in midwinter, spent Easter in Rome with a new pope, joined mass protests in Istanbul and survived a terrorist attack in Lebanon. Travelling without support, he had to rely each night on the generosity of strangers, staying with monks and nuns, priests and families. As a result, he gained a unique insight into the lives of contemporary believers and learnt the fascinating stories of the soldiers and saints, missionaries and martyrs who had followed these paths before him. The Crossway is a book full of wonders, mixing travel and memoir, history and current affairs. At once intimate and epic, it charts the author’s struggle to walk towards recovery, and asks whether religion can still have meaning for those without faith.</description>
+    <track_count>12</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>24</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-crossway/id1435392760?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>31</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>35</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NZ</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>38</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>30</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>24</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>32</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2018-06-14</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>27</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2018-06-14</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="BIOGRAPHY-MEMOIR-00">Biography &amp; Memoir</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 1326860547-->
+        <apple_id>1326860547</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">1326860547</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Guy Stagg</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 1056777564-->
+        <apple_id>1056777564</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">1056777564</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Laurence Dobiesz</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435392974-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392974</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>109558528</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">e54a311fff74f07da61a628e7b4327c7</checksum>
+        </audio_file>
+        <title>The Crossway Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392975-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392975</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>393523200</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">7777835718e35fdf3fe39fe40d2bba3b</checksum>
+        </audio_file>
+        <title>The Crossway Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392976-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392976</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>330445328</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">8d4df7c6dce70dcbc06199c69567fcce</checksum>
+        </audio_file>
+        <title>The Crossway Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392977-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392977</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>447460080</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">92744343abd43c704d9b7192c99a2f47</checksum>
+        </audio_file>
+        <title>The Crossway Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392978-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392978</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>359246464</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">80e57f5aaeecfd32a92faa94bc3cf897</checksum>
+        </audio_file>
+        <title>The Crossway Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392979-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392979</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>453343760</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">f7d9ba8d6a2cd6efc29d9bf96e352bb2</checksum>
+        </audio_file>
+        <title>The Crossway Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392980-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392980</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>427644848</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">cb6f7ab4fa309210636ed3ea4f10aeba</checksum>
+        </audio_file>
+        <title>The Crossway Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392981-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392981</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>430379696</size>
+          <file_name>Track_008.wav</file_name>
+          <checksum type="md5">4eb51a2f70614f778acea9f64fafc6bb</checksum>
+        </audio_file>
+        <title>The Crossway Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392982-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392982</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>424720256</size>
+          <file_name>Track_009.wav</file_name>
+          <checksum type="md5">3af606d5912de0997f26736da87bb57e</checksum>
+        </audio_file>
+        <title>The Crossway Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392983-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392983</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>452592352</size>
+          <file_name>Track_010.wav</file_name>
+          <checksum type="md5">d364fc3ceab9a720c4a2052c83e53da9</checksum>
+        </audio_file>
+        <title>The Crossway Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392984-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392984</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>404027936</size>
+          <file_name>Track_011.wav</file_name>
+          <checksum type="md5">2024d99a592b5af5ac0c8cc327fec2f1</checksum>
+        </audio_file>
+        <title>The Crossway Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435392985-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435392985</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509844616_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509844616_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 1326860547-->
+            <apple_id>1326860547</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1326860547</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Guy Stagg</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 1056777564-->
+            <apple_id>1056777564</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">1056777564</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Laurence Dobiesz</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - The Crossway</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>63021712</size>
+          <file_name>Track_012.wav</file_name>
+          <checksum type="md5">705c643727cfd848e8c5c4c8a47cd118</checksum>
+        </audio_file>
+        <title>The Crossway Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9781509844616_9781509844616_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9781509844616</vendor_offer_code>
+  </album>
+</package>

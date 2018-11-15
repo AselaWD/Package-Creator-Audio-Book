@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:40:59 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537252859499-723187e02de10497b0af2819627391ae6e0352c2c750f250ca40ca92a6ad01a2</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Tue Sep 11 11:47:10 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435944727-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435944727</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230702752</vendor_id>
+        <title>Past Reason Hated (Abridged)</title>
+        <artwork_files>
+            <file>
+                <size>195278</size>
+                <file_name>9780230702752.jpg</file_name>
+                <checksum type="md5">9c64fe1cfe2b5f9cc3f557714cec8e32</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;i&gt;Past Reason Hated &lt;/i&gt;is the fifth novel in Peter Robinson's Inspector Banks series, following on from &lt;i&gt;The Hanging Valley&lt;/i&gt;.&lt;/p&gt;&lt;p&gt;It should have been a cosy scene – log fire, sheepskin rug, Vivaldi on the stereo, Christmas lights and tree. But appearances can be deceptive. For Caroline Hartley, lying quietly on the couch, has been brutally murdered.&lt;/p&gt;&lt;p&gt; Inspector Alan Banks is called to the grim scene. And he soon has more suspects than he ever imagined. As he delves into her past, he realizes that for Caroline, secrecy was a way of life, and her death is no different. His ensuing investigation is full of hidden passions and desperate violence . . .&lt;/p&gt;&lt;p&gt;&lt;i&gt;Past Reason Hated&lt;/i&gt; is followed by the sixth book in this Yorkshire-based crime series, &lt;i&gt;Wednesday's Child&lt;/i&gt;.&lt;/p&gt;</description>
+        <track_count>30</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2007-06-01</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/past-reason-hated-abridged/id1435944727?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2007-06-01</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1435327236-->
+                <apple_id>1435327236</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435327236</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Peter Robinson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 58839791-->
+                <apple_id>58839791</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">58839791</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Neil Pearson</artist_name>
+                <locales>
+                    <locale name="cmn-Hans">
+                        <phonetic_name>Neil Pearson</phonetic_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435944729-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944729</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9173104</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">f9b08c1a7094f7b19d2656cced9e26bd</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944730-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944730</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10246416</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">d04c814c16e64aa30511e27de1dd6f7b</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944791-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944791</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7259680</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">e9d50dfa4f169c51e776fc1605287bcb</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944792-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944792</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11954832</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">5668db77bf5a4d620485ecadeab65104</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944793-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944793</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7253408</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">73022ccca7fcdc9e7d25798d41b8de06</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944794-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944794</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12228800</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">03e4134ec8812a8cf4562fc2065535c1</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944796-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944796</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11346704</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">0f64df4e4d9b7d7e955c9262908daabd</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944798-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944798</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9568704</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">cc2ce4e5a7cd8d875b7bcd542b2fddff</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944799-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944799</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11523488</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">dbb9e301603e69ee8e3532a16d06c75f</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944800-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944800</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4847232</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">57aab85ecdaa3ff2b256698b04c2b788</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944801-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944801</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9270272</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">e333ca55676bbd46bde22f44c9aca9c5</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944802-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944802</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7463440</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">73ededb27f9430c9906be5aa27419138</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944803-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944803</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5738112</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">96ced22a8edf3acdeed7a63e3f7282aa</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944804-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944804</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8171888</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">ecee0d3344ba11d48d7f4113af01377f</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944805-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944805</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8896000</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">a5b6bbc6cb978fad9a2fe8cc6eb404cd</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944806-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944806</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4946288</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">d6016b51688d7afa97fde3a61ddf04a4</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944807-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944807</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11110336</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">39d0e4d0e44a197031f0db4cd821f9a8</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944808-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944808</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9617600</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">5572dfaf27f5542ce16281fedfa6aec7</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944809-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944809</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10549232</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">7b26ec19f4733b6ef307a143239120fe</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944810-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944810</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4953184</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">08729b6415f6bda1172c17a85c02ccb5</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944811-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944811</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11008784</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">b407ef423b13edbc179953a1ffa7ab73</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944812-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944812</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8358704</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">8e361f8ce0bd2aa145d719b38281cf5e</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944813-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944813</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6159408</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">f8ceabea8f41304df42be613186e6b82</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944814-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944814</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9447072</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">d35990205880063904152a70e4e0b220</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944815-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944815</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10482784</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">0670a7c684239cbfceebfb014cad9c3f</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944816-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944816</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7232096</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">70ce543533b6c61b1b4920dfba0787b9</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944817-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944817</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7976272</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">060591c509dd0043051a4b23625639e8</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944818-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944818</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7210784</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">532b019f934e70d428302d4441386563</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944819-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944819</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9704752</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">d82d43580d37dbb477e7501005c7af3a</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435944820-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435944820</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230702752_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230702752_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435327236-->
+                        <apple_id>1435327236</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435327236</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Peter Robinson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 58839791-->
+                        <apple_id>58839791</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">58839791</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Neil Pearson</artist_name>
+                        <locales>
+                            <locale name="cmn-Hans">
+                                <phonetic_name>Neil Pearson</phonetic_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Past Reason Hated</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11327264</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">5facd05acbc121c390385f464cef9df5</checksum>
+                </audio_file>
+                <title>Past Reason Hated Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230702752_9780230702752_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230702752</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:45:11 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253111613-89b0dd0338dbd50e769a769dce710ba07dc555b1ff8ec20e9541cfcbc07d3e96</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 17:51:57 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435416005-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435416005</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509843459</vendor_id>
+        <title>Great Jones Street</title>
+        <artwork_files>
+            <file>
+                <size>501520</size>
+                <file_name>9781509843459.jpg</file_name>
+                <checksum type="md5">70f149daf0889fc3cc2d968e7f3059f8</checksum>
+            </file>
+        </artwork_files>
+        <description>Bucky Wunderlick is a rock and roll star. Dissatisfied with a life that has brought fame and fortune, he suddenly decides he no longer wants to be a commodity. He leaves his band mid-tour and holes up in a dingy, unfurnished apartment in Great Jones Street. Unfortunately, his disappearing act only succeeds in inflaming interest . . . Great Jones Street, Don DeLillo's third novel, is more than a musical satire: it probes the rights of the individual, foreshadows the struggle of the artist within a capitalist world and delivers a scathing portrait of our culture's obsession with the lives of the few.</description>
+        <track_count>28</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-09-28</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/great-jones-street/id1435416005?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-09-28</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2072116-->
+                <apple_id>2072116</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2072116</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Don DeLillo</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 429675530-->
+                <apple_id>429675530</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">429675530</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Jacques Roy</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435416006-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416006</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>972176</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">4e7ec55bc29e98976e71431cdf1024f5</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416007-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416007</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28673504</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">dfbded96288eea23670510848a7c3fee</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416008-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416008</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>67743792</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">3b10978343a38e5fbcb5f927654877d1</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416009-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416009</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>57624624</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">669baf9b92e050079780dd30f97ce599</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36370480</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">88bf12562d453b500fa2735e2e208ef2</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416041-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416041</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>45297712</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">6ae9e5789a300e1bd243f7979f5183d0</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416042-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416042</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>52335664</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">e495159bdb666e2ea3d861907540cb23</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416043-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416043</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28777520</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">465f70def0a6560fa66b7abc82b58496</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416044-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416044</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103252048</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">3a2f377058af7ddd47942da01bdbf98d</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416045-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416045</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107627008</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">ef4e98c8a3294f9358abc01d00760d1b</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416046-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416046</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146571648</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">6ff8209c4fb06138cf568f4ecdc915d9</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416047-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416047</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>241388768</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">f00b83c5d372ecbeec09b0bc1a93842c</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416048-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416048</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36047968</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">2a19c815dc98cec0a732bcf98def54f5</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416049-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416049</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90188192</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">8b331185d49a8deaee511db00a26fb36</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416050-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416050</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>80936400</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">31566e10fe80ff803fce35911a9330c9</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416051-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416051</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30462176</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">74adc5f3a39feedb4ce66a6dbe8457b6</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416052-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416052</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60728128</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">e3f7dfca0ae3aef544dd9ff35da68bae</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416053-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416053</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65532544</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">8afee9da5743545d7fd25c14697108ad</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416054-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416054</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>112278816</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">7e41e65034761681a20075ecdcb9c624</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416055-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416055</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137882624</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">b8c04b41af77e4587465956a585051bd</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416056-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416056</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>56735696</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">ad91cfa92a7ab9696f1a8a471f15eefc</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416057-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416057</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>46200480</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">21f16623dad767674d455858386e5266</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416058-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416058</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>47256768</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">7459bfc4a89c6e5387cec9bc82ea6024</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416059-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416059</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>108586432</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">06ca010c511867a78c800e45fff37f44</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416060-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416060</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42866880</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">2b120c44cd48daa46d4377e3478de360</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416061-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416061</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170508288</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">99e42a782aaa98c200d3e73c4ee40a3e</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416062-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416062</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>71053776</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">d5a05bf00d1f428f72aa08124b9327cf</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435416063-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435416063</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509843459_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509843459_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2072116-->
+                        <apple_id>2072116</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2072116</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Don DeLillo</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 429675530-->
+                        <apple_id>429675530</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">429675530</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jacques Roy</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Great Jones Street</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1726784</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">335c96c27515eae4f23cc50408f766c4</checksum>
+                </audio_file>
+                <title>Great Jones Street Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509843459_9781509843459_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509843459</vendor_offer_code>
+    </album>
+</package>

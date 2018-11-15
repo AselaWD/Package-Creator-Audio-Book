@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:09:15 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537250955699-927c2604d49a976322f00adb3b3b80d0ec02506e65f0dcd5ae6806009c9a6b7f</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435438554-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435438554</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509840281</vendor_id>
+        <title>Too Good To Be True</title>
+        <artwork_files>
+            <file>
+                <size>2387160</size>
+                <file_name>9781509840281.jpg</file_name>
+                <checksum type="md5">92ffa412f41b0a8718b3f5d0dd9e9443</checksum>
+            </file>
+        </artwork_files>
+        <description>Too Good To Be True is a gripping Quick Read from Ann Cleeves, featuring Detective Inspector Jimmy Perez from the bestselling Shetland series. When young teacher Anna Blackwell is found dead in her home, the police think her death was suicide or a tragic accident. After all, Stonebridge is a quiet country village in the Scottish Borders, where murders just don't happen. But Detective Inspector Jimmy Perez soon arrives from far-away Shetland when his ex-wife, Sarah, asks him to look into the case. The local gossips are saying that her new husband, Tom, was having an affair with Anna. Could Tom have been involved with her death? Sarah refuses to believe it - but needs proof. Anna had been a teacher. She must have loved kids. Would she kill herself knowing there was nobody to look after her daughter? She had seemed happier than ever before she died. And to Perez, this suggests not suicide, but murder . . .</description>
+        <track_count>16</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2016-10-06</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/too-good-to-be-true/id1435438554?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2016-10-06</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1435438555-->
+                <apple_id>1435438555</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438555</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Ann Cleeves</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 66786972-->
+                <apple_id>66786972</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">66786972</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kenny Blyth</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435438558-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438558</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40739520</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">75a5bbcb198671c42c5763daaf541d5d</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438559-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438559</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35562176</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">090d93291698b27e5a3a727a5684aa3d</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438560-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438560</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27174976</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">f81a9f811b9e497e851d5dec4f4aced2</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438561-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438561</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27972032</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">5f4faadc587d61780a6f941ca3691cd1</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438562-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438562</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42983168</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">620b12571b960b96187242fd43b7d3f5</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438563-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438563</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>41773552</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">5af83bb1f176da2b90591c86e75c1170</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438564-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438564</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33656320</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">e7a9305c078c6f3dc25b968297bffa17</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438565-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438565</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>37929152</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">b98a2680342edac0975aa4b8c49314aa</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438566-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438566</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>44989696</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">0f231e714ca8ea4bf5ff967ca063cdba</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438567-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438567</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40701152</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">4d0c110c429cebcab2d12ab4029e4cb0</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438568-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438568</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33216192</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">537ad0e76ea36ef4e7b7c54cc9fe8bc0</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438569-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438569</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38391040</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">566abbfbcde501687ca2a57c3bad9eac</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438570-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438570</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25089840</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">03e301288b9a02f37eeee1ad76393662</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438751-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438751</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30434240</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">b86037406aaad11f9c165d0b1d252321</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438752-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438752</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34560304</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">1742dec7c7462db1c7ec97e9ba0190c6</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438753-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438753</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509840281_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509840281_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1435438555-->
+                        <apple_id>1435438555</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435438555</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Ann Cleeves</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 66786972-->
+                        <apple_id>66786972</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">66786972</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kenny Blyth</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Too Good To Be True</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14201216</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">9e1abff981297b829fa48277c43e3b03</checksum>
+                </audio_file>
+                <title>Too Good To Be True Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509840281_9781509840281_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509840281</vendor_offer_code>
+    </album>
+</package>

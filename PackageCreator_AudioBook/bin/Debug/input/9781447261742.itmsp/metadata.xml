@@ -1,0 +1,3272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:38:57 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537252737832-b9177cf987cee9ed9ec79d50b2bfd025ef6d3d934c87e9ffeacd8db2853c1292</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435907442-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435907442</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447261742</vendor_id>
+        <title>Eclipse</title>
+        <artwork_files>
+            <file>
+                <size>1717238</size>
+                <file_name>9781447261742.jpg</file_name>
+                <checksum type="md5">810e0af4eb55c90ed7c8a1ed905f4a89</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;In a novel of international intrigue, an American lawyer, Damon Pierce, attempts to save Bobby Okari, the West African leader of a protest movement, from execution by the country’s corrupt and autocratic leader. Pierce is in a race against time, and as the complex trial—involving terrorism and the geopolitics of oil, missing witnesses and evidence, and the whims of a lawless country—unfolds, bodies fall and fates dangle.&lt;/p&gt;&lt;p&gt; Complicating matters further is Okari’s wife, Marissa Brand, with whom Pierce had a relationship years before that he’s never quite forgotten; she, in fact, persuaded him to take the case in the first place, and it is who she plays a crucial role in the eventual outcome of this taut and atmospheric novel.&lt;/p&gt;</description>
+        <track_count>54</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2014-12-18</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>28</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/eclipse/id1435907442?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2014-12-18</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2090212-->
+                <apple_id>2090212</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2090212</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Richard North Patterson</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 17622462-->
+                <apple_id>17622462</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">17622462</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>William Hope</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>威廉·霍普</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435907446-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907446</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32163504</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">bacc3d450676b6409a036348c74f4abb</checksum>
+                </audio_file>
+                <title>Eclipse Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907447-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907447</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15031872</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">72975ee2b3ddb21e0e6f54703926ed9d</checksum>
+                </audio_file>
+                <title>Eclipse Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907448-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907448</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13310928</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">ff8dabece3aecc69cfd4fff4ef582741</checksum>
+                </audio_file>
+                <title>Eclipse Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907449-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907449</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10081664</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">62d8dd3e3046221415dfd6085a86971d</checksum>
+                </audio_file>
+                <title>Eclipse Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907450-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907450</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19176976</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">e4112641f42480965774a23e0b54b150</checksum>
+                </audio_file>
+                <title>Eclipse Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907451-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907451</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15038672</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">926f4564f4b58705fcb133808f873483</checksum>
+                </audio_file>
+                <title>Eclipse Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907452-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907452</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7638704</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">c815bb5ec08b4d9e4a3f73878914f761</checksum>
+                </audio_file>
+                <title>Eclipse Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907453-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907453</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28508960</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">5b94d891adcd01e83e050937d5d914cb</checksum>
+                </audio_file>
+                <title>Eclipse Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907454-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907454</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11228960</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">ea49e6eaf435ddab271257703d0968eb</checksum>
+                </audio_file>
+                <title>Eclipse Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907455-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907455</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24464688</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">4d6e06e5d5f03479320834d63d77c69b</checksum>
+                </audio_file>
+                <title>Eclipse Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907456-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907456</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1893328</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">77420127e95e819cbe1bb5952c1413b9</checksum>
+                </audio_file>
+                <title>Eclipse Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907457-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907457</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23386352</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">82bde056490f2e08b57c75a524f6f1ed</checksum>
+                </audio_file>
+                <title>Eclipse Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907458-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907458</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22243232</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">4cf1569ea1dcf1f5e1563e225e6264df</checksum>
+                </audio_file>
+                <title>Eclipse Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907459-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907459</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20451232</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">03e36c7de8cd72ba88e26f4a9c16b693</checksum>
+                </audio_file>
+                <title>Eclipse Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907460-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907460</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24604704</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">9cac229797e32519bba6faf98ae733ce</checksum>
+                </audio_file>
+                <title>Eclipse Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29879344</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">59569166c62825da8bf0d57ff9886491</checksum>
+                </audio_file>
+                <title>Eclipse Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29144784</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">34e6c3b7fb553770dd0b9c4119baac6a</checksum>
+                </audio_file>
+                <title>Eclipse Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19684288</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">80f5190e8019de2bb2e549a35971aa52</checksum>
+                </audio_file>
+                <title>Eclipse Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15599248</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">3cefbc6dd90a3379d45739fab92ad81e</checksum>
+                </audio_file>
+                <title>Eclipse Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907465-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907465</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17053744</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">031eba8a72ce75e4a686e6a0a97188b3</checksum>
+                </audio_file>
+                <title>Eclipse Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907466-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907466</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13633280</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">830399c6b723c48a31c9c64163abc7c8</checksum>
+                </audio_file>
+                <title>Eclipse Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907467-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907467</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16715728</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">13a93fad0490de77e826c5af26b7d050</checksum>
+                </audio_file>
+                <title>Eclipse Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907468-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907468</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17348416</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">7979d487acb093279bd5ffea993f78a0</checksum>
+                </audio_file>
+                <title>Eclipse Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907469-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907469</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9994416</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">eca843bc3a75d01eb87f6b5bdc9d7236</checksum>
+                </audio_file>
+                <title>Eclipse Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907470-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907470</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16163504</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">f5f03c2337c2d6c416292867771a5e53</checksum>
+                </audio_file>
+                <title>Eclipse Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907471-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907471</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25630272</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">98a0e9834df5bf525a9479babbc78c82</checksum>
+                </audio_file>
+                <title>Eclipse Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907472-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907472</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29559088</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">dfa98351cae2b47cdf60df2aa1e5859d</checksum>
+                </audio_file>
+                <title>Eclipse Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32089824</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">e5a3a37e3d4394c0d0366260230be23c</checksum>
+                </audio_file>
+                <title>Eclipse Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907474-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907474</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28540832</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">6142a6f4a196b044fa383bca96768b66</checksum>
+                </audio_file>
+                <title>Eclipse Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907475-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907475</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25167376</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">12d11e9374249b8f47977f9a2d3a7803</checksum>
+                </audio_file>
+                <title>Eclipse Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20937120</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">16037aa2c906449285206621fcc01959</checksum>
+                </audio_file>
+                <title>Eclipse Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21299168</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">a30adba1eb1206a176b1becabf33fd6d</checksum>
+                </audio_file>
+                <title>Eclipse Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25109920</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">cec1a85cc89d6d82a13a009d7c52ecb1</checksum>
+                </audio_file>
+                <title>Eclipse Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12682416</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">14b3279a74f9fd47de623d64c85132c1</checksum>
+                </audio_file>
+                <title>Eclipse Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907480-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907480</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20114256</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">7ac41038ae1002abc3dfe6d6b15cd487</checksum>
+                </audio_file>
+                <title>Eclipse Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907481-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907481</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17712032</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">1de4839fa232d9dd5707b6d1f5d6e2e2</checksum>
+                </audio_file>
+                <title>Eclipse Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907482-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907482</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21255808</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">fab00513fcb27376ea66115220e4da6b</checksum>
+                </audio_file>
+                <title>Eclipse Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907483-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907483</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22898912</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">70a2af1f85386212ddaa6bd26e02188b</checksum>
+                </audio_file>
+                <title>Eclipse Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907484-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907484</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16661392</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">c7c1becea588b72555f62a17a57d37e8</checksum>
+                </audio_file>
+                <title>Eclipse Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907485-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907485</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30677136</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">852070c463441ccecccf8289303833eb</checksum>
+                </audio_file>
+                <title>Eclipse Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907486-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907486</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17463872</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">bc8a5a4e6752488600e0f51ed58e8fa7</checksum>
+                </audio_file>
+                <title>Eclipse Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907487-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907487</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32147296</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">bfff8dafa65e8f3c636db86a553f3926</checksum>
+                </audio_file>
+                <title>Eclipse Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907488-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907488</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22581264</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">f3f2d74f1ee227a0799f60e80b44a507</checksum>
+                </audio_file>
+                <title>Eclipse Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907489-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907489</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21157072</size>
+                    <file_name>Track_044.mp3</file_name>
+                    <checksum type="md5">0e589445a24a38a0322dfdb45eff03a9</checksum>
+                </audio_file>
+                <title>Eclipse Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907490-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907490</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24139728</size>
+                    <file_name>Track_045.mp3</file_name>
+                    <checksum type="md5">ad27c70551703bd2e43cdaa36aa0e024</checksum>
+                </audio_file>
+                <title>Eclipse Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907491-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907491</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20434000</size>
+                    <file_name>Track_046.mp3</file_name>
+                    <checksum type="md5">f7605a312d2d40da564443086c50e479</checksum>
+                </audio_file>
+                <title>Eclipse Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907492-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907492</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23018544</size>
+                    <file_name>Track_047.mp3</file_name>
+                    <checksum type="md5">f2b45b261ea9cf186ebc97ca91834a55</checksum>
+                </audio_file>
+                <title>Eclipse Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907493-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907493</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14530320</size>
+                    <file_name>Track_048.mp3</file_name>
+                    <checksum type="md5">8b30aba0ba82712d9591591de5c450e4</checksum>
+                </audio_file>
+                <title>Eclipse Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907494-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907494</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14522480</size>
+                    <file_name>Track_049.mp3</file_name>
+                    <checksum type="md5">e4486aa81657ee63ee2e197f12b3f034</checksum>
+                </audio_file>
+                <title>Eclipse Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907495-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907495</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16122224</size>
+                    <file_name>Track_050.mp3</file_name>
+                    <checksum type="md5">0c97c2947c044c2dceb4f4d795e24172</checksum>
+                </audio_file>
+                <title>Eclipse Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907496-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907496</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22033216</size>
+                    <file_name>Track_051.mp3</file_name>
+                    <checksum type="md5">6315db2447a2de195c3c25501a65b3d2</checksum>
+                </audio_file>
+                <title>Eclipse Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907497-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907497</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18509296</size>
+                    <file_name>Track_052.mp3</file_name>
+                    <checksum type="md5">1971935220a9a0dc469d04654d5a950f</checksum>
+                </audio_file>
+                <title>Eclipse Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907498-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907498</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_053</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_053</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 053 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18015584</size>
+                    <file_name>Track_053.mp3</file_name>
+                    <checksum type="md5">e48307c87eefe57a451ebd5b037fbeff</checksum>
+                </audio_file>
+                <title>Eclipse Track 053</title>
+                <track_number>53</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_053</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435907499-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435907499</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447261742_054</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447261742_054</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2090212-->
+                        <apple_id>2090212</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2090212</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Richard North Patterson</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 17622462-->
+                        <apple_id>17622462</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">17622462</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>William Hope</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>威廉·霍普</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 054 - Eclipse</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19612704</size>
+                    <file_name>Track_054.mp3</file_name>
+                    <checksum type="md5">90b45dd63d736d815c362dbb0161a519</checksum>
+                </audio_file>
+                <title>Eclipse Track 054</title>
+                <track_number>54</track_number>
+                <vendor_offer_code>9781447261742_9781447261742_054</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447261742</vendor_offer_code>
+    </album>
+</package>

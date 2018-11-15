@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:52:59 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537249979348-25920f4f8b3ac2df906782fd5c9e134f02be7b3d60c7fe12fe9967918633e40f</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 22:25:33 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435440531-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435440531</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509874767</vendor_id>
+        <title>Six Billion Shoppers</title>
+        <artwork_files>
+            <file>
+                <size>1179917</size>
+                <file_name>9781509874767.jpg</file_name>
+                <checksum type="md5">fa79e4d385a268f8b080bd935db374c8</checksum>
+            </file>
+        </artwork_files>
+        <description>From China to India to Nigeria, e-commerce is entering a golden era in countries that were long left out of the e-commerce gold rush experienced in the West. If the story of the first twenty years of e-commerce’s growth was set in developed markets, the story of the next twenty years will be set in emerging ones. The rise of e-commerce in emerging markets is being driven by three major trends: widespread internet adoption, a rising middle class, and, most importantly, innovative new business models that serve the needs of local customers better than the models used by western e-commerce giants. Six Billion Shoppers takes readers on an exciting and colorful journey around the world to visit the next e-commerce mega markets and explore how a new e-commerce boom is opening opportunities for entrepreneurs and global brands alike. Traveling through Nigeria, China, India, Southeast Asia, and Latin America, Porter Erisman addresses e-commerce across these new markets and what it means for western brands. He argues that e-commerce in developing countries is revolutionary and will play a much larger role in emerging markets than in the West. With e-commerce in emerging markets entering a rapid period of expansion, Six Billion Shoppers explains how to seize the massive opportunity created by emerging market consumers and provides practical advice on how to ride this new business trend.</description>
+        <track_count>13</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-09-28</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/six-billion-shoppers/id1435440531?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-09-28</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="BUSINESS-00">Business</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 931627874-->
+                <apple_id>931627874</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">931627874</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Porter Erisman</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 297059712-->
+                <apple_id>297059712</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">297059712</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>George Newbern</artist_name>
+                <locales>
+                    <locale name="ru">
+                        <artist_name>Джордж Ньюберн</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>乔治·纽伯恩</artist_name>
+                    </locale>
+                    <locale name="es-419">
+                        <artist_name>George Newbern</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435440535-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440535</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8052336</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">22552d6e9a835ab7b30d1b8880bb8972</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440536-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440536</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184544656</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">3670b2fbdf2b71c2fd930e29a4b3525d</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440537-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440537</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>346977856</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">00fa9fb21deab726451d93ec5fbbf718</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440538-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440538</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>447500032</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">d060872020af9b0d26090dfcb0a4d39d</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440539-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440539</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>398844848</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">3e55529abf0278d0c7954426a51546ea</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440540-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440540</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>660761712</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">5906abcefbaf2acf9480771c71143de3</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440541-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440541</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>409523840</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">348c6a6d685dbc0837d37eb1fce74922</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440542-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440542</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>633765360</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">1d019a5d970a7bc4b50fb38c2a3151be</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>716010496</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">3c2f125aea00f96a83c4bcee1b2dc06d</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440544-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440544</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>592975440</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">823b32b3e87fa916cd31f831a40eba96</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440545-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440545</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>270180560</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">5bb99bf78da48ecbe04bd9995f9fb549</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440546-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440546</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136723216</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">e9a28fa5b8fdd379933ff7f2a28ccaf6</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435440547-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435440547</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509874767_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509874767_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 931627874-->
+                        <apple_id>931627874</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">931627874</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Porter Erisman</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 297059712-->
+                        <apple_id>297059712</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">297059712</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>George Newbern</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Джордж Ньюберн</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>乔治·纽伯恩</artist_name>
+                            </locale>
+                            <locale name="es-419">
+                                <artist_name>George Newbern</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Six Billion Shoppers</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6509568</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">34fd57de5c8f438a1508ed2d8efaf122</checksum>
+                </audio_file>
+                <title>Six Billion Shoppers Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509874767_9781509874767_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509874767</vendor_offer_code>
+    </album>
+</package>

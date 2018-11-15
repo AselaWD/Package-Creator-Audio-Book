@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 11:48:11 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537253290939-639b996d0a564549d63d17a8800776afb23f14f119c75a5d462b69925f387541</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Thu Sep 13 08:37:30 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436185467-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436185467</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230018365</vendor_id>
+        <title>The Jewel That Was Ours (Abridged)</title>
+        <artwork_files>
+            <file>
+                <size>2447042</size>
+                <file_name>9780230018365.jpg</file_name>
+                <checksum type="md5">2b6ab1c49644cc4f0a26ab247e3a9950</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;b&gt;&lt;i&gt;The Jewel That Was Ours&lt;/i&gt; is the ninth novel in Colin Dexter's Oxford-set detective series.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;He looked overweight around the midriff, though nowhere else, and she wondered whether perhaps he drank too much. He looked weary, as if he had been up most of the night conducting his investigations . . .&lt;/i&gt;&lt;/p&gt;&lt;p&gt;For Oxford, the arrival of twenty-seven American tourists is nothing out of the ordinary . . . until one of their number is found dead in Room 310 at the Randolph Hotel.&lt;/p&gt;&lt;p&gt;It looks like a sudden – and tragic – accident. Only Chief Inspector Morse appears not to overlook the simultaneous theft of a jewel-encrusted antique from the victim's handbag . . .&lt;/p&gt;&lt;p&gt;Then, two days later, a naked and battered corpse is dragged from the River Cherwell. A coincidence? Maybe. But this time Morse is determined to prove the link . . .&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Jewel That Was Ours&lt;/i&gt; is followed by the tenth Inspector Morse book, &lt;i&gt;The Way Through the Woods&lt;/i&gt;.&lt;/p&gt;</description>
+        <track_count>36</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2006-11-17</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-jewel-that-was-ours-abridged/id1436185467?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2006-11-17</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2633422-->
+                <apple_id>2633422</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2633422</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Colin Dexter</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 214452178-->
+                <apple_id>214452178</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">214452178</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kevin Whately</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436185471-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185471</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9003824</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">13b74cdc9995d1f9f2eb91a534684e68</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185472-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185472</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5787632</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">758add61fb0c4be00774836107066798</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5835904</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">f8653a642f8672b7a107ae0722313cfc</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185474-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185474</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8311072</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">19b1572a362e2b4147fb94d7989d21ea</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185475-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185475</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7168784</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">499b5cb1e99e1180e979cad65cb18dbd</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8619520</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">974b897b9e4c8b691fbf182a0f920359</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7644000</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">511830949d774a8344214c3ecac9ba0a</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5143136</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">9c7b6e8529ee595894c93764d9e79b02</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7459680</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">7f7b2ad042d05c868d2ed5cfffbc9926</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185480-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185480</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6872864</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">a088ceab00d5805fa96544a7cad73fee</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185661-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185661</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7659680</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">3b144b0d5b9f0f15dee839a630ff939b</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185662-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185662</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6915504</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">5cda2b29e5bd36e1e34b0b8e410bf884</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185663-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185663</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9380000</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">335286fb56949dc95a38d3b3b9a39576</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185664-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185664</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6595760</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">7bfc1ee5cd987c1d78b1a700738f3d31</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185665-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185665</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8891616</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">bdebcf2a14a6a14b1153e35a041d66ef</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185666-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185666</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6076032</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">751e68618a6b198145d021091984f118</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185667-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185667</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6019600</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">3c4186ca9a8fe02e0b0876d104d652dc</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185668-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185668</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7948064</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">cea3d08ea436aac119060df912a94452</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185669-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185669</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9027648</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">209db53f131270242c5b105ea85ab1d3</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185670-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185670</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5543136</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">1f5577b6f96f629d0ead8ea4e71cd7e9</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185671-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185671</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9052112</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">e0830b7d563cac72ec3f6436f132682b</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185672-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185672</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6760640</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">86602389fb03efceedd0109b7a091326</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185673-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185673</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5140016</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">b4d02a1a87c5400b0633c163934719b3</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185674-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185674</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8259664</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">c7bffb77abdd633cb5576defebecea47</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185675-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185675</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7491664</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">22f740a06002ce2df407eb3d013ca9b3</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185676-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185676</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9028288</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">42dcaa47861af563d5739b4eef712050</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185677-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185677</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8279088</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">3181b5ac64de579fddcbba57dae09fd5</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185678-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185678</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5096752</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">d103e836e720252775568f88b0fdc675</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185679-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185679</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6368816</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">10947b16e22d4e1f5778efe7d3fbae33</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185680-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185680</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7270976</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">bbafcb0741cb84794c2f3b4186a1b055</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185681-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185681</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9662752</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">3ec25bb0bf1392be2fe6884afc9d9a13</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185682-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185682</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8888480</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">a190d5f035402e4be0453edc8c97e899</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185683-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185683</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6595760</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">3d5f3be5087d98505e4ec909d40bc7c3</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185684-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185684</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6539968</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">c5b25b1d8872846a860099a6ba90aac9</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185685-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185685</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6219600</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">f49027b347419f964fdd57e412a2d00b</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436185686-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436185686</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230018365_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230018365_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2633422-->
+                        <apple_id>2633422</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2633422</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Colin Dexter</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 214452178-->
+                        <apple_id>214452178</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">214452178</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Whately</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Jewel That Was Ours</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6627728</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">547df40fd35879d652f6bfd9c47b41e9</checksum>
+                </audio_file>
+                <title>The Jewel That Was Ours Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9780230018365_9780230018365_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230018365</vendor_offer_code>
+    </album>
+</package>

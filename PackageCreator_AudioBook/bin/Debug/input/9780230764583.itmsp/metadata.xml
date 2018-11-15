@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:40:31 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260031859-8695c3e6b162a605272afc117c597669da8ef57cfce2d15edab8d08f29c90a94</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436189658-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436189658</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230764583</vendor_id>
+        <title>How to Thrive in the Digital Age</title>
+        <artwork_files>
+            <file>
+                <size>467292</size>
+                <file_name>9780230764583.jpg</file_name>
+                <checksum type="md5">1fecf9fa61207d2411c2a9f6378c7d5c</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;Over the last decade, through digital media, we have crossed a number of significant thresholds: the interconnection of over half of the world’s adult population through mobile telephony and the internet and the devotion of more than half the waking hours of a western generation to mediated experience.&lt;/p&gt;&lt;p&gt; Yet little mainstream thought has been given to what these transitions signify for the business of daily living; and what thought there has been too often focuses on grand claims of loss or gain.&lt;/p&gt;&lt;p&gt; This book asks what it means not simply to live within a digital century, but to live well with it and within it. Unlike most other contemporary accounts, it is neither a tale of technology doom nor glory, but a pragmatic guide to what questions we need to ask of the world around us; what it might mean to answer these; and what practical steps might allow us all both to choose and to use the tools at our disposal, and to live within a digital century in as fully human a sense as possible.&lt;/p&gt;</description>
+        <track_count>10</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2012-05-10</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>14</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/how-to-thrive-in-the-digital-age/id1436189658?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2012-05-10</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="NONFICTION-00">Nonfiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 402797170-->
+                <apple_id>402797170</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">402797170</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Tom Chatfield</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 507432461-->
+                <apple_id>507432461</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">507432461</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>The School of Life</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 121483685-->
+                <apple_id>121483685</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">121483685</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>David Thorpe</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436189660-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189660</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10263408</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">2e9f5a0740f4252e2c4b187214b78e48</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189661-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189661</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24449184</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">7f198ef24784fcdb6fee16d38b0339be</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189662-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189662</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21406832</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">b9ff9c80dda82d02a4a8c33f39042a18</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189663-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189663</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29301312</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">d47ee03245576cb5124b62fc7e500b85</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189664-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189664</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21060032</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">92687b7cb1ad171672128d14ae1d574b</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189665-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189665</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>39597136</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">70ef2d2d1b7839edcf6b05a9d586667a</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189666-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189666</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33551232</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">137f545cc72ec8ed1ec2955f4e3cad95</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189667-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189667</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33000352</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">8de2973b9cb4177420aede2ca938d7de</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189668-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189668</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28610208</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">cfe37f5a46532016a1ab9f6067fcfa3c</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436189669-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436189669</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230764583_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230764583_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 402797170-->
+                        <apple_id>402797170</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">402797170</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Tom Chatfield</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 507432461-->
+                        <apple_id>507432461</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">507432461</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>The School of Life</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 121483685-->
+                        <apple_id>121483685</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">121483685</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>David Thorpe</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - How to Thrive in the Digital Age</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36748832</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">e504029ca213e7a2ee8684e723d1c862</checksum>
+                </audio_file>
+                <title>How to Thrive in the Digital Age Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230764583_9780230764583_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230764583</vendor_offer_code>
+    </album>
+</package>

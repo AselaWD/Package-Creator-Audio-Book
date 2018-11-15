@@ -1,0 +1,2407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 17, 2018 10:21:08 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537248068857-21788734b03df9c0fd67a9376ed768fc5d550403a26486620028f9a5b3bfa017</metadata_token>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435434444-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435434444</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509817801</vendor_id>
+    <title>The Angry Tide</title>
+    <artwork_files>
+      <file>
+        <size>3348462</size>
+        <file_name>9781509817801.jpg</file_name>
+        <checksum type="md5">e4e94d1f013b961de1c7c814629833ca</checksum>
+      </file>
+    </artwork_files>
+    <description>The Angry Tide is the seventh novel in Winston Graham's hugely popular Poldark series, which has become a television phenomenon starring Aidan Turner. Cornwall, towards the end of the 18th century. Ross Poldark sits for the borough of Truro as Member of Parliament – his time divided between London and Cornwall, his heart divided about his wife, Demelza. His old feud with George Warleggan still flares – as does the illicit love between Morwenna and Drake, Demelza's brother. Before the new century dawns, George and Ross will be drawn together by a loss greater than their rivalry – and Morwenna and Drake by a tragedy that brings them hope . . . The Angry Tide is followed by the eighth book in the Poldark series, The Stranger From The Sea.</description>
+    <track_count>39</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>32</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-angry-tide/id1435434444?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>CA</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>40</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>41</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>43</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NZ</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>47</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>41</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>33</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>44</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2016-07-07</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-17</start_date>
+            <wholesale_price_tier>34</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2016-07-07</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="FICTION-00">Fiction</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 267141544-->
+        <apple_id>267141544</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">267141544</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Winston Graham</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 703027938-->
+        <apple_id>703027938</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">703027938</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Oliver J Hembrough</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435434446-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434446</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>162318864</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">4de5b14b0c2b2c36dbc9fb7e2e67ce47</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434447-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434447</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>155901120</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">6680c8d498607edad6bf0b62aaa69a40</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434448-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434448</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>166668960</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">290ef67b3ff33973a0a5a04824d2e2fd</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434449-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434449</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>220804832</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">c01ec5ba3557c875a682aba24f19704a</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434450-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434450</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>131571520</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">81ec0372553892404bd8853e5e6d9d40</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434451-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434451</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>101462496</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">c61703c4f7dc86fb2678f4d84cad4718</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434452-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434452</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>192696000</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">8cba98633b26b29f6f2408df31427394</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434453-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434453</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>239839008</size>
+          <file_name>Track_008.wav</file_name>
+          <checksum type="md5">1603873dd98515c537b082d50d85e53b</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434454-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434454</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>147507376</size>
+          <file_name>Track_009.wav</file_name>
+          <checksum type="md5">8250a71e012b02bbe823050e3f1f5aa6</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434455-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434455</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>198661648</size>
+          <file_name>Track_010.wav</file_name>
+          <checksum type="md5">00d48eab7713270780a60e8828205ef5</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434456-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434456</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>107997008</size>
+          <file_name>Track_011.wav</file_name>
+          <checksum type="md5">d670a8b486fe34313c899081e827870d</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434457-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434457</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>182688976</size>
+          <file_name>Track_012.wav</file_name>
+          <checksum type="md5">810308cf524951e41ac9d1e235ee871f</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434459-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434459</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_013</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_013</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 013 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>134245856</size>
+          <file_name>Track_013.wav</file_name>
+          <checksum type="md5">7ec3fcce4810f2651932d90e4cc1473e</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 013</title>
+        <track_number>13</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_013</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434460-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434460</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_014</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_014</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 014 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>133051376</size>
+          <file_name>Track_014.wav</file_name>
+          <checksum type="md5">79baeb8cf7065719fc98e559813f9c6a</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 014</title>
+        <track_number>14</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_014</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434611-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434611</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_015</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_015</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 015 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>172221776</size>
+          <file_name>Track_015.wav</file_name>
+          <checksum type="md5">5386c8ff3ac0cc64ad8055b5d15af668</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 015</title>
+        <track_number>15</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_015</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434613-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434613</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_016</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_016</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 016 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>139852224</size>
+          <file_name>Track_016.wav</file_name>
+          <checksum type="md5">f67bd374e59368a5602e3aa8f3f9fb64</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 016</title>
+        <track_number>16</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_016</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434614-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434614</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_017</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_017</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 017 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>171640448</size>
+          <file_name>Track_017.wav</file_name>
+          <checksum type="md5">9aaadde03d915cae563808c545240e20</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 017</title>
+        <track_number>17</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_017</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434615-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434615</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_018</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_018</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 018 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>129342320</size>
+          <file_name>Track_018.wav</file_name>
+          <checksum type="md5">deca9f665ba45516323a577d1a491571</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 018</title>
+        <track_number>18</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_018</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434616-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434616</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_019</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_019</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 019 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>163792144</size>
+          <file_name>Track_019.wav</file_name>
+          <checksum type="md5">dd0afe677c82580227218ff44ae80032</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 019</title>
+        <track_number>19</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_019</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434617-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434617</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_020</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_020</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 020 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>116577968</size>
+          <file_name>Track_020.wav</file_name>
+          <checksum type="md5">4b25dbbe78d7de8e346f8e4d6a5d62a5</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 020</title>
+        <track_number>20</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_020</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434618-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434618</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_021</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_021</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 021 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>136330016</size>
+          <file_name>Track_021.wav</file_name>
+          <checksum type="md5">d41d8c045006743d0823e5945a1a5e4d</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 021</title>
+        <track_number>21</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_021</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434619-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434619</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_022</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_022</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 022 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>128541632</size>
+          <file_name>Track_022.wav</file_name>
+          <checksum type="md5">d0bd3eb1e687e298f2511687d7e1991a</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 022</title>
+        <track_number>22</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_022</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434620-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434620</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_023</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_023</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 023 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>174991968</size>
+          <file_name>Track_023.wav</file_name>
+          <checksum type="md5">b91200d431384228905ec128e651d219</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 023</title>
+        <track_number>23</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_023</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434621-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434621</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_024</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_024</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 024 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>81048448</size>
+          <file_name>Track_024.wav</file_name>
+          <checksum type="md5">e5059220ebd18900f4650a95a1b9bbff</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 024</title>
+        <track_number>24</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_024</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434622-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434622</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_025</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_025</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 025 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>103447680</size>
+          <file_name>Track_025.wav</file_name>
+          <checksum type="md5">200a2920a5bad6bda63581c63a6d70a5</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 025</title>
+        <track_number>25</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_025</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434623-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434623</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_026</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_026</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 026 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>222539760</size>
+          <file_name>Track_026.wav</file_name>
+          <checksum type="md5">c587e10bcc216e3c99fccb4e05b09faf</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 026</title>
+        <track_number>26</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_026</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434624-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434624</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_027</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_027</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 027 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>170939728</size>
+          <file_name>Track_027.wav</file_name>
+          <checksum type="md5">af101ee41476b15c468f822ce8cfc24f</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 027</title>
+        <track_number>27</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_027</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434625-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434625</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_028</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_028</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 028 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>143557840</size>
+          <file_name>Track_028.wav</file_name>
+          <checksum type="md5">f7f53475d979b20c90b8afdbbf891281</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 028</title>
+        <track_number>28</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_028</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434626-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434626</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_029</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_029</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 029 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>145809936</size>
+          <file_name>Track_029.wav</file_name>
+          <checksum type="md5">e3cb7c2c372289971d233e94ec5ac8fb</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 029</title>
+        <track_number>29</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_029</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434627-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434627</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_030</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_030</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 030 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>130066640</size>
+          <file_name>Track_030.wav</file_name>
+          <checksum type="md5">93b2e105fd7e8f7a5cbd11633f174bbf</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 030</title>
+        <track_number>30</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_030</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434628-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434628</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_031</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_031</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 031 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>120412016</size>
+          <file_name>Track_031.wav</file_name>
+          <checksum type="md5">5f2f262f79ff39913a02ee4b43a15ac6</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 031</title>
+        <track_number>31</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_031</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434629-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434629</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_032</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_032</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 032 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>105607200</size>
+          <file_name>Track_032.wav</file_name>
+          <checksum type="md5">d556c4809061ecd6faaa5f486903b1a1</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 032</title>
+        <track_number>32</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_032</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434630-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434630</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_033</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_033</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 033 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>208682432</size>
+          <file_name>Track_033.wav</file_name>
+          <checksum type="md5">851a3b71bc879c2bfaeaae660ec2c2f2</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 033</title>
+        <track_number>33</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_033</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434631-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434631</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_034</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_034</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 034 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>157124032</size>
+          <file_name>Track_034.wav</file_name>
+          <checksum type="md5">854b81bf912928822483122aa1aff23c</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 034</title>
+        <track_number>34</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_034</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434632-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434632</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_035</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_035</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 035 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>147444112</size>
+          <file_name>Track_035.wav</file_name>
+          <checksum type="md5">437092d84111129cbd6567f13591b840</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 035</title>
+        <track_number>35</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_035</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434633-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434633</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_036</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_036</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 036 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>271873232</size>
+          <file_name>Track_036.wav</file_name>
+          <checksum type="md5">ae65a4c0fee2ca594f5f77d57e976d16</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 036</title>
+        <track_number>36</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_036</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434634-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434634</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_037</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_037</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 037 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>173926000</size>
+          <file_name>Track_037.wav</file_name>
+          <checksum type="md5">9d707ae44011927c4cd37eab1be5db5b</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 037</title>
+        <track_number>37</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_037</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434635-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434635</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_038</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_038</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 038 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>196268640</size>
+          <file_name>Track_038.wav</file_name>
+          <checksum type="md5">5c7d399cbf84c88e7804a01a06c8a8cd</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 038</title>
+        <track_number>38</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_038</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435434636-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435434636</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509817801_039</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509817801_039</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 267141544-->
+            <apple_id>267141544</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">267141544</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Winston Graham</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 703027938-->
+            <apple_id>703027938</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">703027938</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Oliver J Hembrough</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 039 - The Angry Tide</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>91217184</size>
+          <file_name>Track_039.wav</file_name>
+          <checksum type="md5">2ac259f8faf18d9f2b708f130c829326</checksum>
+        </audio_file>
+        <title>The Angry Tide Track 039</title>
+        <track_number>39</track_number>
+        <vendor_offer_code>9781509817801_9781509817801_039</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9781509817801</vendor_offer_code>
+  </album>
+</package>

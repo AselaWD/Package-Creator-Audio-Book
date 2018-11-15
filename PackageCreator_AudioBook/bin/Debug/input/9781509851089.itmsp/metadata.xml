@@ -1,0 +1,2134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:05:57 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537261557523-f7aeee615c15937559436ecf24839bd884972df60ea0088ac10fd6607141a446</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 13:44:52 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435385940-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435385940</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509851089</vendor_id>
+        <title>On a Beautiful Day</title>
+        <artwork_files>
+            <file>
+                <size>3066455</size>
+                <file_name>9781509851089.jpg</file_name>
+                <checksum type="md5">ffb59acc9855d1156821938d84419399</checksum>
+            </file>
+        </artwork_files>
+        <description>Treasure every moment. Life can change in a heartbeat. What the fans say: 'Wonderful characters and the stories are always great, with twists and turns' Gemma It’s a beautiful day in Manchester and four friends are meeting for a birthday lunch. But then they witness a shocking accident just metres away which acts as a catalyst for each of them. For Laura, it’s a wake-up call to heed the ticking of her biological clock. Sensible Jo finds herself throwing caution to the wind in a new relationship. Eve, who has been trying to ignore the worrying lump in her breast, feels helpless and out of control. And happy-go-lucky India is drawn to one of the victims of the accident, causing long-buried secrets to rise to the surface. This is a novel about the startling and unexpected turns life can take. It’s about luck – good and bad – and about finding bravery and resilience when your world is in turmoil. Above all, it’s about friendship, togetherness and hope. Exclusive to the audiobook, On A Beautiful Day contains a unique Q&amp;A session between the author and her editor. Praise for Lucy Diamond: 'A hugely satisfying read' Heat 'An absolute treat' Katie Fforde, bestselling author of A Summer at Sea 'Warm, witty and wise' Daily Mail</description>
+        <track_count>38</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-01-11</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/on-a-beautiful-day/id1435385940?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-01-11</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 328429991-->
+                <apple_id>328429991</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">328429991</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Lucy Diamond</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 264900562-->
+                <apple_id>264900562</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">264900562</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Clare Wille</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435385948-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435385948</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>326645520</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">04841b64432e9cd8b19ff452f1d68197</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435385949-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435385949</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>157216880</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">e24f509a1d7ff7977854cf73484094d6</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435385950-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435385950</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>174544448</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">e524a52c211f9cb3aba52ad04dbd68c2</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386431-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386431</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>253032752</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">f4952ed45ed536bbf7eeee634c625e76</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386432-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386432</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>306804400</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">16ae063ef1face968a5e2fc52df81d3b</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386433-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386433</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>167826576</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">0fbcbbf0cdb13b9aa7afd4bb3c8c67b7</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386434-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386434</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129401168</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">00533df3594c4e7bee7b1213dca3ad47</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386435-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386435</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>269183280</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">07ce5922c3c8de050665605c167bba3f</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386436-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386436</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>128553424</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">8c7e626621e59d4ecd0d17070b302b2e</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386437-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386437</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>175367696</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">a91685ed17684c824d5beb4e01f4ee27</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386438-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386438</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>255065312</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">e90deca9c9ac4d2cb67da2475ce4408b</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386439-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386439</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>147806816</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">b5f9c28804476d10eb5a8d8df5c1f861</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386440-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386440</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122512544</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">2b5ae793496f9920ab4e1282a172478c</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386441-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386441</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>194238736</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">8cc18ad3d9df15979c80f6096273051b</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386442-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386442</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>173547264</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">4396d47dce7c6191bba67578e445983f</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386443-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386443</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>306608976</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">992b03f1c44f57bd30dde77f65736a67</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386444-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386444</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>280075200</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">0e120c0b3f0014910303ae5378e08aa1</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386445-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386445</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>230511104</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">c70f59e8dbbc3f61426de837e479b7d7</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386446-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386446</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100487856</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">823e0e41fbab435fe70ea1435a55f5f7</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386447-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386447</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>286564048</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">26893cfc11b084341ef17b2ac6abb67e</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386448-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386448</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>351369216</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">a5ba556c95b05cd2fbe57b31aa3abc1a</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386449-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386449</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>199805536</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">eabd6c671b35bc7d34198aa5d4c3e0aa</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386450-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386450</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>304479424</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">7783d456e499ee8d2cda1f5f32612fdf</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386451-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386451</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>292693344</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">0d7594d509568a474eb1dc658d6b1195</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386452-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386452</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134905040</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">8fc6260f933928091e26a63edb3444ce</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386453-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386453</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>306963520</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">79886ef810c8f4bf89e976e8b7e94623</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386454-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386454</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>180756144</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">ff90aa35db4149f4fb9ca64aa677b8b3</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386455-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386455</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>314969120</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">01fd0f60e560a21d0a8c53defb529afc</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386456-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386456</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134886560</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">9f7c08f14595ecf8816c7d71354ef071</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386457-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386457</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>186141296</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">85478a7aa4805d72d5b2e82cf124a166</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386458-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386458</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>210478720</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">5565f4254f5ec8a85b86621f5648a796</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386459-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386459</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119964912</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">6377c44b228ed17a9b0f5d5812a1e324</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386460-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386460</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111153888</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">1331c74b7d7037635444c18946dda0ed</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>229471664</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">cf65cd911f333cb6aaa27d0d03541cf7</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>301004960</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">6fb2eee9540596e34866a11d5fe483b5</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16730592</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">31b536601b27eca4f935f87bcbdd27fd</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95646432</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">6b5fbcc16c271d9438281e5b480399a9</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435386465-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435386465</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509851089_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509851089_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 328429991-->
+                        <apple_id>328429991</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">328429991</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lucy Diamond</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 264900562-->
+                        <apple_id>264900562</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">264900562</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Clare Wille</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - On a Beautiful Day</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7365360</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">91f0ddfd1c520490b392a07ab3ef12a6</checksum>
+                </audio_file>
+                <title>On a Beautiful Day Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509851089_9781509851089_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509851089</vendor_offer_code>
+    </album>
+</package>

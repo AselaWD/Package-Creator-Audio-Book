@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:49:09 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264149424-945cce1561e711277a81cfa8e13d945b959913a34c8074d49f8bf8591025f34e</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Tue Sep 11 11:03:51 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435939978-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435939978</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781529008616</vendor_id>
+        <title>The Line of Beauty</title>
+        <artwork_files>
+            <file>
+                <size>4695750</size>
+                <file_name>9781529008616.jpg</file_name>
+                <checksum type="md5">36a9a4162e6da26d5a0d2034db033734</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;b&gt;Winner of the Man Booker Prize, &lt;i&gt;The Line of Beauty &lt;/i&gt;is a classic novel about class, politics and sexuality in Margaret Thatcher's 1980s Britain.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;There was the soft glare of the flash – twice – three times – a gleaming sense of occasion, the gleam floating in the eye as a blot of shadow, his heart running fast with no particular need of courage as he grinned and said, 'Prime Minister, would you like to dance?'&lt;/i&gt;&lt;/p&gt;&lt;p&gt;In the summer of 1983, twenty-year-old Nick Guest moves into an attic room in the Notting Hill home of the wealthy Feddens: Gerald, an ambitious Tory MP, his wife Rachel and their children Toby and Catherine. Innocent of politics and money, Nick is swept up into the Feddens' world and an era of endless possibility, all the while pursuing his own private obsession with beauty.&lt;/p&gt;&lt;p&gt;&lt;i&gt;The Line of Beauty&lt;/i&gt; is Alan Hollinghurst's Man Booker Prize-winning masterpiece. It is a novel that defines a decade, exploring with peerless style a young man's collision with his own desires, and with a world he can never truly belong to.&lt;/p&gt;</description>
+        <track_count>20</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-07-26</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-line-of-beauty/id1435939978?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-07-26</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 193287518-->
+                <apple_id>193287518</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">193287518</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Alan Hollinghurst</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 3259942-->
+                <apple_id>3259942</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">3259942</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alex Jennings</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾利克斯·詹寧斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435939982-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939982</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5199088</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">bdae11382e47dc667422e7cb3da9f8f6</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939983-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939983</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>203385664</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">089d9ac674fdd7a58c52739e687598c1</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939984-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939984</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>282056064</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">a9c4b2fc9b2b52ed5c3f168296f48bf2</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939985-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939985</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>582988064</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">20d557dfec81b1bc834d59a7b5f725b9</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939986-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939986</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>254932160</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">862e374d9d4f61532d1721e630dfd619</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939987-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939987</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>360348224</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">5b15afd2b37a1202c9a359ba08e07d78</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939988-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939988</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>303336448</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">702cd457b4a140447fcdb4a55f3263a3</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939989-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939989</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>193573120</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">e6f34f5f7226253b7a220592525a127e</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435939990-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435939990</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>343282000</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">398b69e3dff5ab7adacdbbaacb5670f7</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940111-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940111</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>367595280</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">85e045a8440c486fe6c43257377a2c80</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940112-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940112</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>307622064</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">18cff347c1b9916d8070eee0b1652230</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940113-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940113</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>444151584</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">224c88aa7542e94958aa1a51be130f16</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940114-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940114</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>292760880</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">bafc88bb839b3de87b84b740ab6fb402</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940116-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940116</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>324484256</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">1d37f7ee4b4c7a52fe21259ed43d0074</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940117-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940117</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>217110544</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">05ab53b4c6f58baafdaa48b266108040</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940118-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940118</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151347664</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">f2cd54b5e63d9cc7b91b5f400ba83cfd</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940119-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940119</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>188196960</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">9af29d6bda5c351a5303bf94c8037219</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940120-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940120</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>182240000</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">5a456ca8a92866458dcb6c3b8d211591</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940121-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940121</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>246289536</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">0ce41b0f9e0ff67300428b38339d2e67</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435940122-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435940122</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781529008616_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781529008616_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 193287518-->
+                        <apple_id>193287518</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">193287518</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Alan Hollinghurst</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Line of Beauty</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>219217008</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">c52fc7cb5c0ff6f25c24cb915fbfb16c</checksum>
+                </audio_file>
+                <title>The Line of Beauty Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781529008616_9781529008616_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781529008616</vendor_offer_code>
+    </album>
+</package>

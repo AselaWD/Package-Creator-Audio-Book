@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:55:03 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264503682-b2c03bdf407113fa13026e299a361055d8e55c0d491e3af08472560ba0668d06</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435362892-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435362892</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509857081</vendor_id>
+        <title>Brilliance of the Moon</title>
+        <artwork_files>
+            <file>
+                <size>4278371</size>
+                <file_name>9781509857081.jpg</file_name>
+                <checksum type="md5">8b79c9e5c7e69ca37c4d55e95087e218</checksum>
+            </file>
+        </artwork_files>
+        <description>The third title in the compelling Tales of the Otori – the story that began with Across the Nightingale Floor and Grass for his Pillow, Brilliance of the Moon by Lian Hearn is an epic tale of love, power and destiny, set in a mythical world inspired by feudal Japan. Takeo and the exquisite Kaede, still only teenagers, are now married, but the implacable forces of destiny that rule their lives tear them apart. Takeo, a battle-hardened warrior at the head of an army fighting for his Otori birthright, finds his courage and leadership forged in the fire of bloodshed and sacrifice, while his legendary magical powers are tested to their limits against the invisible assassins of the Tribe. Kaede, determined to reclaim her own lands, is treacherously betrayed and forced into marriage. Their love will survive until death – but death, in this savage, beautiful world, is always only a moment away.</description>
+        <track_count>11</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-01-26</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/brilliance-of-the-moon/id1435362892?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-01-26</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2732848-->
+                <apple_id>2732848</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2732848</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Lian Hearn</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 254751389-->
+                <apple_id>254751389</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">254751389</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Aiko Nakasone</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1435351479-->
+                <apple_id>1435351479</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1435351479</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kevin Gray</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435362897-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362897</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>443834640</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">1d37be2455261fd773381ecdf8e9cbfd</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362899-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362899</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>656596672</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">d0184bcb4ed50aa1590f775e7576fa44</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362900-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362900</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>323036512</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">eea6189dbcc642c8600a533dae365c9f</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362901-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362901</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>519337680</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">33e56b1aaa5298b826a00a56257229bc</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362902-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362902</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>656222144</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">6ee59893b00254f85131c2db2be69a06</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362903-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362903</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>871566080</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">5a41e7e7c5df2069c36f7d0588bf5eb0</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362904-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362904</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>718439056</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">d619823fb6b3ad475ff57ba2591cd56c</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362905-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362905</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>373973776</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">7d050148f3c56415b9672a9ae7499f45</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362906-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362906</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>662656624</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">2088d78fe991a89aef0cc55fcdcf276c</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362907-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362907</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>477119520</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">6c878d6b57ba61e491b3eabbff07e5dd</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362908-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362908</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509857081_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509857081_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2732848-->
+                        <apple_id>2732848</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2732848</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lian Hearn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254751389-->
+                        <apple_id>254751389</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254751389</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Aiko Nakasone</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1435351479-->
+                        <apple_id>1435351479</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1435351479</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin Gray</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Brilliance of the Moon</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>609890400</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">5be062876fb62037b4bdf7c2b6c310d2</checksum>
+                </audio_file>
+                <title>Brilliance of the Moon Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509857081_9781509857081_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509857081</vendor_offer_code>
+    </album>
+</package>

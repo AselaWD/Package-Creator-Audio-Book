@@ -1,0 +1,3429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:58:45 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264725268-342d6043c72b7525a7793b01e41e883ed4dcd7f2149be15fd03bc04c236ae90a</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435378083-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435378083</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509855476</vendor_id>
+        <title>The Simple Truth</title>
+        <artwork_files>
+            <file>
+                <size>2496420</size>
+                <file_name>9781509855476.jpg</file_name>
+                <checksum type="md5">6b4f2ce0745431798b41a0f0bc1c4b9a</checksum>
+            </file>
+        </artwork_files>
+        <description>The Simple Truth is a tense courtroom drama with a fast-paced plot from bestselling author, David Baldacci. As a young conscripted soldier, Rufus Harms was jailed for the brutal killing of a schoolgirl. Yet, after twenty-five hard years of incarceration, a stray letter from the US army reveals new facts about the night of the murder – and the evil secret shared by some of Washington's most powerful men. Fearful for his life, Harms seizes his one chance to escape. But within hours the only people who knew about the appeal have been hunted down and eliminated. As the unknown assassins close in on Harms, ex-cop turned criminal attorney John Fiske is drawn into the web. His younger brother is already a victim, the woman he loves is under threat. For the truth and the chance of a future, he will never give up the fight. But for both men time is already running out. Their enemy is buried deep within the system and completely ruthless when protecting the truth . . .</description>
+        <track_count>62</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-04-20</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-simple-truth/id1435378083?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-04-20</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2091351-->
+                <apple_id>2091351</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2091351</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>David Baldacci</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 2686019-->
+                <apple_id>2686019</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2686019</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Jonathan Marosz</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435378088-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378088</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>141751152</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">7443d9604f36083b223fcd193d13126c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378089-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378089</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>217645840</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">6a8558ad0fa7918d17e700c0e2da4529</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378090-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378090</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>55320208</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">754df5f4e55b47545a5e6ec777562146</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378601-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378601</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>282438720</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">a26cbbfb33af7d1ef573957a26ce6854</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378602-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378602</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>107053392</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">768acc10c1b0eed6f0fd47e52d796c21</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378603-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378603</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>152697712</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">6b8de9347ad6c5362530e01a8252640a</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378604-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378604</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85823296</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">55d7585f40a17d523012c92f58920dcb</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378605-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378605</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>77974672</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">c970dea787618cab5f6c3d74fadc94cf</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378606-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378606</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137957728</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">e64399656c6673c8481af466412f3cce</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378607-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378607</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96085072</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">12807fe30fdef608d58922f1268538c1</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378608-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378608</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>277569376</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">d807d459c06b1c522606340d48905ad9</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378609-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378609</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134053408</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">5afbba2bae15db9d6907cbe56f693919</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378610-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378610</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>76391776</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">07ba8b94da6c9f0afdd3e2630391a266</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378611-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378611</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177182032</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">8d98b62c26bd84cfbfa26dff58bd91b7</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378612-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378612</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>150729088</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">af49c6e9ab738fb265fd1bd0ae0a20c5</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378613-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378613</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>39404224</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">9d03359481fffd7476a11265c7599b6a</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378614-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378614</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>44773840</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">666c2b2c0a78c31afc3ea6bb36bab865</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378615-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378615</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98220512</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">74d57f7862fa601cc6848bdacaab6699</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378616-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378616</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53873728</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">6419d6c870840e3ef6709bc6542fc1d3</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378617-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378617</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78308656</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">9f46da323d722677de84f8151f482f9f</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378618-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378618</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>160252336</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">9db3591f0975c7b89d1dbf21b8300c44</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378619-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378619</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110563984</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">cdbe93ba00ac8968a07990e6e78b6d64</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378620-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378620</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>73646992</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">01bd267e1145bb6e4c6f95fa23dcb289</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378621-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378621</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127909984</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">156e22a15b368c11e5a60982e1e616b0</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378622-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378622</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>175985520</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">99fb9a6060e2f5baec9e865e96bac6c8</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378623-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378623</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>271981744</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">4458ddf003757f3ef4739d9dc134fd5b</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378624-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378624</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90950656</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">c4f002b283554049d48a74982983d75c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378625-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378625</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>108284896</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">0a85c878be2850e01f2331d91cf2b603</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378626-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378626</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>45455920</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">ca51c23d00cd631ae9da98eff02a2c2c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378627-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378627</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35466976</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">3827442cb6a50c64ae1b6dbfc05409fa</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378628-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378628</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>280723888</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">139e0fd599e9025bc81b1ec38c7cec98</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378629-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378629</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>87928336</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">6e230b321832ec0818852fe1319f666a</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378630-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378630</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>109653760</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">10a5833dba5774fa927a2faf6a6264e6</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378631-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378631</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151806304</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">b090d0cfbcea9f6e805e33e5e9e1029c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378632-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378632</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111516544</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">8ad1d683b5ecf202f352e88a32e768ea</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378633-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378633</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>85442272</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">d39b309d45f9433ded5e68ed92a05e1c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378634-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378634</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>237954752</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">6e484a360a6f61acac25c4dfb100d04b</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378635-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378635</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68712496</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">f9b20c615eb58d610d2cab5e4ecaba0e</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378636-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378636</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>60259408</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">142ef6a01735fef57c9dcbee73cf2b12</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378637-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378637</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>148513504</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">e19fb43de20de68fc801c775897a2306</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378638-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378638</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122994304</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">0865d79c90c67f4e323b5f1267d9eb4c</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378639-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378639</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>203189440</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">a496236864543dfaf4767ff24b96fe92</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378640-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378640</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>82786848</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">6956471d8d8fcb6807bac0c7209891d5</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378641-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378641</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106692592</size>
+                    <file_name>Track_044.wav</file_name>
+                    <checksum type="md5">08fbcecb2c9ece746aa1f2dbc677f93a</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378642-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378642</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>263658016</size>
+                    <file_name>Track_045.wav</file_name>
+                    <checksum type="md5">f1acc4d383693290ee173bf6e6da4c04</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378643-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378643</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>105848224</size>
+                    <file_name>Track_046.wav</file_name>
+                    <checksum type="md5">77d3104e266cd870cd939bc7e5a0a345</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378644-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378644</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>238100592</size>
+                    <file_name>Track_047.wav</file_name>
+                    <checksum type="md5">100bb8f1d9da8fc056b9b2a239bdb686</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378645-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378645</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>160560448</size>
+                    <file_name>Track_048.wav</file_name>
+                    <checksum type="md5">320ca010a3705fc33f1c5e69a3182e05</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378646-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378646</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>275653216</size>
+                    <file_name>Track_049.wav</file_name>
+                    <checksum type="md5">f22e7100f676fa194d30a8d2b130074b</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378647-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378647</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>172398064</size>
+                    <file_name>Track_050.wav</file_name>
+                    <checksum type="md5">d5b67e74f254ccc048c03cf587b980bb</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378648-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378648</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>109975984</size>
+                    <file_name>Track_051.wav</file_name>
+                    <checksum type="md5">1c35b76b159546840fd02b31b07d2bf0</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378649-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378649</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134373712</size>
+                    <file_name>Track_052.wav</file_name>
+                    <checksum type="md5">51ab5bae75422cb1944680e2e5526f6b</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378650-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378650</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_053</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_053</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 053 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>269516848</size>
+                    <file_name>Track_053.wav</file_name>
+                    <checksum type="md5">db78917e41877c04b2e6bbda46af5644</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 053</title>
+                <track_number>53</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_053</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378651-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378651</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_054</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_054</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 054 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>173988016</size>
+                    <file_name>Track_054.wav</file_name>
+                    <checksum type="md5">f6afa0ed5aa525b3040d0e07989cdae3</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 054</title>
+                <track_number>54</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_054</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378652-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378652</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_055</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_055</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 055 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>69987632</size>
+                    <file_name>Track_055.wav</file_name>
+                    <checksum type="md5">aa91a19f3fd3819a7807977748be548e</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 055</title>
+                <track_number>55</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_055</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378653-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378653</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_056</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_056</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 056 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>171194304</size>
+                    <file_name>Track_056.wav</file_name>
+                    <checksum type="md5">e694fbd5e7a4d61e3eb0fc9c4243e10f</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 056</title>
+                <track_number>56</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_056</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378654-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378654</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_057</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_057</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 057 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>48913360</size>
+                    <file_name>Track_057.wav</file_name>
+                    <checksum type="md5">1dcf430b9f51fd978677f7fbd35324c9</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 057</title>
+                <track_number>57</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_057</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378655-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378655</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_058</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_058</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 058 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>201929776</size>
+                    <file_name>Track_058.wav</file_name>
+                    <checksum type="md5">1d97b9d977ec3ea9ba139b31b7fb3469</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 058</title>
+                <track_number>58</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_058</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378656-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378656</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_059</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_059</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 059 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136012624</size>
+                    <file_name>Track_059.wav</file_name>
+                    <checksum type="md5">4eb7974cef8e8f7f01f8f8b315507b2e</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 059</title>
+                <track_number>59</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_059</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378657-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378657</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_060</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_060</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 060 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>161910496</size>
+                    <file_name>Track_060.wav</file_name>
+                    <checksum type="md5">782a8785bc33877e580503e9dbff3ece</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 060</title>
+                <track_number>60</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_060</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378658-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378658</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_061</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_061</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 061 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29843344</size>
+                    <file_name>Track_061.wav</file_name>
+                    <checksum type="md5">50c65025dab886a2a81ddc19d91666b4</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 061</title>
+                <track_number>61</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_061</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435378659-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435378659</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509855476_062</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509855476_062</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2091351-->
+                        <apple_id>2091351</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2091351</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>David Baldacci</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 2686019-->
+                        <apple_id>2686019</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2686019</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Jonathan Marosz</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 062 - The Simple Truth</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125710560</size>
+                    <file_name>Track_062.wav</file_name>
+                    <checksum type="md5">ad136eae97db445f152501f20e94294f</checksum>
+                </audio_file>
+                <title>The Simple Truth Track 062</title>
+                <track_number>62</track_number>
+                <vendor_offer_code>9781509855476_9781509855476_062</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509855476</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,2673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:55:20 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260920873-d9b83d56db984e6a54a0485ddd49c25f40c7e1710b5094992755e18947fc4669</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435344146-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435344146</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509864591</vendor_id>
+        <title>The Tiger and the Wolf</title>
+        <artwork_files>
+            <file>
+                <size>3552709</size>
+                <file_name>9781509864591.jpg</file_name>
+                <checksum type="md5">e0e35227412f6e69e7ef9d09bfc50d82</checksum>
+            </file>
+        </artwork_files>
+        <description>The first novel in the Echoes of the Fall series, The Tiger and the Wolf is an accomplished high fantasy by Adrian Tchaikovsky, and winner of the 2017 British Fantasy Award for Best Novel. Adrian Tchaikovsky is also the author of the Arthur C. Clarke award-winning Children of Time. In the bleak northern crown of the world, war is coming Maniye's father is the Wolf clan's chieftain, but she's an outcast. Her mother was queen of the Tiger and these tribes have been enemies for generations. Maniye also hides a deadly secret. All can shift into their clan's animal form, but Maniye can take on tiger and wolf shapes. She refuses to disown half her soul so escapes, rescuing a prisoner of the Wolf clan in the process. The killer Broken Axe is set on their trail, to drag them back for retribution. The Wolf chieftan plots to rule the north and controlling his daughter is crucial to his schemes. However, other tribes also prepare for strife. Strangers from the far south appear too, seeking allies in their own conflict. It's a season for omens as priests foresee danger and a darkness falling across the land. Some say a great war is coming, overshadowing even Wolf ambitions. A time of testing and broken laws is near, but what spark will set the world ablaze? Shortlisted for the British Fantasy Society Best Novel Award</description>
+        <track_count>48</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-04-05</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-tiger-and-the-wolf/id1435344146?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-04-05</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 373689973-->
+                <apple_id>373689973</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">373689973</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Adrian Tchaikovsky</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 935024136-->
+                <apple_id>935024136</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">935024136</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kyla Garcia</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435344148-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344148</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>207673616</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">a603f550f283d84cc49af29af9e4b20a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344149-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344149</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>184537184</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">a160fa8620eb85665ff0b681e909bd99</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344150-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344150</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129540576</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">d5e471a19568cb2e0f9ae1fd2c2236f2</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344151-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344151</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>138847872</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">ec619e17b8ce1ad7dec9863a8fed9506</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344152-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344152</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>140999024</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">22ff318d945f9d15c4a07da12953c318</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344153-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344153</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>134533248</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">26f76a5fda9e20c9c2946fb2ffa5e8b5</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344154-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344154</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>130538752</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">752b618ca4cc7c89df619c08e7506399</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344155-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344155</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>158636240</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">4b14d7be3be0c86c473adcda6bcb076e</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344156-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344156</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121882320</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">f7b8e506ee2e0f9c63651e0b4f94a1e8</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344157-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344157</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>171462784</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">5655aded7a0a1aa937ddcf2423ed321a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344158-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344158</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>151673632</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">24ce7a8211ea78a8ac442135daa6fad8</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344159-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344159</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>167821808</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">ebe0557bb7da8064e67023fb9914b396</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344160-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344160</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>158557520</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">91f6825a6fc645d8165cbd2b5d3d138a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>185624256</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">2756fa704dbded6602c7094f5367d8f1</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137734096</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">50da055363bda40aff05574a59a7484a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>139591216</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">8bcf0764ac5f887ede897d919da97eef</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125321760</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">e519e0bdd97203a85ce947f1c10d9e04</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344465-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344465</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>212869408</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">df61c8075a56962e804c5629a25556a4</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344466-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344466</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>117799840</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">bb247437a695827c3afa414e0e0e6def</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344467-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344467</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121553808</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">786f3a21b4941ee0e15db3316ea8aa75</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344468-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344468</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127168336</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">69d9ad6f0ba8f777b1d928e71f7e78d2</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344469-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344469</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95957600</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">e53b7e35564dd65d4dcb409d2b93c79a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344470-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344470</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>154762608</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">c1789d9c8b1812992559819374f211b3</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344471-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344471</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>169851776</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">97f9f4c3f7ed30b9f5dd5944e3381bd5</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344472-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344472</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>132854320</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">2f4c424362c9e2b25f71127853cea0f0</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>112812784</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">228e3bfab0f9ec969101b49320cfd776</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344474-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344474</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106649392</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">cf9729cdd0fd3406ce40d45d0320d104</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344475-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344475</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137994944</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">6fce524f4782086dfee6faba6f11572e</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111741648</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">f12b0136f73d1c5fd70ff062dbac5210</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>138504640</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">8a0f285248696b1fc3ea7bbd36df7443</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>138419296</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">fbd5e28a246ffc4bf762a478034dedca</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127471440</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">b28fccb08280ada79a84b46b177bfdd4</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344481-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344481</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>209740224</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">0e81117cf285968a0258a61b233fd97c</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344483-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344483</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>140648736</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">7f306fb790d3fe97288d570f136071fe</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344484-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344484</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>178666688</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">299888f7e6b6c08f476ae72441bb4466</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344485-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344485</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127259264</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">76692d92b3a4114a3a13353c2da1fce6</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344486-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344486</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>183494912</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">88b7df50124f87903946eee4efc19691</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344487-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344487</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>154228864</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">e758a0de72ca1b8d7e928200008a9e29</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344488-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344488</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>125002208</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">b2a64811d9644834950457eed47b512a</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344489-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344489</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>165556192</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">5afbb7eca037891a0d86efd1f93c62c1</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344490-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344490</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>189974176</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">e2b965bb02ff6a6c3eb432075d4a7383</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344491-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344491</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>169606784</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">1094b1f4c6f646fbac83586e9fe9ff5b</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344492-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344492</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>123425728</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">a719033054ad3c38bd55c897cbfb23ed</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344493-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344493</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>148773952</size>
+                    <file_name>Track_044.wav</file_name>
+                    <checksum type="md5">69e9e39e79a2b33ed15e027c40ddd634</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344494-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344494</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121446272</size>
+                    <file_name>Track_045.wav</file_name>
+                    <checksum type="md5">5253437b6878d0753250ce8610b62bf4</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344495-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344495</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>150982400</size>
+                    <file_name>Track_046.wav</file_name>
+                    <checksum type="md5">4ed5cb50115d22cfad2ce3c568a1aea5</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344496-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344496</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>223673744</size>
+                    <file_name>Track_047.wav</file_name>
+                    <checksum type="md5">b5d73c84465525e59d933e65a8d8a3e2</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344497-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344497</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509864591_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509864591_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 373689973-->
+                        <apple_id>373689973</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">373689973</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Adrian Tchaikovsky</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 935024136-->
+                        <apple_id>935024136</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">935024136</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kyla Garcia</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - The Tiger and the Wolf</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>71881088</size>
+                    <file_name>Track_048.wav</file_name>
+                    <checksum type="md5">75341c7165399610b06e64e3053d078d</checksum>
+                </audio_file>
+                <title>The Tiger and the Wolf Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781509864591_9781509864591_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509864591</vendor_offer_code>
+    </album>
+</package>

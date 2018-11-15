@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:25:00 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537259100373-2161f4b64734d90f869bcd6b73f03ab0d238f1fd57f01493643d8b4da4eb8452</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 19:17:28 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435423276-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435423276</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447263739</vendor_id>
+        <title>Lost For Words</title>
+        <artwork_files>
+            <file>
+                <size>6092030</size>
+                <file_name>9781447263739.jpg</file_name>
+                <checksum type="md5">a36f6cd01c87ee891bf7ded503727218</checksum>
+            </file>
+        </artwork_files>
+        <description>Each of the judges of the Elysian Prize for literature has a reason for accepting the job. For the chairman, MP Malcolm Craig, it is backbench boredom, media personality Jo Cross is on the hunt for a 'relevant' novel, and Oxbridge academic Vanessa Shaw is determined to discover good writing. But for Penny Feathers of the Foreign Office, it's all just getting in the way of writing her own thriller. Over the next few weeks they must read hundreds of submissions to find the best book of the year, and so the judges spar, cajole and bargain in order that their chosen title gets the recognition it deserves. Meanwhile, a host of authors are desperate for Elysian glory, including brilliant writer and serial heart-breaker Katherine Burns, lovelorn debut novelist Sam Black, and Sonny, convinced that his magnum opus, The Mulberry Elephant, will take the literary world by storm. Lost for Words is razor-sharp and fabulously entertaining. It cuts to the quick of some of the deepest questions about the place of art in our celebrity-obsessed culture, and asks how we can ever hope to recognize real talent when everyone has an agenda.</description>
+        <track_count>30</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2014-05-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/lost-for-words/id1435423276?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2014-05-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 269522886-->
+                <apple_id>269522886</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">269522886</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Edward St Aubyn</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 3259942-->
+                <apple_id>3259942</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">3259942</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alex Jennings</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾利克斯·詹寧斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435423461-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423461</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14867696</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">b1eb86596d918efab930c0eee002c7c6</checksum>
+                </audio_file>
+                <title>Lost For Words Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423462-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423462</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8834032</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">2d9c59fe8af57ce7b6c0f0b201c16524</checksum>
+                </audio_file>
+                <title>Lost For Words Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423463-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423463</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7593952</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">e627603ee688759d829782e4fe106941</checksum>
+                </audio_file>
+                <title>Lost For Words Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423464-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423464</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>17022480</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">bb732e21192da1a081b6ea1a2b5ab9f1</checksum>
+                </audio_file>
+                <title>Lost For Words Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423465-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423465</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11420160</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">2a6e04bf3748796d5f162593f9e205e1</checksum>
+                </audio_file>
+                <title>Lost For Words Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423466-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423466</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15324736</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">d84a80c128f24dbb3a60b412a2f2b52c</checksum>
+                </audio_file>
+                <title>Lost For Words Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423467-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423467</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14058944</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">e6c19a7ca173f7055591ed61978499b7</checksum>
+                </audio_file>
+                <title>Lost For Words Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423468-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423468</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12113552</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">427b0813a221f9b553f4676fb6f74aaf</checksum>
+                </audio_file>
+                <title>Lost For Words Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423469-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423469</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15459520</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">b2e4afae56fe9ba728be747f6e32ac1a</checksum>
+                </audio_file>
+                <title>Lost For Words Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423470-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423470</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9062864</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">ea53c8e142a153e5fb1cf166ca0fa8e3</checksum>
+                </audio_file>
+                <title>Lost For Words Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423471-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423471</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13734192</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">81e3dd3db8040170007c9145cedf5f3b</checksum>
+                </audio_file>
+                <title>Lost For Words Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423472-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423472</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9938080</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">bfe57055aa0f595be57b38a88d56cc67</checksum>
+                </audio_file>
+                <title>Lost For Words Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423473-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423473</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14866432</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">2188cd130deed48bfa8de82aa3d6cee4</checksum>
+                </audio_file>
+                <title>Lost For Words Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423474-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423474</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11409504</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">96834eeff368f258daa9c45b4d9cdc00</checksum>
+                </audio_file>
+                <title>Lost For Words Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423475-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423475</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7998944</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">f71222e529a310030316d4b3b72f8838</checksum>
+                </audio_file>
+                <title>Lost For Words Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423476-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423476</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14173664</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">baea3ae85ab8d78c54b01cd56f1a5085</checksum>
+                </audio_file>
+                <title>Lost For Words Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423477-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423477</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>14544192</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">a2eb109c9c4b5362acd49e484dd030ed</checksum>
+                </audio_file>
+                <title>Lost For Words Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423478-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423478</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7741280</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">5c53236aa88166ddba0a3258df079d5d</checksum>
+                </audio_file>
+                <title>Lost For Words Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423479-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423479</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9279168</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">b4d75da718fbd3252f0091782f24ef6f</checksum>
+                </audio_file>
+                <title>Lost For Words Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423480-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423480</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12620112</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">e99256aa83baf86fa2165b65fcf30808</checksum>
+                </audio_file>
+                <title>Lost For Words Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423541-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423541</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16814336</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">587da4eedfd6f6e9d03dca698c54402a</checksum>
+                </audio_file>
+                <title>Lost For Words Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423542-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423542</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16831888</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">48eba7bfd491ba6021bc4750db0c4bb9</checksum>
+                </audio_file>
+                <title>Lost For Words Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423543-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423543</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16593024</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">6530a207c955442f5a3f39805647230d</checksum>
+                </audio_file>
+                <title>Lost For Words Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423544-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423544</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15100912</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">86ba3dd51b7128213d1daab013e9bdb0</checksum>
+                </audio_file>
+                <title>Lost For Words Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423545-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423545</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12524192</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">566369b318561566254451ace98deab9</checksum>
+                </audio_file>
+                <title>Lost For Words Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423546-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423546</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16451344</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">9b5c15a9f393a8cf79b538a97c75cfb4</checksum>
+                </audio_file>
+                <title>Lost For Words Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423547-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423547</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8181392</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">5eba4f924144417f3b4fee1559035e44</checksum>
+                </audio_file>
+                <title>Lost For Words Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423548-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423548</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18991696</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">fdefcad5be3f528f3bcf467fa165c7ae</checksum>
+                </audio_file>
+                <title>Lost For Words Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423549-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423549</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11938640</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">5acf53c65ac68b604b3df3f9cf61d4da</checksum>
+                </audio_file>
+                <title>Lost For Words Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423550-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423550</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447263739_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447263739_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Lost For Words</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>82780208</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">76417bf5da99eee8534a0a5dd37a294d</checksum>
+                </audio_file>
+                <title>Lost For Words Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781447263739_9781447263739_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447263739</vendor_offer_code>
+    </album>
+</package>

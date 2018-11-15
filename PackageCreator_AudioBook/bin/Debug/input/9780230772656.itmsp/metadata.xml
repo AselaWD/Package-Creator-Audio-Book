@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:46:43 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264003903-8e80249e8be4ef763868b8e1f3f7b5a4cb083042b1d144679f74e3cd5ca24efc</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435401386-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435401386</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230772656</vendor_id>
+        <title>Bad News</title>
+        <artwork_files>
+            <file>
+                <size>613743</size>
+                <file_name>9780230772656.jpg</file_name>
+                <checksum type="md5">66f162ea76a9e8fa13fe064f6e3f57d9</checksum>
+            </file>
+        </artwork_files>
+        <description>Bad News is the second novel in Edward St Aubuyn's semi-autobiographical Patrick Melrose novels, adapted for TV for Sky Atlantic and starring Benedict Cumberbatch as aristocratic addict, Patrick. This audiobook edition is read by stage and screen actor Alex Jennings. Twenty-two years old and in the grip of a massive addiction, Patrick Melrose is forced to fly to New York to collect his father’s ashes. Over the course of a weekend, Patrick’s remorseless search for drugs on the avenues of Manhattan, haunted by old acquaintances and insistent inner voices, sends him into a nightmarish spiral. Alone in his room at the Pierre Hotel, he pushes body and mind to the very edge – desperate always to stay one step ahead of his rapidly encroaching past.</description>
+        <track_count>14</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2013-09-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/bad-news/id1435401386?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2013-09-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 269522886-->
+                <apple_id>269522886</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">269522886</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Edward St Aubyn</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 3259942-->
+                <apple_id>3259942</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">3259942</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alex Jennings</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾利克斯·詹寧斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435401392-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401392</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19669056</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">ec267286872f8c92ef3abc336717f7b3</checksum>
+                </audio_file>
+                <title>Bad News Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401393-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401393</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35648336</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">f3a6734f46244e1b173a2e3c19691f95</checksum>
+                </audio_file>
+                <title>Bad News Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401394-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401394</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35180080</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">c6edeb90c292d4f3137de9e23ebae9d1</checksum>
+                </audio_file>
+                <title>Bad News Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401395-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401395</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32761216</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">73bcdee66a4b62dda64da47084672c6a</checksum>
+                </audio_file>
+                <title>Bad News Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401396-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401396</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40076656</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">bdcd7ff117fdd10ae3c8ed3baf2ab9c5</checksum>
+                </audio_file>
+                <title>Bad News Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401397-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401397</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25786336</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">d944dc6d0673d9babc8fae4db719df50</checksum>
+                </audio_file>
+                <title>Bad News Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401398-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401398</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38586144</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">524638e2c90027eda0706d699fc8a192</checksum>
+                </audio_file>
+                <title>Bad News Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401399-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401399</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23077632</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">8f3796f742922c2b5472ba482f179342</checksum>
+                </audio_file>
+                <title>Bad News Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401400-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401400</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26225776</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">49109d663c627f7f7d8b524f722fd201</checksum>
+                </audio_file>
+                <title>Bad News Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401491-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401491</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42402240</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">514a265ad05743e0f820105346df1e09</checksum>
+                </audio_file>
+                <title>Bad News Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401492-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401492</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23692352</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">41d8d3aa21247d4c7bba5621cf03d4e7</checksum>
+                </audio_file>
+                <title>Bad News Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401493-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401493</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20696320</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">0db7db71f5167f2f7a88e2ed449ae7a3</checksum>
+                </audio_file>
+                <title>Bad News Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401494-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401494</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>43720608</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">abf181b067db10c5d2850c744c7746f3</checksum>
+                </audio_file>
+                <title>Bad News Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435401495-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435401495</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230772656_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230772656_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 269522886-->
+                        <apple_id>269522886</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">269522886</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Edward St Aubyn</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Bad News</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>42391600</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">3179766d38c1c52c70f8ee40c07423e3</checksum>
+                </audio_file>
+                <title>Bad News Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230772656_9780230772656_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230772656</vendor_offer_code>
+    </album>
+</package>

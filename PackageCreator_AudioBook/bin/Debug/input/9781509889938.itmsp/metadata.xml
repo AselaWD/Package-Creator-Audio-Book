@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:57:07 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264627080-149e72cff674405c338f730e1513bdc2aea17c7072d1fccd758033a7c4f7fcad</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435323781-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435323781</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509889938</vendor_id>
+        <title>The Wisdom of Sundays</title>
+        <artwork_files>
+            <file>
+                <size>2106951</size>
+                <file_name>9781509889938.jpg</file_name>
+                <checksum type="md5">cdbf720df5ebaa9ca958ac9b3fbe9b8e</checksum>
+            </file>
+        </artwork_files>
+        <description>The Wisdom of Sundays features insightful selections from the most meaningful conversations between Oprah Winfrey and some of today's most admired thought leaders. This program features interviews with Michael Bernard Beckwith, Jon Kabat-Zinn, Caroline Myss, Daniel Pink, Michael Singer, Bryan Stevenson, Eckhart Tolle, Iyanla Vanzant, Elie Wiesel &amp; Gary Zukav. Chapter Introductions are read by Oprah Winfrey Visionaries like Gary Zukav and John Kabat-Zinn share their lessons in finding purpose through intention and mindfulness. World-renowned teachers like Eckhart Tolle and Michael Singer explain our complex relationship with the ego and the healing powers of love and connection; and award-winning and bestselling writers like Bryan Stevenson and Caroline Myss explore the beauty of forgiveness and spirituality. Organized into ten chapters — each one representing a powerful step in Oprah’s own spiritual journey and introduced with an intimate personal essay written and read by Oprah herself — these are the moments of inspiration that have enlightened millions on the three-time Emmy Award-winning Super Soul Sunday collected in The Wisdom of Sundays, a cherishable, deeply affecting audiobook. Oprah Winfrey says, "If you want to be more fully present and live with a wide-open heart, this is where your journey begins." This unique audiobook, adapted from the print edition, includes a complete conversation between Oprah and a leading visionary on each chapter’s topic, and Oprah Winfrey reads the original essay she wrote to introduce each chapter.</description>
+        <track_count>17</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-10-19</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-wisdom-of-sundays/id1435323781?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-10-19</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="SELF-DEVELOPMENT-00">Self Development</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2087429-->
+                <apple_id>2087429</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2087429</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Oprah Winfrey</artist_name>
+                <locales>
+                    <locale name="ru">
+                        <artist_name>Опра Уинфри</artist_name>
+                    </locale>
+                    <locale name="cmn-Hant">
+                        <artist_name>歐普拉·溫芙蕾</artist_name>
+                    </locale>
+                    <locale name="ja">
+                        <artist_name>オプラ・ウィンフリー</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                    <role>Author</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435323784-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323784</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7659168</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">2f522a3386dfefa7c564f5f15c3367bd</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323785-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323785</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10395872</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">445924f2827f2ff81deb57532ba8c44d</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323786-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323786</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40288016</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">c723ad18d7f6811e43cc478292b953fb</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323787-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323787</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177981776</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">15f222a82629193b538cfa0c7df3ed78</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323788-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323788</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>207657712</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">d74f37b0afcd6fb0238667d7b32ba1a0</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323789-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323789</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>313865280</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">4b6a2ee7e6cb280328e856ee269e3d21</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435323790-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435323790</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>285312080</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">244f6ec5511c815d542c1a40ee3da5b2</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324001-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324001</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>257582912</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">e7444ce95a15cc0ef4dbb98d123d40a2</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324002-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324002</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>308307504</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">b1c5ab4a6070f207c05d0f70d9ec7431</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324003-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324003</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>301712320</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">9a24b80fbcbfe09f2a24896338520aea</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324004-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324004</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>171938464</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">02cade6150fe2111048c11381a02098f</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324005-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324005</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>194942432</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">06bc2074c999f85bf4a248348b8af058</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324006-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324006</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>315812064</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">6330438b63e1e314b89e339a71f37e1c</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324007-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324007</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>187847504</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">1f885e89dec1ce044adff07258326681</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324008-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324008</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>326925728</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">448e4de167b7e5f63923516df7b7213b</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324009-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324009</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27736784</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">0f4dab14166fda05acc5e7a8b1dbdf90</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435324010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435324010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509889938_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509889938_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2087429-->
+                        <apple_id>2087429</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2087429</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Oprah Winfrey</artist_name>
+                        <locales>
+                            <locale name="ru">
+                                <artist_name>Опра Уинфри</artist_name>
+                            </locale>
+                            <locale name="cmn-Hant">
+                                <artist_name>歐普拉·溫芙蕾</artist_name>
+                            </locale>
+                            <locale name="ja">
+                                <artist_name>オプラ・ウィンフリー</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Wisdom of Sundays</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10091200</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">e769a7e23c51602d96186d1e794ffe47</checksum>
+                </audio_file>
+                <title>The Wisdom of Sundays Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509889938_9781509889938_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509889938</vendor_offer_code>
+    </album>
+</package>

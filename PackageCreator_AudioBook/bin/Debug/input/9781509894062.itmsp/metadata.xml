@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:12:07 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247527534-8a1b31364e6504c1c182bf59b2dff198cff7dc0fac1678cf669df850cacd1c4a</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435423798-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435423798</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509894062</vendor_id>
+        <title>Dear Zoo and Friends Audio</title>
+        <artwork_files>
+            <file>
+                <size>1408732</size>
+                <file_name>9781509894062.jpg</file_name>
+                <checksum type="md5">c1cc8e99ef349f2ba90b37506f322e65</checksum>
+            </file>
+        </artwork_files>
+        <description>I wrote to the zoo to send me a pet . . . Rod Campbell's classic story Dear Zoo has been a firm favourite with toddlers and parents alike ever since it was first published in 1982. Now you and your toddler can listen to a dramatised version of the story and sing along with the Dear Zoo Song. Young children will love discovering the animals the zoo has sent - a monkey, a lion and even an elephant! But will they ever manage to send the perfect pet? Three other favourite stories by bestselling author Rod Campbell are also included in Dear Zoo &amp; Friends: join in with all your favourite farm animal noises as you listen to Oh Dear!, join Sam and his friends at his birthday party in My Presents, and help Little Bird discover her own special talent in Little Bird. Then join in with the rhymes, including nursery favourite, Incy Wincy Spider.</description>
+        <track_count>14</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-05-03</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/dear-zoo-and-friends-audio/id1435423798?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-05-03</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 222302-->
+                <apple_id>222302</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">222302</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Rod Campbell</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 259521598-->
+                <apple_id>259521598</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">259521598</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Daniel Weyman</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435423800-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423800</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5194816</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">726fa4f9b59586679a29e1362abe6d01</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423801-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423801</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177566144</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">22c79e7fc36b302081e49a60281671ce</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423802-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423802</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32694496</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">d7b0e6c9e0ced7595b6acb71ef8a3e30</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423803-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423803</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30591552</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">0cccf929563f381bc51a34a3246d2d7d</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423804-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423804</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>10361888</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">b83e15aa1fcdb491a1e37b8bbed896c5</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423805-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423805</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>91612704</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">47933798a4dd649694c9ccdd374b533a</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423806-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423806</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18164112</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">709c0e09abff3eb1e6a9b6a4203561d6</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423807-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423807</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110076368</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">cf169f8694aca235440b221c3bde12c1</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423808-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423808</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18229120</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">5cd991944912ffb92238e570ec35d0be</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423809-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423809</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18420368</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">9e9a38edef5e25e2196e57bd7ee286d2</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423810-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423810</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9162768</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">299857de6839574b1663a60eb9177ae4</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423811-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423811</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90810768</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">0841c9f0d4204d2dd2971784081ec3b2</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423812-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423812</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23105408</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">9f3cf6e92b7cb90ca434e1d12fea6b87</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435423813-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435423813</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509894062_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509894062_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 222302-->
+                        <apple_id>222302</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">222302</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Rod Campbell</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259521598-->
+                        <apple_id>259521598</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259521598</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Daniel Weyman</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Dear Zoo and Friends Audio</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9607664</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">1a1baae8b8e31c0a5deb712432951e67</checksum>
+                </audio_file>
+                <title>Dear Zoo and Friends Audio Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509894062_9781509894062_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509894062</vendor_offer_code>
+    </album>
+</package>

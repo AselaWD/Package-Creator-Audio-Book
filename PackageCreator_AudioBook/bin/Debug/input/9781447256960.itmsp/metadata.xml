@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:21:51 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537255311024-ef2b43abcd01a92dbb52ef9bfa09808ef0476fab660c4edb92456ebebf4f903e</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1436206020-->
+        <read_only_info>
+            <read_only_value key="apple-id">1436206020</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447256960</vendor_id>
+        <title>Holy Orders</title>
+        <artwork_files>
+            <file>
+                <size>5637888</size>
+                <file_name>9781447256960.jpg</file_name>
+                <checksum type="md5">c59c2a03b62c39550c0a2e0afbbe5e44</checksum>
+            </file>
+        </artwork_files>
+        <description>&lt;p&gt;&lt;i&gt;She looked at him and smiled sadly. ‘You’ve lived too long among the dead, Quirke,’ she said. &lt;/i&gt;&lt;/p&gt;&lt;p&gt; &lt;i&gt;He nodded. ‘Yes, I suppose I have.’ She was not the first one to have told him that, and she would not be the last. &lt;/i&gt;&lt;/p&gt;&lt;p&gt; 1950s Dublin. When a body is found in the canal, pathologist Quirke and his detective friend Inspector Hackett must find the truth behind this brutal murder. But in a world where the police are not trusted and secrets often remain buried there is perhaps little hope of bringing the perpetrator to justice.&lt;/p&gt;&lt;p&gt; As spring storms descend on Dublin, Quirke and Hackett’s investigation will lead them into the dark heart of the organisation that really runs this troubled city: the church. Meanwhile Quirke’s daughter Phoebe realises she is being followed; and when Quirke’s terrible childhood in a priest-run orphanage returns to haunt him, he will face his greatest trial yet . . .&lt;/p&gt;</description>
+        <track_count>23</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2014-05-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/holy-orders/id1436206020?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2014-05-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 208773649-->
+                <apple_id>208773649</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">208773649</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Benjamin Black</artist_name>
+                <locales>
+                    <locale name="el">
+                        <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1086265223-->
+                <apple_id>1086265223</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1086265223</read_only_value>
+                </read_only_info>
+                <language>es</language>
+                <artist_name>John Keating</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1436206021-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206021</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7484752</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">d6e3b8c2bbae3dc621f7be10030616b0</checksum>
+                </audio_file>
+                <title>Holy Orders Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206022-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206022</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>260891136</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">a173b907b35666ec6fd045479dac3bbd</checksum>
+                </audio_file>
+                <title>Holy Orders Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206023-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206023</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177005824</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">c2f544668e42474ea1ddfb7b03cca629</checksum>
+                </audio_file>
+                <title>Holy Orders Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206024-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206024</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>459065664</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">1c3d8086709641577c95a908784e8682</checksum>
+                </audio_file>
+                <title>Holy Orders Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206025-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206025</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>295356976</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">8084a13fa0e37f8e720ffdca0852822a</checksum>
+                </audio_file>
+                <title>Holy Orders Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206026-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206026</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>500488624</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">af069e8d200402a06af79aee18d3f9a4</checksum>
+                </audio_file>
+                <title>Holy Orders Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206027-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206027</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>287211040</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">950fe2fb7dcd79c130cc89ef36f496cf</checksum>
+                </audio_file>
+                <title>Holy Orders Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206028-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206028</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>280328720</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">b4eeea0bbf58e5943382e564ec9faa16</checksum>
+                </audio_file>
+                <title>Holy Orders Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206029-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206029</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>460052656</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">6a348d05d6044150aaa7b2eb4a5672e9</checksum>
+                </audio_file>
+                <title>Holy Orders Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206030-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206030</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>804452512</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">7772eb416a4e842116e65ec4638a715d</checksum>
+                </audio_file>
+                <title>Holy Orders Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206151-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206151</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>387141024</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">53aaf92b02eca63e78197cabcc075b88</checksum>
+                </audio_file>
+                <title>Holy Orders Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206152-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206152</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>208074400</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">f04fe2b57ccaecd525afae772b8afd13</checksum>
+                </audio_file>
+                <title>Holy Orders Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206153-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206153</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>475876752</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">a9762e26a191b6337673b5c4d17017e0</checksum>
+                </audio_file>
+                <title>Holy Orders Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206154-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206154</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>310377936</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">45bb3c5b0724a5c91088f3f0fa350dfa</checksum>
+                </audio_file>
+                <title>Holy Orders Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206155-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206155</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>294401296</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">bb6b6e862c4144a874a9ffa6ce6bef29</checksum>
+                </audio_file>
+                <title>Holy Orders Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206156-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206156</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1010222112</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">798b7e3520456d3658d904b44ea64b6d</checksum>
+                </audio_file>
+                <title>Holy Orders Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206157-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206157</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>685537472</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">33a818b8cc59c94c7b26a8b087b22ad6</checksum>
+                </audio_file>
+                <title>Holy Orders Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206158-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206158</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>243987424</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">1c587221717045c8aab896c5c246305d</checksum>
+                </audio_file>
+                <title>Holy Orders Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206159-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206159</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>613950032</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">dc4330c686376407599752968372b36a</checksum>
+                </audio_file>
+                <title>Holy Orders Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206160-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206160</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>662612832</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">c5344f958782436b938da30d1979f8d2</checksum>
+                </audio_file>
+                <title>Holy Orders Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206161-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206161</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>427056096</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">9c52153e12eac22798c5718dba6f808f</checksum>
+                </audio_file>
+                <title>Holy Orders Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206162-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206162</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>334545728</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">a210c0f30ccd16161dc0b033fe19f154</checksum>
+                </audio_file>
+                <title>Holy Orders Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1436206163-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1436206163</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447256960_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447256960_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 208773649-->
+                        <apple_id>208773649</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">208773649</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Benjamin Black</artist_name>
+                        <locales>
+                            <locale name="el">
+                                <artist_name>Μπέντζαμιν Μπλακ</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1086265223-->
+                        <apple_id>1086265223</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1086265223</read_only_value>
+                        </read_only_info>
+                        <language>es</language>
+                        <artist_name>John Keating</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Holy Orders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13812208</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">de99441d5e2db3822c5a41b2009e8321</checksum>
+                </audio_file>
+                <title>Holy Orders Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781447256960_9781447256960_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447256960</vendor_offer_code>
+    </album>
+</package>

@@ -1,0 +1,3105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:50:37 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260637591-403a43477229b5db69f8af138d19178f61fee54f6ff05e07ebe96000b7ada62d</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435356585-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435356585</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509838516</vendor_id>
+        <title>Bella Poldark</title>
+        <artwork_files>
+            <file>
+                <size>3489267</size>
+                <file_name>9781509838516.jpg</file_name>
+                <checksum type="md5">9592d8b0c21f5880b1c2a329ec3a5749</checksum>
+            </file>
+        </artwork_files>
+        <description>Bella Poldark is the twelfth and final novel in Winston Graham's hugely popular Poldark series, which has become a television phenomenon starring Aidan Turner. Cornwall 1818. We continue the tale of Ross and Demelza; of the wayward Valentine Warleggan, whose existence keeps open the old wounds of the feud between Ross and George; of Bella, the Poldarks' youngest daughter, whose precocious talent as a singer is encouraged by her old flame, Christopher Havergal, and by a distinguished French conductor, who has more in mind than Bella's music; of Clowance, the Poldarks' widowed daughter, who considers remarriage to one of two rival suitors; and of a murderer who stalks the villages of west Cornwall.</description>
+        <track_count>56</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-08-10</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>32</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/bella-poldark/id1435356585?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-08-10</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 267141544-->
+                <apple_id>267141544</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">267141544</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Winston Graham</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 703027938-->
+                <apple_id>703027938</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">703027938</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Oliver J Hembrough</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435356595-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356595</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>665856</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">99376e5c79a78f135081ff828e137c31</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356596-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356596</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110991488</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">73b55f6647ba7b3b0f2c996e384aab3f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356597-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356597</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>153947296</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">8f3811b506558032c43b37a01011bd1b</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356598-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356598</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>146447712</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">4cacce64014b153e22a96a7a57b421cc</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356599-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356599</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>95460416</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">efee94c97db1f8e594aa08fa0d7cafbe</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356600-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356600</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135256704</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">6715028f2fc029cf8e21136fa7908ddf</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356601-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356601</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119389824</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">5edaccaa2000eeada07d2961dbe07a5f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356602-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356602</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121668112</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">d8c5c65bdb0033440ab47b7b9b047f1e</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356603-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356603</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>93077488</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">85beab6c7a3568b282a4f4fef7b2bf2f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356604-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356604</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>75880352</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">4c22db71351354d933fda5b123742e74</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356605-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356605</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>131181568</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">ac77b4f9b97d6997327ac1d48c281b13</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356606-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356606</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>178002336</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">cacdf466ff977cd58f185eb12d84ffa7</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356607-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356607</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122470112</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">b5b033780023387d8c16e91014695d28</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356608-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356608</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106709888</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">8a0da443a0812597dc8badc9e73c3bd7</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356609-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356609</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>100316048</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">1602dd7b59a50a6097d018df4adb7d90</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356610-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356610</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>159505760</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">8164e5db39cc62b49bbba00c1a98792c</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356701-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356701</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70926304</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">e2ca949a26c02978d2b7885fabe43b42</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356702-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356702</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>181211184</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">b663e2e27cc0c3e96106cac237c5b4d7</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356703-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356703</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>122024192</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">cc435a350422408826c0603154f5742d</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356704-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356704</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84928400</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">06474320a1b2da8a5f3f4c749d1bc34f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356705-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356705</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94712752</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">69d57de2accc53db91620567ef6a1515</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356706-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356706</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127763312</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">42430d2b19308542c5db38d19759aab6</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356707-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356707</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58048928</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">49160de576300397be134dc4e3cadba6</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356708-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356708</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>137700384</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">45227f353501d001f513981a14757e97</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356709-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356709</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>74276832</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">5642dbf992c719f59f21a96f66b9e2f8</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356710-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356710</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>81112736</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">bea8868276afbbd4a362aae9838bfe59</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356711-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356711</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>126744400</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">69edb79bdb7bb9507a30cacb27044c6e</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356712-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356712</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>108030272</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">03c194ac945b39cdfac8174abccff275</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356713-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356713</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83658432</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">a3f9789de8fd421d48eac82359097171</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356714-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356714</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>186760960</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">fcde097cc62cb7d3f84a29520768346d</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356715-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356715</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>112201376</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">6c98a747950274b40230bc009496de5d</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356716-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356716</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>121950240</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">c44487c40e1d80ad611bd4d5a47384d8</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356717-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356717</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129317920</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">1c2cb1e03463ac53368ffd691aa01ec8</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356718-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356718</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>127173552</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">f48952b0198995a638e05b91c46508a5</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356719-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356719</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>147893744</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">113771e01d7b5032b0fe9f14e3acac4f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356720-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356720</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177799504</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">e91a30a11402bfc52025fa0f1607b6ba</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356721-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356721</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98765008</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">49874f704d2894ce86196089ec32c7bd</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356722-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356722</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>101303536</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">06416f48fc25500900a589687070b824</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356723-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356723</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78052368</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">f5e4134bc5f229877a1206e037d7ccae</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356724-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356724</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96545792</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">cc63e5a0e57c058ec3707223dfd0d3f2</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356725-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356725</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84563792</size>
+                    <file_name>Track_041.wav</file_name>
+                    <checksum type="md5">b84752be91742da72c7d9be52cef448f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356726-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356726</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>91123824</size>
+                    <file_name>Track_042.wav</file_name>
+                    <checksum type="md5">d32bab3a47ee2e2eaa704f2244e283d8</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356727-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356727</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96583952</size>
+                    <file_name>Track_043.wav</file_name>
+                    <checksum type="md5">4e201c06605d0e4903168c28c26240c2</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356728-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356728</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>208764832</size>
+                    <file_name>Track_044.wav</file_name>
+                    <checksum type="md5">c6695c3f9a1c37e64bae51dfeb4fa9de</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356729-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356729</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>109527696</size>
+                    <file_name>Track_045.wav</file_name>
+                    <checksum type="md5">4431376447cde01ade39490cafd81f27</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356730-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356730</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>218170240</size>
+                    <file_name>Track_046.wav</file_name>
+                    <checksum type="md5">be13399d194a2885ae0488f07e2622ea</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356731-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356731</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97812336</size>
+                    <file_name>Track_047.wav</file_name>
+                    <checksum type="md5">f30151489dccbced8db989652edf498e</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356732-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356732</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_048</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_048</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 048 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>165720672</size>
+                    <file_name>Track_048.wav</file_name>
+                    <checksum type="md5">59d2aa583fdcbb827ce9922e80fbb483</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 048</title>
+                <track_number>48</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_048</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356733-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356733</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_049</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_049</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 049 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>150050944</size>
+                    <file_name>Track_049.wav</file_name>
+                    <checksum type="md5">7810576ca01f3d4778765d2ee4d1e664</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 049</title>
+                <track_number>49</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_049</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356734-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356734</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_050</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_050</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 050 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>72501552</size>
+                    <file_name>Track_050.wav</file_name>
+                    <checksum type="md5">c6cee22533ccb7846fbeb8ca6b5d7689</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 050</title>
+                <track_number>50</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_050</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356735-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356735</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_051</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_051</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 051 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>140604896</size>
+                    <file_name>Track_051.wav</file_name>
+                    <checksum type="md5">2ae781619261dda431bdc76713ba4a49</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 051</title>
+                <track_number>51</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_051</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356736-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356736</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_052</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_052</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 052 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>92326704</size>
+                    <file_name>Track_052.wav</file_name>
+                    <checksum type="md5">55dcbf25a25d64521adbe8c970ec1b5e</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 052</title>
+                <track_number>52</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_052</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356737-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356737</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_053</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_053</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 053 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>128357520</size>
+                    <file_name>Track_053.wav</file_name>
+                    <checksum type="md5">ac190491b487c95aaadd4cbe878f340d</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 053</title>
+                <track_number>53</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_053</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356738-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356738</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_054</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_054</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 054 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>37572528</size>
+                    <file_name>Track_054.wav</file_name>
+                    <checksum type="md5">00cf4486ad7b451d1c1f8a27e2c761be</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 054</title>
+                <track_number>54</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_054</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356740-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356740</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_055</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_055</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 055 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>222599232</size>
+                    <file_name>Track_055.wav</file_name>
+                    <checksum type="md5">2c7796fccfa44417f93728937c2b20ee</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 055</title>
+                <track_number>55</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_055</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435356743-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435356743</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838516_056</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838516_056</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 267141544-->
+                        <apple_id>267141544</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">267141544</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Winston Graham</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 703027938-->
+                        <apple_id>703027938</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">703027938</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Oliver J Hembrough</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 056 - Bella Poldark</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>3436048</size>
+                    <file_name>Track_056.wav</file_name>
+                    <checksum type="md5">ab54c001651ff1c5e28f23d4d3a1882f</checksum>
+                </audio_file>
+                <title>Bella Poldark Track 056</title>
+                <track_number>56</track_number>
+                <vendor_offer_code>9781509838516_9781509838516_056</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509838516</vendor_offer_code>
+    </album>
+</package>

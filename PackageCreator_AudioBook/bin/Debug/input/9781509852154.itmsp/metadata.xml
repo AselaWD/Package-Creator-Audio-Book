@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:54:41 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537264481509-43046f868f9a445d5355a15e1f7c6da38395f455334c5a337e2cd03d8fe9996c</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435362852-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435362852</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509852154</vendor_id>
+        <title>The Reminders</title>
+        <artwork_files>
+            <file>
+                <size>2829181</size>
+                <file_name>9781509852154.jpg</file_name>
+                <checksum type="md5">5004bf4371d8835914a32267b184fa69</checksum>
+            </file>
+        </artwork_files>
+        <description>Ten-year-old Joan was born with a rare gift: she can remember every single day of her life in perfect detail. She can tell you how many times her mother has uttered the phrase ‘it never fails’ in the last six months (twenty-seven), or what she was wearing when her grandfather took her fishing on a particular Sunday in June years ago (fox socks). But Joan doesn’t want to be the girl who remembers everything – she wants to be the girl that no one can forget. When her father’s old bandmate Gavin comes to stay, reeling from the sudden loss of his partner Sydney, Joan is keen to enlist his help in making her name. Even if it means using her extraordinary memory to help him solve the mystery of Sydney’s final months . . . Told in the alternating voices of two unforgettable characters, The Reminders by musician and actor Val Emmich is a funny, heart-wrenching and uplifting story of friendship, grief, memory and hope.</description>
+        <track_count>40</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-08-10</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-reminders/id1435362852?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-08-10</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 1151016356-->
+                <apple_id>1151016356</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1151016356</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Val Emmich</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 80752532-->
+                <apple_id>80752532</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">80752532</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Cassandra Morris</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>卡珊拉•莫里斯</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>카산드라 모리스</artist_name>
+                    </locale>
+                    <locale name="ko-KR">
+                        <artist_name>카산드라 모리스</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>卡珊拉•莫里斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 259026486-->
+                <apple_id>259026486</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">259026486</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kevin T. Collins</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435362861-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362861</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>361033136</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">95f1936bd70f11f46dcd15674dc09e9a</checksum>
+                </audio_file>
+                <title>The Reminders Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362862-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362862</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>86703248</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">2b0dbd2f438243b36af0299d0f668c08</checksum>
+                </audio_file>
+                <title>The Reminders Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362863-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362863</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>133354144</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">74a56e4ecee25ace6d4754cd566c66f9</checksum>
+                </audio_file>
+                <title>The Reminders Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362864-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362864</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135256096</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">418b54cdfb3792a9af248758a538c9f6</checksum>
+                </audio_file>
+                <title>The Reminders Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362865-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362865</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>133729088</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">2588a2dab31cb0946c2c62aa0d5e4fab</checksum>
+                </audio_file>
+                <title>The Reminders Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362866-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362866</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>113013264</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">2e58532d56504c982aab86b427b01723</checksum>
+                </audio_file>
+                <title>The Reminders Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362867-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362867</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>123170800</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">0bbae6603b85456653941184e32065d4</checksum>
+                </audio_file>
+                <title>The Reminders Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362868-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362868</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>103563296</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">3463623f3de7bede11544d3238145a60</checksum>
+                </audio_file>
+                <title>The Reminders Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362869-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362869</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>150359088</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">3af69245997562790a6c83dbac2f6cd5</checksum>
+                </audio_file>
+                <title>The Reminders Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362870-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362870</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>155884928</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">b106f6c4f0284ea81a9eab12d9245b95</checksum>
+                </audio_file>
+                <title>The Reminders Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362871-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362871</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>177647600</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">e3ba7e207191c65127200feb815635c7</checksum>
+                </audio_file>
+                <title>The Reminders Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362872-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362872</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>192568112</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">7af9e8ccc74ddc38a4adc3516c1c2b1b</checksum>
+                </audio_file>
+                <title>The Reminders Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362873-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362873</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>285208208</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">34e340f968ca3db5e17e547a79c38332</checksum>
+                </audio_file>
+                <title>The Reminders Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362874-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362874</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>145146320</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">450771e6aa966c1b342834f5da29a8d5</checksum>
+                </audio_file>
+                <title>The Reminders Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362875-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362875</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>227221360</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">2aa440394df1861640188a76b72f7e53</checksum>
+                </audio_file>
+                <title>The Reminders Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362876-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362876</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>179297664</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">26d901a582a2821449b25d1d4f455680</checksum>
+                </audio_file>
+                <title>The Reminders Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362877-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362877</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>141821840</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">869d25ce79f1239d20c30c1147919e5e</checksum>
+                </audio_file>
+                <title>The Reminders Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362878-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362878</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>240718704</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">597c76c935acab73c6aa8d2cb91ba28b</checksum>
+                </audio_file>
+                <title>The Reminders Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362879-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362879</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>119617232</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">e7891590e6dd48e5e3c1ab331dadb3f4</checksum>
+                </audio_file>
+                <title>The Reminders Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435362880-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435362880</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>173547600</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">6712e6d0105cda5f854c1c17fdad9b12</checksum>
+                </audio_file>
+                <title>The Reminders Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363001-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363001</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>175967200</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">0a538b99535d0a5b223caa7576c7e388</checksum>
+                </audio_file>
+                <title>The Reminders Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363002-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363002</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>216380112</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">f0b90fa75f901b330a587e1f71a0fd3e</checksum>
+                </audio_file>
+                <title>The Reminders Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363003-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363003</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>187739552</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">2d2d8fe2196084287ed797d2a4585d84</checksum>
+                </audio_file>
+                <title>The Reminders Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363004-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363004</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>139358944</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">4611109b5af438e14f1e762f8b2f1fc6</checksum>
+                </audio_file>
+                <title>The Reminders Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363005-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363005</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>216562544</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">538253339d153f27ed09974bf54c8cea</checksum>
+                </audio_file>
+                <title>The Reminders Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363006-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363006</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>163719760</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">3c2c7112ecb6cf1c031274a5a00bc42d</checksum>
+                </audio_file>
+                <title>The Reminders Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363007-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363007</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>83427456</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">9a88a6b65119a15c74710d177f78affb</checksum>
+                </audio_file>
+                <title>The Reminders Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363008-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363008</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>357878176</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">57209dc910382d157ce3021fb01dda58</checksum>
+                </audio_file>
+                <title>The Reminders Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363009-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363009</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>101078944</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">d1fe15697bd20a4ce86668c2fb8e55e6</checksum>
+                </audio_file>
+                <title>The Reminders Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32574240</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">f51562371fd6385cd8f03511efefbc91</checksum>
+                </audio_file>
+                <title>The Reminders Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363011-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363011</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>286493936</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">e3d0a629820ad77402c57aef038025e0</checksum>
+                </audio_file>
+                <title>The Reminders Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363012-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363012</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106646736</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">00ece547f08ffa07ea2caeb61e6dda6b</checksum>
+                </audio_file>
+                <title>The Reminders Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363013-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363013</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>70027376</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">39aba048b867ece82c3ce288d7e3ab03</checksum>
+                </audio_file>
+                <title>The Reminders Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363014-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363014</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>73346768</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">8f3630f83663150d1c26d0888dbf9644</checksum>
+                </audio_file>
+                <title>The Reminders Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363015-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363015</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97887024</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">8133e985518b35cf05ae1fc97132e280</checksum>
+                </audio_file>
+                <title>The Reminders Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363016-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363016</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>110313616</size>
+                    <file_name>Track_036.wav</file_name>
+                    <checksum type="md5">9255da16cb56ed34d83f3c9dbf8cbcde</checksum>
+                </audio_file>
+                <title>The Reminders Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363017-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363017</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>136596960</size>
+                    <file_name>Track_037.wav</file_name>
+                    <checksum type="md5">603e8a73b355a1f4be0c03af28d1862f</checksum>
+                </audio_file>
+                <title>The Reminders Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363018-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363018</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>180097840</size>
+                    <file_name>Track_038.wav</file_name>
+                    <checksum type="md5">77d2b4cdef9bb2756b52ac74884cd0bd</checksum>
+                </audio_file>
+                <title>The Reminders Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363019-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363019</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>686259696</size>
+                    <file_name>Track_039.wav</file_name>
+                    <checksum type="md5">fba83f6df0e83f9b10e9d07a4ea219b0</checksum>
+                </audio_file>
+                <title>The Reminders Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435363020-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435363020</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509852154_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509852154_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 1151016356-->
+                        <apple_id>1151016356</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1151016356</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Val Emmich</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 80752532-->
+                        <apple_id>80752532</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">80752532</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Cassandra Morris</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>카산드라 모리스</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>卡珊拉•莫里斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 259026486-->
+                        <apple_id>259026486</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">259026486</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kevin T. Collins</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - The Reminders</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>59261552</size>
+                    <file_name>Track_040.wav</file_name>
+                    <checksum type="md5">373347f29ab5ff7839c3dbc7f95dcdcb</checksum>
+                </audio_file>
+                <title>The Reminders Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9781509852154_9781509852154_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509852154</vendor_offer_code>
+    </album>
+</package>

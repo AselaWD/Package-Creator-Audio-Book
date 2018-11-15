@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:41:21 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537249281734-65519f84bbfe7d79666979908e66ba80f9b7d3d7b33bf6eedbb92704296272f4</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435417166-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435417166</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781447290933</vendor_id>
+        <title>Losing It</title>
+        <artwork_files>
+            <file>
+                <size>2180404</size>
+                <file_name>9781447290933.jpg</file_name>
+                <checksum type="md5">b01458997f69881bec0d231ee9cea620</checksum>
+            </file>
+        </artwork_files>
+        <description>Millie was at one time quite well known for various TV and radio appearances. However, she now has no money, a best friend with a better sex life than her, a daughter in Papua New Guinea and too much weight in places she really doesn't want it. When she's asked to be the front woman for a new diet pill, she naively believes that all her troubles will be solved. She will have money, the weight will be gone, and maybe she'll get more sex. If only life was really that easy. It doesn't take her long to realize it's going to take more than a diet pill to solve her never-ending woes...</description>
+        <track_count>20</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2015-02-12</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>26</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/losing-it/id1435417166?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2015-02-12</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 27058928-->
+                <apple_id>27058928</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">27058928</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Helen Lederer</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                    <role>Author</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435417170-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417170</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97687104</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">53785fc0730cc68a7545f7cb847efd7e</checksum>
+                </audio_file>
+                <title>Losing It Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417171-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417171</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>58341264</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">c77e1bd926c1a4de454fae96c476b62f</checksum>
+                </audio_file>
+                <title>Losing It Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417172-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417172</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>63347568</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">acfe983a60b831d580a4f03351c3b158</checksum>
+                </audio_file>
+                <title>Losing It Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417173-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417173</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>82646416</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">50b50525263427e075179b5a85f94ba7</checksum>
+                </audio_file>
+                <title>Losing It Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417174-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417174</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>72752496</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">9547575d56749786e9a929dd08460ed6</checksum>
+                </audio_file>
+                <title>Losing It Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417175-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417175</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>40151680</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">30b98ba158b9e36926ea8750641ab1cd</checksum>
+                </audio_file>
+                <title>Losing It Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417176-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417176</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>64679184</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">83ebaad3f8bd3bd3b4374af131dd5bea</checksum>
+                </audio_file>
+                <title>Losing It Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417177-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417177</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>76499920</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">388eb307617b34a146e18c52afd9fe46</checksum>
+                </audio_file>
+                <title>Losing It Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417178-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417178</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65931392</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">7e660fb9edfc1c5b4eb3c903dc53966a</checksum>
+                </audio_file>
+                <title>Losing It Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417179-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417179</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124646304</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">a8a822607b1b6270bfac4044eefc1090</checksum>
+                </audio_file>
+                <title>Losing It Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417180-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417180</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18603376</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">c513fee24a810f61868bd8faad02c3e1</checksum>
+                </audio_file>
+                <title>Losing It Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417271-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417271</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>57639920</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">beb55c698c89f9e2385473082d33e9c2</checksum>
+                </audio_file>
+                <title>Losing It Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417272-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417272</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>53707760</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">0c440ffacc24cd0eed09725da327e88b</checksum>
+                </audio_file>
+                <title>Losing It Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417273-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417273</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84164448</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">d6983229eb63a60ff3dc4516c162e18b</checksum>
+                </audio_file>
+                <title>Losing It Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417274-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417274</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>68829520</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">fdf187a207ff63ac44303474ab7ca9c5</checksum>
+                </audio_file>
+                <title>Losing It Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417275-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417275</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>90010032</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">859c41d22e1793fbe02c2f2056f33b48</checksum>
+                </audio_file>
+                <title>Losing It Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417276-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417276</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35129472</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">be60fa59acac8e227972c6b97db0e637</checksum>
+                </audio_file>
+                <title>Losing It Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417277-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417277</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>139539856</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">eb410a24fda3000f5f16446ae9b11a12</checksum>
+                </audio_file>
+                <title>Losing It Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417278-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417278</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29128416</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">77b042823606a76c143d25be9d309975</checksum>
+                </audio_file>
+                <title>Losing It Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435417279-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435417279</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781447290933_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781447290933_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 27058928-->
+                        <apple_id>27058928</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">27058928</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Helen Lederer</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Losing It</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>7080240</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">cd9b26c2d571ab4042a804119da39f87</checksum>
+                </audio_file>
+                <title>Losing It Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781447290933_9781447290933_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781447290933</vendor_offer_code>
+    </album>
+</package>

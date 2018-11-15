@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:53:18 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260798924-bcb455423997506a1c2833a92f31025065662c2f176655fdf45b1f8780ff42b1</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435339006-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435339006</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509838295</vendor_id>
+        <title>Under the Sun</title>
+        <artwork_files>
+            <file>
+                <size>3613680</size>
+                <file_name>9781509838295.jpg</file_name>
+                <checksum type="md5">ccdf8444ac0c6ca3d67ea9b4376365c9</checksum>
+            </file>
+        </artwork_files>
+        <description>'Has all the hallmarks of a classic summer read' The Times Anna’s friends and family think she is living the dream in her beautiful finca under the Spanish sun. But the reality is far from perfect. The handsome, complicated man she was building a life with has left with little more than a note to say goodbye and the future she imagined has crashed around her ears. Anna has secretly embarked on an ill-advised affair and lives above the dingy bar she runs in the sleepy beach town of Marea, surrounded by British expats as homesick and stuck as she is. When Simon, a local businessman, offers to rent the finca, Anna hopes it will pave the way for her escape. But there is more to him than meets the eye, and when a body washes up on the beach in mysterious circumstances, Anna realizes she may be the only one with the power to unravel the truth. But how can she prove that Simon is connected, and how can she reclaim her house? Anna is prepared to risk everything to get home – even though she’s no longer sure where home really is. Urgent, gripping and brilliantly observed, Under the Sun by Lottie Moggach is an exhilarating novel about heartbreak, identity, migration and finding a place to call home.</description>
+        <track_count>14</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-07-13</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/under-the-sun/id1435339006?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-07-13</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 597194327-->
+                <apple_id>597194327</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">597194327</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Lottie Moggach</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 283468167-->
+                <apple_id>283468167</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">283468167</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kate Lock</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435339010-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339010</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>424620032</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">52159c777b1417a453bf5a5c30436128</checksum>
+                </audio_file>
+                <title>Under the Sun Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339011-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339011</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>300286160</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">ff89322cdba9ae26ccc00452f85df6c9</checksum>
+                </audio_file>
+                <title>Under the Sun Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339012-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339012</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>202395088</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">79fe20a69a3571723000bae2e34c05f3</checksum>
+                </audio_file>
+                <title>Under the Sun Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339013-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339013</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>160643136</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">7771de9f92e0662ee6e16e3ddf1d55fc</checksum>
+                </audio_file>
+                <title>Under the Sun Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339014-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339014</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>249642544</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">2b98a7fc86613c2049cd28bd93870921</checksum>
+                </audio_file>
+                <title>Under the Sun Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339015-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339015</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>247346688</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">5fe3255265eb555e50bddfed8d6eb0a1</checksum>
+                </audio_file>
+                <title>Under the Sun Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339016-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339016</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>171989968</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">220ae3380fc7f1c754c41839f26db466</checksum>
+                </audio_file>
+                <title>Under the Sun Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339017-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339017</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>336207952</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">5b5f3a4f83eac7c158ccbf5298a6339f</checksum>
+                </audio_file>
+                <title>Under the Sun Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339018-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339018</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>199165568</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">08249248b0924660dad69159cfd62136</checksum>
+                </audio_file>
+                <title>Under the Sun Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339019-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339019</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>223165968</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">57ca6efc29c5428c4b37b7fb4c2a2787</checksum>
+                </audio_file>
+                <title>Under the Sun Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339020-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339020</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>170419648</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">70f8b532f85aa3243a34a02e753031a2</checksum>
+                </audio_file>
+                <title>Under the Sun Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339021-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339021</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>212765072</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">6b9c5800fd577de16931f71e5da68eca</checksum>
+                </audio_file>
+                <title>Under the Sun Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339022-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339022</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>158981776</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">b0116164ea0cb908969226bb6e223679</checksum>
+                </audio_file>
+                <title>Under the Sun Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435339023-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435339023</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838295_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838295_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 597194327-->
+                        <apple_id>597194327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">597194327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Lottie Moggach</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 283468167-->
+                        <apple_id>283468167</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">283468167</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kate Lock</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Under the Sun</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>276902848</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">6557fe11f6121be9dd28fbbf4fbbdb89</checksum>
+                </audio_file>
+                <title>Under the Sun Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509838295_9781509838295_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509838295</vendor_offer_code>
+    </album>
+</package>

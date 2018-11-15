@@ -1,0 +1,2859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 12:07:57 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537254477420-28f437c25751b6834c60056782764ba056fad123e0b372f391b245ef51d723ce</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435373908-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435373908</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230769663</vendor_id>
+        <title>Best Kept Secret</title>
+        <artwork_files>
+            <file>
+                <size>1291619</size>
+                <file_name>9780230769663.jpg</file_name>
+                <checksum type="md5">7a732442984747eef47d365f196e46b3</checksum>
+            </file>
+        </artwork_files>
+        <description>1945. The vote in the House of Lords as to who should inherit the Barrington family fortune has ended in a tie. The Lord Chancellor's deciding vote will cast a long shadow on the lives of Harry Clifton and Giles Barrington. Harry returns to America to promote his latest novel, while his beloved Emma goes in search of the little girl who was found abandoned in her father's office on the night he was killed. When the General Election is called, Giles Barrington has to defend his seat in the House of Commons and is horrified to discover who the Conservatives select to stand against him. But it is Sebastian Clifton, Harry and Emma's son, who ultimately influences his uncle's fate. In 1957, Sebastian wins a scholarship to Cambridge, and a new generation of the Clifton family march onto the page. After Sebastian is expelled from school, he unwittingly becomes caught up in an international art fraud involving a Rodin statue that is worth far more than the sum it raises at auction. Does he become a millionaire? Does he go to Cambridge? Is his life in danger? Best Kept Secret, the third book in Jeffrey Archer's gripping family saga The Clifton Chronicles, will answer all these questions, but once again, pose so many more.</description>
+        <track_count>47</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2013-03-14</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/best-kept-secret/id1435373908?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2013-03-14</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 2765327-->
+                <apple_id>2765327</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">2765327</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Jeffrey Archer</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 3259942-->
+                <apple_id>3259942</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">3259942</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Alex Jennings</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>艾利克斯·詹寧斯</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435373910-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373910</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24522784</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">e5192882794de9243d3e29b48df7fcb8</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373911-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373911</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9648032</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">ef82fb524217a7c0ee6fa1658b08bca7</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373912-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373912</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32131936</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">8108a5b9002041e4fb028233f7c7d280</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373913-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373913</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26384160</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">57ff008e821c8d85ce30af52aa958363</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373914-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373914</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34958176</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">0ff9573101f5dc15749a849ad6d1f569</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373915-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373915</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23410592</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">befb2c560083fc489c4303c798f3bf83</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373916-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373916</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>30950784</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">c6739daa8827e5fd8e7b2ed46eaba1ff</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373917-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373917</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6347200</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">79f38b7b2463f993f3ff624ca6d77b67</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373918-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373918</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25748448</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">ee73588255d0e4c9bec9da5f28f903f2</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373919-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373919</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21034496</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">83593bbb3d0f14440ea53733f376b704</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373920-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373920</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18019552</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">342542f37e772a2f8819412f7715aafc</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373921-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373921</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21662688</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">5482214c5c5256eb62e59c6f85d10776</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373922-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373922</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13439136</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">70ea95769607fff3a982697767ed5c3d</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373923-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373923</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31294352</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">8b4cbab52c0f05cc06cea6e3173644a4</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373924-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373924</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21095312</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">8fe7c31bbb63f3ca4363053b7969b92d</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373925-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373925</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18220800</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">846fc4ace9167766372782d9d00e2132</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373926-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373926</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>8286944</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">851356419c933a251aee58ac1e651086</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373927-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373927</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20737952</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">38e47f9cc19e74e8ed7539ab26dbafb9</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373928-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373928</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16653456</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">5982f9f18d02d1ed683db8a22321f3c6</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373929-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373929</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22100912</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">daa3305c3fccde84e2efa3496beda681</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373930-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373930</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25033120</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">acf18a54cf7043606ca6d8dcf79b1681</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373931-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373931</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18528624</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">cb1f272cfca9fee62180f0e1810a0e5a</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373932-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373932</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26433072</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">7d7870ab10e8668d9cd5eae4ea53f6c3</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373933-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373933</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27376608</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">2d0b451121811663fb0ec9e1d51d82ef</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373934-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373934</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23861360</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">f92bd0e8e56058b61ac7478c49fc047c</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373935-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373935</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28143360</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">dcf04a38ff33c65c6841c6960ebf3de1</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373936-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373936</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>15654112</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">c4b8237cc603ee37cd40e9a4a6ddeaf0</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373937-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373937</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16281680</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">69041437e49bf4c851aa813cd6dbbf8d</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373938-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373938</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18859024</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">58f361640fb4b2ae06c0b0e7c6974569</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373939-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373939</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23013120</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">e661ff3abe3620dcd2b5ad5a387b51bc</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373940-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373940</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19921056</size>
+                    <file_name>Track_031.mp3</file_name>
+                    <checksum type="md5">9aaa10597cbc5323135d7e884ae27a68</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373941-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373941</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35782608</size>
+                    <file_name>Track_032.mp3</file_name>
+                    <checksum type="md5">5203143bb988222a83f061623e4d2f4e</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373942-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373942</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>24488304</size>
+                    <file_name>Track_033.mp3</file_name>
+                    <checksum type="md5">da7de4dd7530c668885e809797b6597b</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373943-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373943</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29195360</size>
+                    <file_name>Track_034.mp3</file_name>
+                    <checksum type="md5">e9dc8e9d92bc1e007620feef4dd3be5c</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373944-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373944</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22174896</size>
+                    <file_name>Track_035.mp3</file_name>
+                    <checksum type="md5">6f61978e734e01f0dda6fec33d9a284f</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373945-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373945</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_036</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_036</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 036 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19915408</size>
+                    <file_name>Track_036.mp3</file_name>
+                    <checksum type="md5">5efe9165addbee548e3a946a38665198</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 036</title>
+                <track_number>36</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_036</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373946-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373946</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_037</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_037</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 037 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>16275408</size>
+                    <file_name>Track_037.mp3</file_name>
+                    <checksum type="md5">b4e0c1caa74881668c98bd0120388445</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 037</title>
+                <track_number>37</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_037</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373947-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373947</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_038</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_038</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 038 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23123456</size>
+                    <file_name>Track_038.mp3</file_name>
+                    <checksum type="md5">4c6e0b39c767f655b3173825f3cb0850</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 038</title>
+                <track_number>38</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_038</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373948-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373948</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_039</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_039</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 039 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23841296</size>
+                    <file_name>Track_039.mp3</file_name>
+                    <checksum type="md5">3dd6dbf56dc511b5682a76a2e377cc7a</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 039</title>
+                <track_number>39</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_039</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373949-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373949</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_040</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_040</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 040 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26569744</size>
+                    <file_name>Track_040.mp3</file_name>
+                    <checksum type="md5">3be2e261c47cf3e732029fbd26078793</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 040</title>
+                <track_number>40</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_040</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373950-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373950</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_041</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_041</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 041 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19638304</size>
+                    <file_name>Track_041.mp3</file_name>
+                    <checksum type="md5">16301c94a505cd7dd63290e4b45ed698</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 041</title>
+                <track_number>41</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_041</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373951-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373951</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_042</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_042</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 042 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>25325888</size>
+                    <file_name>Track_042.mp3</file_name>
+                    <checksum type="md5">b7d59fee902eada39f435ad3b997a527</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 042</title>
+                <track_number>42</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_042</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373952-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373952</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_043</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_043</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 043 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18134912</size>
+                    <file_name>Track_043.mp3</file_name>
+                    <checksum type="md5">cbb80c8c1386822e8ef83fda9adf6e2b</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 043</title>
+                <track_number>43</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_043</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373953-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373953</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_044</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_044</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 044 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20213840</size>
+                    <file_name>Track_044.mp3</file_name>
+                    <checksum type="md5">0b75162f74ba7aa0967516b2c16cb3af</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 044</title>
+                <track_number>44</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_044</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373954-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373954</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_045</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_045</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 045 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13499312</size>
+                    <file_name>Track_045.mp3</file_name>
+                    <checksum type="md5">bff85400f0d9a596d7ca27b7017cdc1b</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 045</title>
+                <track_number>45</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_045</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373955-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373955</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_046</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_046</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 046 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>19638304</size>
+                    <file_name>Track_046.mp3</file_name>
+                    <checksum type="md5">b0ada5abdc79577123753165326abdd2</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 046</title>
+                <track_number>46</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_046</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435373956-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435373956</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230769663_047</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230769663_047</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 2765327-->
+                        <apple_id>2765327</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">2765327</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Jeffrey Archer</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 3259942-->
+                        <apple_id>3259942</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">3259942</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Alex Jennings</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>艾利克斯·詹寧斯</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 047 - Best Kept Secret</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20277776</size>
+                    <file_name>Track_047.mp3</file_name>
+                    <checksum type="md5">894c231f56a4cda0db27e8d46e516f3b</checksum>
+                </audio_file>
+                <title>Best Kept Secret Track 047</title>
+                <track_number>47</track_number>
+                <vendor_offer_code>9780230769663_9780230769663_047</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230769663</vendor_offer_code>
+    </album>
+</package>

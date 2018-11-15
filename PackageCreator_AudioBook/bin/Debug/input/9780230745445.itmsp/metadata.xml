@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:06:54 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537258014835-4d0c99a57c99204e47a59d6026add3ef0e8c471a99aeb5477954112263e3131d</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435333144-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435333144</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9780230745445</vendor_id>
+        <title>Beasts and Monsters</title>
+        <artwork_files>
+            <file>
+                <size>851045</size>
+                <file_name>9780230745445.jpg</file_name>
+                <checksum type="md5">a544a6268c3813ae0d8cb90e82b1280f</checksum>
+            </file>
+        </artwork_files>
+        <description>A collection of five bite-size myths from across the globe, Beasts and Monsters by bestselling author Anthony Horowitz tells the thrilling tales of some of the most terrifying beasts from the world of legend. Part of the Legends series of six books, Beasts and Monsters features the stories of fearless heroes and monstrous beasts, including Saint George and the Dragon and Perseus and the gruesome snake-headed gorgon Medusa, all read by actor John Sessions. Featuring black and white illustrations, the Legends series by Anthony Horowitz, the author of the phenomenally successful Alex Rider series, brings classic stories to life with thrilling imagination.</description>
+        <track_count>6</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2010-05-07</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>8</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/beasts-and-monsters/id1435333144?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2010-05-07</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 81994863-->
+                <apple_id>81994863</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">81994863</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Anthony Horowitz</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>安東尼·赫洛維茲</artist_name>
+                    </locale>
+                    <locale name="ko">
+                        <artist_name>앤터니 호로비츠</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 133486455-->
+                <apple_id>133486455</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">133486455</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>John Sessions</artist_name>
+                <locales>
+                    <locale name="cmn-Hant">
+                        <artist_name>約翰.薩森</artist_name>
+                    </locale>
+                    <locale name="ko-KR">
+                        <artist_name>존 세션스</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435333282-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333282</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>11440224</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">dfd1cb0a1980b90ca9f3d6e604bbaeae</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333284-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333284</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>12535104</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">100284fe8cec3398a90d2d1a06611871</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333285-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333285</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>23011840</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">c70a0d931bfd45ce4a2f4c7288b19557</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333286-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333286</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27427008</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">22388cd40f71221d39c1062c2f45c600</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333287-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333287</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35065472</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">7884239c82a0ed9241a76337872d9b9a</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435333288-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435333288</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9780230745445_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9780230745445_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 81994863-->
+                        <apple_id>81994863</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">81994863</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Anthony Horowitz</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>安東尼·赫洛維茲</artist_name>
+                            </locale>
+                            <locale name="ko">
+                                <artist_name>앤터니 호로비츠</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 133486455-->
+                        <apple_id>133486455</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">133486455</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>John Sessions</artist_name>
+                        <locales>
+                            <locale name="cmn-Hant">
+                                <artist_name>約翰.薩森</artist_name>
+                            </locale>
+                            <locale name="ko-KR">
+                                <artist_name>존 세션스</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - Beasts and Monsters</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5558336</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">31a64c587687105b9f90596bb942b339</checksum>
+                </audio_file>
+                <title>Beasts and Monsters Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9780230745445_9780230745445_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9780230745445</vendor_offer_code>
+    </album>
+</package>

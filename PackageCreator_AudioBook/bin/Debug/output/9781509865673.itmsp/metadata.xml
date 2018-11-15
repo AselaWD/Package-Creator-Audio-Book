@@ -1,0 +1,970 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+  <!-- This document was generated on Sep 18, 2018 12:01:40 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+  <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+  <metadata_token>1537254100482-2e91516d39a2ad0bd6f20f9ab2858726fbf64ed1f1c1be9fff4e9ff281a99a57</metadata_token>
+  <language>en</language>
+  <provider>MacmillanPublishersInternationalLtd1</provider>
+  <album>
+    <!--Apple ID: 1435318246-->
+    <read_only_info>
+      <read_only_value key="apple-id">1435318246</read_only_value>
+      <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+      <read_only_value key="content-review-date" />
+    </read_only_info>
+    <album_type>audiobook</album_type>
+    <vendor_id>9781509865673</vendor_id>
+    <title>The 39-Storey Treehouse</title>
+    <artwork_files>
+      <file>
+        <size>3825069</size>
+        <file_name>9781509865673.jpg</file_name>
+        <checksum type="md5">fa57e0c0a73f60ce423cabb03e3c5746</checksum>
+      </file>
+    </artwork_files>
+    <description>Andy and Terry's amazing treehouse has thirteen new levels! They've added a chocolate waterfall you can swim in, a volcano for toasting marshmallows, a bulldozer-battling level, a baby-dinosaur-petting zoo, a not-very-merry merry-go-round, a boxing elephant called the Trunkinator, an X-ray room, a disco with light-up dance floor, the world's scariest roller coaster and a top-secret thirty-ninth level which hasn't even been finished yet! But what good is all this stuff when Andy and Terry are trying to write their fastest book ever? You'll have to read it to find out! The 39-Storey Treehouse is the third book in Andy Griffith's and Terry Denton's wacky treehouse adventures, where the laugh-out-loud story is read by Stig Wemyss.</description>
+    <track_count>13</track_count>
+    <products>
+      <product>
+        <territory>GB</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>14</wholesale_price_tier>
+          </interval>
+        </intervals>
+        <read_only_info>
+          <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-39-storey-treehouse/id1435318246?ls=1</read_only_value>
+        </read_only_info>
+      </product>
+      <product>
+        <territory>JP</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>18</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>AT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>BE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FI</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>FR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>GR</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>IT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>LU</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NL</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>PT</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>ES</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>NO</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>19</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>DK</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>15</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>SE</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>20</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+      <product>
+        <territory>CH</territory>
+        <cleared_for_sale>true</cleared_for_sale>
+        <sales_start_date>2017-03-23</sales_start_date>
+        <intervals>
+          <interval>
+            <start_date>2018-09-18</start_date>
+            <wholesale_price_tier>16</wholesale_price_tier>
+          </interval>
+        </intervals>
+      </product>
+    </products>
+    <original_release_date>2017-03-23</original_release_date>
+    <label_name>Pan Macmillan</label_name>
+    <genres>
+      <genre code="KIDS-YOUNG-ADULTS-00">Kids &amp; Young Adults</genre>
+    </genres>
+    <artists>
+      <artist>
+        <!--Apple ID: 6603926-->
+        <apple_id>6603926</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">6603926</read_only_value>
+        </read_only_info>
+        <primary>true</primary>
+        <language>en</language>
+        <artist_name>Andy Griffiths</artist_name>
+        <roles>
+          <role>Author</role>
+        </roles>
+      </artist>
+      <artist>
+        <!--Apple ID: 160736538-->
+        <apple_id>160736538</apple_id>
+        <read_only_info>
+          <read_only_value key="apple-id">160736538</read_only_value>
+        </read_only_info>
+        <language>en</language>
+        <artist_name>Stig Wemyss</artist_name>
+        <roles>
+          <role>Narrator</role>
+        </roles>
+      </artist>
+    </artists>
+    <tracks>
+      <track>
+        <!--Apple ID: 1435318257-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318257</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_001</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_001</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 001 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>37732032</size>
+          <file_name>Track_001.wav</file_name>
+          <checksum type="md5">49138a0d8f0529baec39848321ed2c0b</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 001</title>
+        <track_number>1</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_001</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318258-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318258</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_002</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_002</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 002 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>44388704</size>
+          <file_name>Track_002.wav</file_name>
+          <checksum type="md5">1b69d799c4b75b8cb25356625587d31f</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 002</title>
+        <track_number>2</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_002</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318259-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318259</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_003</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_003</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 003 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>38893472</size>
+          <file_name>Track_003.wav</file_name>
+          <checksum type="md5">170ccb4085c3c81f3e33aa3a570c76b4</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 003</title>
+        <track_number>3</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_003</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318260-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318260</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_004</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_004</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 004 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>58560272</size>
+          <file_name>Track_004.wav</file_name>
+          <checksum type="md5">fccb27afa1ced65ed622405c70f8572d</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 004</title>
+        <track_number>4</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_004</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318261-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318261</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_005</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_005</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 005 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>28974752</size>
+          <file_name>Track_005.wav</file_name>
+          <checksum type="md5">41e23a8ca114929167c98b0cc65ce440</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 005</title>
+        <track_number>5</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_005</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318262-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318262</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_006</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_006</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 006 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>32346976</size>
+          <file_name>Track_006.wav</file_name>
+          <checksum type="md5">e0eb34980b45373b3bb691c0860c5d86</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 006</title>
+        <track_number>6</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_006</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318263-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318263</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_007</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_007</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 007 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>49283216</size>
+          <file_name>Track_007.wav</file_name>
+          <checksum type="md5">3bdd4b65ab5147fc5fe7349a4d2ae2aa</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 007</title>
+        <track_number>7</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_007</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318264-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318264</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_008</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_008</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 008 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>34162784</size>
+          <file_name>Track_008.wav</file_name>
+          <checksum type="md5">4eeb820a44f1c960182fa4c198ab8d5c</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 008</title>
+        <track_number>8</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_008</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318265-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318265</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_009</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_009</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 009 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>74062960</size>
+          <file_name>Track_009.wav</file_name>
+          <checksum type="md5">225b1afef77acaf520bba475dc691a5d</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 009</title>
+        <track_number>9</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_009</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318266-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318266</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_010</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_010</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 010 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>72902480</size>
+          <file_name>Track_010.wav</file_name>
+          <checksum type="md5">0885f65b706df9088a817648be7a6997</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 010</title>
+        <track_number>10</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_010</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318267-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318267</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_011</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_011</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 011 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>59065424</size>
+          <file_name>Track_011.wav</file_name>
+          <checksum type="md5">8ebfaa55677c0e740b4b89fca2c4d5ce</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 011</title>
+        <track_number>11</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_011</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318268-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318268</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_012</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_012</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 012 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>40838992</size>
+          <file_name>Track_012.wav</file_name>
+          <checksum type="md5">26a87986ee1a93a3809e871c92afddb3</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 012</title>
+        <track_number>12</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_012</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+      <track>
+        <!--Apple ID: 1435318269-->
+        <read_only_info>
+          <read_only_value key="apple-id">1435318269</read_only_value>
+        </read_only_info>
+        <type>audiobook</type>
+        <vendor_id>9781509865673_013</vendor_id>
+        <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509865673_013</xid>
+        <gapless_play>false</gapless_play>
+        <label_name>Pan Macmillan</label_name>
+        <volume_number>1</volume_number>
+        <artists>
+          <artist>
+            <!--Apple ID: 6603926-->
+            <apple_id>6603926</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">6603926</read_only_value>
+            </read_only_info>
+            <primary>true</primary>
+            <language>en</language>
+            <artist_name>Andy Griffiths</artist_name>
+            <roles>
+              <role>Author</role>
+            </roles>
+          </artist>
+          <artist>
+            <!--Apple ID: 160736538-->
+            <apple_id>160736538</apple_id>
+            <read_only_info>
+              <read_only_value key="apple-id">160736538</read_only_value>
+            </read_only_info>
+            <language>en</language>
+            <artist_name>Stig Wemyss</artist_name>
+            <roles>
+              <role>Narrator</role>
+            </roles>
+          </artist>
+        </artists>
+        <chapters>
+          <chapter>
+            <chapter_start_time>00:00:00.000</chapter_start_time>
+            <chapter_title>Chapter 013 - The 39-Storey Treehouse</chapter_title>
+          </chapter>
+        </chapters>
+        <audio_file>
+          <size>101982336</size>
+          <file_name>Track_013.wav</file_name>
+          <checksum type="md5">2c67d6765b1fed34d379e78e43176428</checksum>
+        </audio_file>
+        <title>The 39-Storey Treehouse Track 013</title>
+        <track_number>13</track_number>
+        <vendor_offer_code>9781509865673_9781509865673_013</vendor_offer_code>
+        <audio_language>en</audio_language>
+      </track>
+    </tracks>
+    <vendor_offer_code>9781509865673</vendor_offer_code>
+  </album>
+</package>

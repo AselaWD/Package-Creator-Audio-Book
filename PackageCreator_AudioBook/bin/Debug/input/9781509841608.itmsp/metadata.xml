@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:15:03 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247703797-5a767b9d1f44320d47599a4481ca61505e8e44e76ad1f409b8786794a7ba1f94</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435438383-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435438383</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509841608</vendor_id>
+        <title>The Panther In My Kitchen</title>
+        <artwork_files>
+            <file>
+                <size>1201719</size>
+                <file_name>9781509841608.jpg</file_name>
+                <checksum type="md5">afbf601d968fb48b5ffe57511cf6a3c1</checksum>
+            </file>
+        </artwork_files>
+        <description>Brian Blessed has a lifelong love of animals and over the years has rescued cats and dogs, horses and ponies, and even a very ungrateful fighting cock. All were characters in their own right, such as Jessie, a dog left languishing for a year at the local RSPCA, who ruled the entire household with a rod of iron, when she wasn’t out harassing the local vicar. Then there was Bodger, an abused terrier cross breed, who was nursed back to health by Brian and his wife, and Peppone, a stray cat and notorious thief, who was responsible for a crime epidemic in the Bagshot area. Most of all there was Misty, a soul mate and the first Jack Russell Brian met who didn’t take an instant dislike to him. Over the years Brian has encountered more exotic animals too, from Kali the black panther who had free run of his kitchen and the gentle boa constrictor Bo Bo who went for walks with him in Richmond Park to the female gorillas who found him incredibly attractive. Written with all of Brian’s ebullience, The Panther in My Kitchen is a laugh-out-loud, life-affirming book about the joy animals bring and why we should care for them.</description>
+        <track_count>13</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-11-02</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>22</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-panther-in-my-kitchen/id1435438383?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-11-02</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="BIOGRAPHY-MEMOIR-00">Biography &amp; Memoir</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 219604687-->
+                <apple_id>219604687</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">219604687</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Brian Blessed</artist_name>
+                <locales>
+                    <locale name="sk">
+                        <artist_name>Brian Blessed</artist_name>
+                    </locale>
+                    <locale name="cmn-Hans">
+                        <artist_name>Brian Blessed</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Narrator</role>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 406672983-->
+                <apple_id>406672983</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">406672983</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Hildegard Neil</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435438424-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438424</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1456592</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">1417eac3b8622a5b8769c72a5d342313</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438425-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438425</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>1400768</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">e2a32e425ca59900bff10480142e89a7</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438426-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438426</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>76478448</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">6513dbe23b7eb6bfc8966c245cfef58a</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438427-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438427</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>342196800</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">ca5928026db0561ba1df10990b61f435</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438428-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438428</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>306821264</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">bbac3a00dcf5484f368c4bb20e9e980b</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438429-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438429</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>418179440</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">3e2e467600bdd1183dc127315d4ada6c</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438430-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438430</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>474399120</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">327919171c9911bb57d9732fb2e250a3</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438431-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438431</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>401816096</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">cdd1813485936255ee7227af7e2b628b</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438432-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438432</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>262918880</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">58b2cd21470fe426d0b63e0964302e8f</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438433-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438433</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>439999056</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">d63880778f2479c7006088b49a4fd716</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438434-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438434</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31224320</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">57e4f5bfe1888991a287dad66baf2623</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438435-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438435</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Narrator</role>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18417936</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">bde8bf08a2df399f055bc419649b4232</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435438436-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435438436</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509841608_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509841608_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 219604687-->
+                        <apple_id>219604687</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">219604687</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Brian Blessed</artist_name>
+                        <locales>
+                            <locale name="sk">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                            <locale name="cmn-Hans">
+                                <artist_name>Brian Blessed</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 406672983-->
+                        <apple_id>406672983</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">406672983</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Hildegard Neil</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Panther In My Kitchen</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4595856</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">1199964c305c62e67f8bc44f556685db</checksum>
+                </audio_file>
+                <title>The Panther In My Kitchen Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509841608_9781509841608_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509841608</vendor_offer_code>
+    </album>
+</package>

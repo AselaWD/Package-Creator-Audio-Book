@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 1:46:08 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537260368765-f65d1b3ef290677a5d671dc3e1302f798cdffe73ccd83ad5e9325873e73d643e</metadata_token>
+    <comments>[updated via MZContentDeliveryConsumer @ Wed Sep 05 20:10:11 PDT 2018]</comments>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435428796-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435428796</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509888795</vendor_id>
+        <title>The Children of Jocasta</title>
+        <artwork_files>
+            <file>
+                <size>1655808</size>
+                <file_name>9781509888795.jpg</file_name>
+                <checksum type="md5">616a0066ff35ddc0b61a90b0caa99553</checksum>
+            </file>
+        </artwork_files>
+        <description>In The Children of Jocasta, Natalie Haynes retells the Oedipus and Antigone myths to reveal a new side of an ancient story . . . My siblings and I have grown up in a cursed house, children of cursed parents . . . Jocasta is just fifteen when she is told that she must marry the King of Thebes, an old man she has never met. Her life has never been her own, and nor will it be, unless she outlives her strange, absent husband. Ismene is the same age when she is attacked in the palace she calls home. Since the day of her parents' tragic deaths a decade earlier, she has always longed to feel safe with the family she still has. But with a single act of violence, all that is about to change. With the turn of these two events, a tragedy is set in motion. But not as you know it.</description>
+        <track_count>35</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-03-22</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>24</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-children-of-jocasta/id1435428796?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-03-22</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 308754596-->
+                <apple_id>308754596</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">308754596</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Natalie Haynes</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 1216396448-->
+                <apple_id>1216396448</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">1216396448</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Kristin Atherton</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435428805-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428805</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>782000</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">da73aa4345588b380e5b6638e5cfb1a0</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428806-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428806</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>404000</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">31cdd8476a447d2a889fd78a641a7909</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428807-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428807</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>5736992</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">91516ab4c95ee19331764c1efbb36eea</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428808-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428808</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22581792</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">7aac5d8c5a9ffed9f99860a79a42dcfa</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428809-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428809</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65525280</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">f99aeafcad7154f18820e82b56be1d9f</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428810-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428810</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>267361792</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">f1e0be5420dbec792195c8e0e38d7be6</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428811-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428811</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>65871248</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">e6fd57a097bd22b2c1d2025e0ea72ca4</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428812-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428812</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>129566096</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">4ee1d4264877081be378bfbe5b330332</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428813-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428813</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>101752160</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">584812a8151f722e5f37b4160c465253</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428814-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428814</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>97681104</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">78610d597999631607544a41141d218a</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428815-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428815</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>73810944</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">1c88b9c5664eec581e996cffcce0b395</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428816-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428816</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>64653024</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">0b5d327a37ba1510d0dbcf6474dc35b8</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428817-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428817</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>59059360</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">d964a7bf0b08bdd30626eed855577a5f</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428818-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428818</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84090128</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">4fd1fbb2a430817cec41cc1038ffddf1</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428819-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428819</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>78849568</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">e9518add0246a292ad6a7a206de2973e</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428820-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428820</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>135792960</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">f4189880b9e4fdcba881f85b52f4a393</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428911-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428911</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>69226368</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">b79b473d45cd6d29c8e12da2fb609d51</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428912-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428912</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>108534768</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">1411ab1dcc5e638d3e7d3f2eeda48004</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428913-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428913</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96060480</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">22bd44f8b848a91e63ba003e671003c1</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428914-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428914</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>106310768</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">64d158c1d51e58cdf172d8a89ccf0295</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428915-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428915</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>91536960</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">c989b86510cfa3e30f795402be2c64ad</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428916-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428916</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94596160</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">ce1ca71fdb54806bb5653c1a4c1000e9</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428917-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428917</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>96954848</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">dcb34220d6ef989270ebe1fe83d82bdb</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428918-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428918</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>87362688</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">83baf39e193da0b37c11bda231544ad3</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428919-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428919</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>98847360</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">721a9485f4d47f0fb27b0776f9abf7aa</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428920-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428920</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>94421168</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">a347ae9119ab6a6525f0e352f57861b2</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428921-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428921</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>84365968</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">b8186da86e2032b2ad5454ced082645d</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428922-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428922</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>111739680</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">bb7abba16ead2578cde3c9560657656b</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428923-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428923</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>79759680</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">69203e386d6be70599b56b33f6becf6a</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428924-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428924</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>104280048</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">0827d6a8de3e93294b47c1f0fd042390</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428925-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428925</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>115820256</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">212ae98b535f707cd8826a7cebdc61c1</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428926-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428926</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>124093520</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">194ba86e155cde32d61c26e08f04c065</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428927-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428927</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>48521248</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">9e5abbd626459c3c15a7a5529fa42311</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428928-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428928</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>64890384</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">f28c0e49d9d35ca7c567ae67a85a993c</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435428929-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435428929</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509888795_035</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509888795_035</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 308754596-->
+                        <apple_id>308754596</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">308754596</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Natalie Haynes</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 1216396448-->
+                        <apple_id>1216396448</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">1216396448</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Kristin Atherton</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 035 - The Children of Jocasta</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>4211184</size>
+                    <file_name>Track_035.wav</file_name>
+                    <checksum type="md5">f3b37ba3d872a023640ab70fb2782c41</checksum>
+                </audio_file>
+                <title>The Children of Jocasta Track 035</title>
+                <track_number>35</track_number>
+                <vendor_offer_code>9781509888795_9781509888795_035</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509888795</vendor_offer_code>
+    </album>
+</package>

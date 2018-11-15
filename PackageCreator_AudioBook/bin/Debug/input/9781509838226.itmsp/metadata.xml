@@ -1,0 +1,1917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 18, 2018 2:12:55 AM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537261975485-01c53f352b1bda56b88beb973cec8a1e32c18dfb0352b10712349c5ae155415a</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435383608-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435383608</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509838226</vendor_id>
+        <title>The Great Alone</title>
+        <artwork_files>
+            <file>
+                <size>1727645</size>
+                <file_name>9781509838226.jpg</file_name>
+                <checksum type="md5">34234566667d44c0f4b0bb6485f699a9</checksum>
+            </file>
+        </artwork_files>
+        <description>Now a New York Times number one bestseller, The Great Alone by Kristin Hannah is a daring, beautiful, stay-up-all-night story about love and loss, the fight for survival, and the wildness that lives in both man and nature. Thirteen-year-old Leni, a girl coming of age in a tumultuous time, is caught in the riptide of her parents’ passionate, stormy relationship, dares to hope that Alaska will lead to a better future for her family. She is desperate for a place to belong. Her mother, Cora, will do anything and go anywhere for the man she loves, even if means following him into the unknown. At once an epic story of human survival and love, and an intimate portrait of a family tested beyond endurance, The Great Alone offers a glimpse into a vanishing way of life in America. With her trademark combination of elegant prose and deeply drawn characters, Kristin Hannah has delivered an enormously powerful story that celebrates the resilience of the human spirit and the remarkable and enduring strength of women. The Great Alone is perfect for all those who loved The Light Between Oceans, and fans of Jodi Picoult, Victoria Hislop and Diane Chamberlain. 'I didn't just love this book, I became obsessed with it . . . Hannah has delivered a masterclass in all the different ways love can both save us and destroy us.' - Sunday Times top ten bestselling author Karen Swan</description>
+        <track_count>34</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2018-02-08</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-18</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/the-great-alone/id1435383608?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2018-02-08</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 279488103-->
+                <apple_id>279488103</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">279488103</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Kristin Hannah</artist_name>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 325985008-->
+                <apple_id>325985008</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">325985008</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Julia Whelan</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435383614-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383614</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>6386368</size>
+                    <file_name>Track_001.wav</file_name>
+                    <checksum type="md5">a6af0fa715fe8732b16ba84c0ad5c0f3</checksum>
+                </audio_file>
+                <title>The Great Alone Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383615-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383615</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>189661648</size>
+                    <file_name>Track_002.wav</file_name>
+                    <checksum type="md5">c7c1131e22b619fc445e8f2aa96ead76</checksum>
+                </audio_file>
+                <title>The Great Alone Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383616-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383616</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>196801792</size>
+                    <file_name>Track_003.wav</file_name>
+                    <checksum type="md5">e04e4d86188a10be804eb57a7181dc30</checksum>
+                </audio_file>
+                <title>The Great Alone Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383617-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383617</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>361654592</size>
+                    <file_name>Track_004.wav</file_name>
+                    <checksum type="md5">bae6c146eee1781df1c2fcad58ac61e3</checksum>
+                </audio_file>
+                <title>The Great Alone Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383618-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383618</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>405088944</size>
+                    <file_name>Track_005.wav</file_name>
+                    <checksum type="md5">1ec833ebb508b3a7e298c849fd8d5098</checksum>
+                </audio_file>
+                <title>The Great Alone Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383619-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383619</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>345157312</size>
+                    <file_name>Track_006.wav</file_name>
+                    <checksum type="md5">d8ab0af19fc5668d3d4efdf33163fbc6</checksum>
+                </audio_file>
+                <title>The Great Alone Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383620-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383620</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>210001232</size>
+                    <file_name>Track_007.wav</file_name>
+                    <checksum type="md5">e0473fdcad7b1d5a4d08bc90e5e21b56</checksum>
+                </audio_file>
+                <title>The Great Alone Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383621-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383621</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>378121872</size>
+                    <file_name>Track_008.wav</file_name>
+                    <checksum type="md5">a87e81fa298664ddb18ec2b2e50a18ac</checksum>
+                </audio_file>
+                <title>The Great Alone Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383622-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383622</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>375500784</size>
+                    <file_name>Track_009.wav</file_name>
+                    <checksum type="md5">6894d944c384bbd857a50567f30a34df</checksum>
+                </audio_file>
+                <title>The Great Alone Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383623-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383623</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>282680224</size>
+                    <file_name>Track_010.wav</file_name>
+                    <checksum type="md5">61743901edc0787bf9fe064273134394</checksum>
+                </audio_file>
+                <title>The Great Alone Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383624-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383624</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>350208096</size>
+                    <file_name>Track_011.wav</file_name>
+                    <checksum type="md5">ba286a940013f7991148887a5018e4cf</checksum>
+                </audio_file>
+                <title>The Great Alone Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383625-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383625</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>467160400</size>
+                    <file_name>Track_012.wav</file_name>
+                    <checksum type="md5">8319d6f0acaa28a93b77b43dca151cf9</checksum>
+                </audio_file>
+                <title>The Great Alone Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383626-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383626</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>347768448</size>
+                    <file_name>Track_013.wav</file_name>
+                    <checksum type="md5">6495cdc2ee0369b1e50c9e0ae88ea769</checksum>
+                </audio_file>
+                <title>The Great Alone Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383627-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383627</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>277265376</size>
+                    <file_name>Track_014.wav</file_name>
+                    <checksum type="md5">d997366103c2939a6a4f4e16e7664bd3</checksum>
+                </audio_file>
+                <title>The Great Alone Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383628-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383628</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>330122608</size>
+                    <file_name>Track_015.wav</file_name>
+                    <checksum type="md5">6f67d5a61a5a0e2b706e3775e48962f1</checksum>
+                </audio_file>
+                <title>The Great Alone Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383629-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383629</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>258108208</size>
+                    <file_name>Track_016.wav</file_name>
+                    <checksum type="md5">d09eb5a792c17c5b9eb59c5fc1135dc0</checksum>
+                </audio_file>
+                <title>The Great Alone Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383630-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383630</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>273296288</size>
+                    <file_name>Track_017.wav</file_name>
+                    <checksum type="md5">e59266e225bbc1eca495fcda30ca7f96</checksum>
+                </audio_file>
+                <title>The Great Alone Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383631-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383631</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>305036080</size>
+                    <file_name>Track_018.wav</file_name>
+                    <checksum type="md5">39e5b1a56586f8d21926993ded3e7880</checksum>
+                </audio_file>
+                <title>The Great Alone Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383632-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383632</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>220819216</size>
+                    <file_name>Track_019.wav</file_name>
+                    <checksum type="md5">f49d3cbcdd7e7ca8793863ddbc3a53e2</checksum>
+                </audio_file>
+                <title>The Great Alone Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383633-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383633</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>260402384</size>
+                    <file_name>Track_020.wav</file_name>
+                    <checksum type="md5">47e52134b44d63b8f1d58701342c21b3</checksum>
+                </audio_file>
+                <title>The Great Alone Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383634-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383634</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>343276560</size>
+                    <file_name>Track_021.wav</file_name>
+                    <checksum type="md5">19b727a61e1ffce805ab103106c4a53c</checksum>
+                </audio_file>
+                <title>The Great Alone Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383635-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383635</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>258401024</size>
+                    <file_name>Track_022.wav</file_name>
+                    <checksum type="md5">9953dfd9cf8d32459ccd016b9d1f67d6</checksum>
+                </audio_file>
+                <title>The Great Alone Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383636-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383636</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>305521504</size>
+                    <file_name>Track_023.wav</file_name>
+                    <checksum type="md5">2fcae24b2ca7e9107d64cec6579e7a38</checksum>
+                </audio_file>
+                <title>The Great Alone Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383637-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383637</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>256448816</size>
+                    <file_name>Track_024.wav</file_name>
+                    <checksum type="md5">fcff7d657dc35d65808b7f8c3643f6af</checksum>
+                </audio_file>
+                <title>The Great Alone Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383638-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383638</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>398041968</size>
+                    <file_name>Track_025.wav</file_name>
+                    <checksum type="md5">ebe8c71ebd71f98c7ce9ebcf5d63d342</checksum>
+                </audio_file>
+                <title>The Great Alone Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383639-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383639</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>307527296</size>
+                    <file_name>Track_026.wav</file_name>
+                    <checksum type="md5">e30f94bfb46cded539d66d3cb4dfab3d</checksum>
+                </audio_file>
+                <title>The Great Alone Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383640-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383640</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>195832944</size>
+                    <file_name>Track_027.wav</file_name>
+                    <checksum type="md5">6dddf52e1cfa4123c49e2f12a119ebfa</checksum>
+                </audio_file>
+                <title>The Great Alone Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383671-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383671</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>240907968</size>
+                    <file_name>Track_028.wav</file_name>
+                    <checksum type="md5">ea6d05a7e2f3a9a086249e033d6ae502</checksum>
+                </audio_file>
+                <title>The Great Alone Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383672-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383672</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>274350944</size>
+                    <file_name>Track_029.wav</file_name>
+                    <checksum type="md5">e59da898a68ddea18ac4a5de7e261340</checksum>
+                </audio_file>
+                <title>The Great Alone Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383673-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383673</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>311169104</size>
+                    <file_name>Track_030.wav</file_name>
+                    <checksum type="md5">23da8ee29281554f80afb4d1d7af6143</checksum>
+                </audio_file>
+                <title>The Great Alone Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383674-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383674</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_031</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_031</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 031 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>332225680</size>
+                    <file_name>Track_031.wav</file_name>
+                    <checksum type="md5">aac17a8f62fbdc6cf86e4b518dd3a628</checksum>
+                </audio_file>
+                <title>The Great Alone Track 031</title>
+                <track_number>31</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_031</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383675-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383675</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_032</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_032</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 032 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>436010848</size>
+                    <file_name>Track_032.wav</file_name>
+                    <checksum type="md5">d4aa94573c813d96e8d9eb005bb6b8f8</checksum>
+                </audio_file>
+                <title>The Great Alone Track 032</title>
+                <track_number>32</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_032</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383676-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383676</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_033</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_033</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 033 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>36325216</size>
+                    <file_name>Track_033.wav</file_name>
+                    <checksum type="md5">04c6d891e02b93c752ab1d2acebe929d</checksum>
+                </audio_file>
+                <title>The Great Alone Track 033</title>
+                <track_number>33</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_033</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435383677-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435383677</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509838226_034</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509838226_034</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 279488103-->
+                        <apple_id>279488103</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">279488103</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Kristin Hannah</artist_name>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 325985008-->
+                        <apple_id>325985008</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">325985008</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Julia Whelan</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 034 - The Great Alone</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>9457280</size>
+                    <file_name>Track_034.wav</file_name>
+                    <checksum type="md5">afe6d478b102a0cba4005d0331afa09f</checksum>
+                </audio_file>
+                <title>The Great Alone Track 034</title>
+                <track_number>34</track_number>
+                <vendor_offer_code>9781509838226_9781509838226_034</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509838226</vendor_offer_code>
+    </album>
+</package>

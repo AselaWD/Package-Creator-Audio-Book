@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="music5.3">
+    <!-- This document was generated on Sep 17, 2018 10:13:44 PM for Apple-Innodata@Innodata-Isogen.com <Apple-Innodata@Innodata-Isogen.com>. -->
+    <!-- NOTE: metadata_token is generated on lookup.  Modifying the value of this will result in an import error -->
+    <metadata_token>1537247624155-c04a3eae44954812e080afbe1250554b96248854994eeec12be09e2542ecf0c4</metadata_token>
+    <language>en</language>
+    <provider>MacmillanPublishersInternationalLtd1</provider>
+    <album>
+        <!--Apple ID: 1435343937-->
+        <read_only_info>
+            <read_only_value key="apple-id">1435343937</read_only_value>
+            <read_only_value key="content-review-status">Live-NotReviewed</read_only_value>
+            <read_only_value key="content-review-date"/>
+        </read_only_info>
+        <album_type>audiobook</album_type>
+        <vendor_id>9781509830602</vendor_id>
+        <title>In Their Mother's Footsteps</title>
+        <artwork_files>
+            <file>
+                <size>3629125</size>
+                <file_name>9781509830602.jpg</file_name>
+                <checksum type="md5">8625edf7bfc5f351936d4b37828fb6e4</checksum>
+            </file>
+        </artwork_files>
+        <description>In Their Mother's Footsteps is a moving saga set at the eve of the Second World War, by the author of the Breckton series, Mary Wood. Two girls. One horrendous war. The chance to unite a family . . . Edith and Ada run Jimmy's Hope House where they care for unmarried mothers, and where Edith, a doctor, offers free medical help to the poor of London's East End. Both are struggling to overcome trauma from their past. For Edith there is the constant ache and yearning for her twin girls Elka and Ania, from whom she was separated in 1918. For Ada there is the threat of her sister returning . . . As the Nazis strengthen their grip on Poland, sisters Elka and Ania are forced to make a difficult decision: travel to England to find their birth mother or stay and fight against an increasingly desperate regime? In times of war, no choices are ever easy to make. But making the right choice could keep you alive . . .</description>
+        <track_count>30</track_count>
+        <products>
+            <product>
+                <territory>GB</territory>
+                <cleared_for_sale>true</cleared_for_sale>
+                <sales_start_date>2017-06-29</sales_start_date>
+                <intervals>
+                    <!--The following <interval> element represents a snapshot of present and future pricing and availability information.
+In other words, past data may not be reflected by this interval.-->
+                    <interval>
+                        <start_date>2018-09-17</start_date>
+                        <wholesale_price_tier>30</wholesale_price_tier>
+                    </interval>
+                </intervals>
+                <read_only_info>
+                    <read_only_value key="storeURL-GB">https://itunes.apple.com/gb/audiobook/in-their-mothers-footsteps/id1435343937?ls=1</read_only_value>
+                </read_only_info>
+            </product>
+        </products>
+        <original_release_date>2017-06-29</original_release_date>
+        <label_name>Pan Macmillan</label_name>
+        <genres>
+            <genre code="FICTION-00">Fiction</genre>
+        </genres>
+        <artists>
+            <artist>
+                <!--Apple ID: 30853857-->
+                <apple_id>30853857</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">30853857</read_only_value>
+                </read_only_info>
+                <primary>true</primary>
+                <language>en</language>
+                <artist_name>Mary Wood</artist_name>
+                <locales>
+                    <locale name="ja">
+                        <artist_name>Mary Wood</artist_name>
+                    </locale>
+                </locales>
+                <roles>
+                    <role>Author</role>
+                </roles>
+            </artist>
+            <artist>
+                <!--Apple ID: 254794403-->
+                <apple_id>254794403</apple_id>
+                <read_only_info>
+                    <read_only_value key="apple-id">254794403</read_only_value>
+                </read_only_info>
+                <language>en</language>
+                <artist_name>Annie Aldington</artist_name>
+                <roles>
+                    <role>Narrator</role>
+                </roles>
+            </artist>
+        </artists>
+        <tracks>
+            <track>
+                <!--Apple ID: 1435343941-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343941</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_001</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_001</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 001 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35732032</size>
+                    <file_name>Track_001.mp3</file_name>
+                    <checksum type="md5">2248ca43c35b37af7b29840b58139a8c</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 001</title>
+                <track_number>1</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_001</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343942-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343942</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_002</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_002</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 002 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34476896</size>
+                    <file_name>Track_002.mp3</file_name>
+                    <checksum type="md5">2ded4895e2e6104cada634729ea2c81c</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 002</title>
+                <track_number>2</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_002</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343943-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343943</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_003</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_003</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 003 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35161520</size>
+                    <file_name>Track_003.mp3</file_name>
+                    <checksum type="md5">2fe94974cf429d89124214ded481d9bb</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 003</title>
+                <track_number>3</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_003</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343944-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343944</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_004</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_004</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 004 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21595184</size>
+                    <file_name>Track_004.mp3</file_name>
+                    <checksum type="md5">6d36ce14df270cc3561223c4cb2b5a0e</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 004</title>
+                <track_number>4</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_004</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343945-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343945</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_005</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_005</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 005 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>22434032</size>
+                    <file_name>Track_005.mp3</file_name>
+                    <checksum type="md5">fe0af2d2986d7ec5bc0074d5b46a7d7c</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 005</title>
+                <track_number>5</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_005</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343946-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343946</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_006</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_006</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 006 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35361504</size>
+                    <file_name>Track_006.mp3</file_name>
+                    <checksum type="md5">3db8a23f23d721ff43274b5aabe5b688</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 006</title>
+                <track_number>6</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_006</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343947-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343947</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_007</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_007</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 007 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>38412192</size>
+                    <file_name>Track_007.mp3</file_name>
+                    <checksum type="md5">c2453744b615b348e9170e77cdace153</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 007</title>
+                <track_number>7</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_007</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343948-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343948</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_008</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_008</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 008 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31335312</size>
+                    <file_name>Track_008.mp3</file_name>
+                    <checksum type="md5">9d71e57841debf8cbcfca04453fcdfbe</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 008</title>
+                <track_number>8</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_008</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343949-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343949</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_009</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_009</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 009 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>29105920</size>
+                    <file_name>Track_009.mp3</file_name>
+                    <checksum type="md5">8bea55948cc7e221a79f80c516831fd1</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 009</title>
+                <track_number>9</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_009</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435343950-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435343950</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_010</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_010</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 010 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>21016528</size>
+                    <file_name>Track_010.mp3</file_name>
+                    <checksum type="md5">b25fdf25b2936a6ecb9ab433c8593b2b</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 010</title>
+                <track_number>10</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_010</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344071-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344071</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_011</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_011</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 011 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>31281392</size>
+                    <file_name>Track_011.mp3</file_name>
+                    <checksum type="md5">fb1fb0373ef6c61c22b8e5ee033a709c</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 011</title>
+                <track_number>11</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_011</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344072-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344072</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_012</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_012</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 012 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28956080</size>
+                    <file_name>Track_012.mp3</file_name>
+                    <checksum type="md5">f5656656bade44943599e74490db7cbe</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 012</title>
+                <track_number>12</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_012</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344073-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344073</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_013</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_013</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 013 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>47256416</size>
+                    <file_name>Track_013.mp3</file_name>
+                    <checksum type="md5">9fd681e1e65be5650ee87d58ec287a0b</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 013</title>
+                <track_number>13</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_013</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344074-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344074</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_014</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_014</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 014 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>54417312</size>
+                    <file_name>Track_014.mp3</file_name>
+                    <checksum type="md5">f1685d4bf87604011a980f0fb155b607</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 014</title>
+                <track_number>14</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_014</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344075-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344075</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_015</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_015</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 015 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>35990320</size>
+                    <file_name>Track_015.mp3</file_name>
+                    <checksum type="md5">654a121b85c07f01651d67bc5314fba5</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 015</title>
+                <track_number>15</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_015</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344076-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344076</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_016</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_016</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 016 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>28004384</size>
+                    <file_name>Track_016.mp3</file_name>
+                    <checksum type="md5">0c24db79fe3b20bd36094638439ca948</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 016</title>
+                <track_number>16</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_016</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344077-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344077</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_017</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_017</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 017 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>44249616</size>
+                    <file_name>Track_017.mp3</file_name>
+                    <checksum type="md5">47571b7bbd3d3eeb5b1d41c6a893306e</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 017</title>
+                <track_number>17</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_017</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344078-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344078</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_018</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_018</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 018 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26542992</size>
+                    <file_name>Track_018.mp3</file_name>
+                    <checksum type="md5">4dac67da222cb126a9d0df41a8348625</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 018</title>
+                <track_number>18</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_018</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344079-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344079</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_019</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_019</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 019 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>13819264</size>
+                    <file_name>Track_019.mp3</file_name>
+                    <checksum type="md5">cb4dfe8626c16d42a37eaa4b852d9475</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 019</title>
+                <track_number>19</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_019</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344080-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344080</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_020</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_020</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 020 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>33897600</size>
+                    <file_name>Track_020.mp3</file_name>
+                    <checksum type="md5">396e1ce38a588ee0761d09afe6ce0eb6</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 020</title>
+                <track_number>20</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_020</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344081-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344081</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_021</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_021</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 021 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>46164912</size>
+                    <file_name>Track_021.mp3</file_name>
+                    <checksum type="md5">c275b82e0044c09766fdc248e3d5d019</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 021</title>
+                <track_number>21</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_021</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344082-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344082</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_022</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_022</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 022 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>26857712</size>
+                    <file_name>Track_022.mp3</file_name>
+                    <checksum type="md5">8fc291414b73b0e6ca0aca1af96fdb9e</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 022</title>
+                <track_number>22</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_022</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344083-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344083</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_023</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_023</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 023 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>27038272</size>
+                    <file_name>Track_023.mp3</file_name>
+                    <checksum type="md5">b24a26283cd0b5cc2e38c0fc25f06d22</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 023</title>
+                <track_number>23</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_023</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344084-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344084</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_024</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_024</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 024 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32241232</size>
+                    <file_name>Track_024.mp3</file_name>
+                    <checksum type="md5">c788e361fba95bd451b8f318e27936c3</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 024</title>
+                <track_number>24</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_024</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344085-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344085</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_025</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_025</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 025 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>41163200</size>
+                    <file_name>Track_025.mp3</file_name>
+                    <checksum type="md5">60742f19da256c61bfa4c00afa07bf81</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 025</title>
+                <track_number>25</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_025</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344086-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344086</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_026</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_026</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 026 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>39703680</size>
+                    <file_name>Track_026.mp3</file_name>
+                    <checksum type="md5">188a8c236d57676d17a6bab52f19eb78</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 026</title>
+                <track_number>26</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_026</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344087-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344087</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_027</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_027</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 027 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>20605248</size>
+                    <file_name>Track_027.mp3</file_name>
+                    <checksum type="md5">460f49b471a48f96e5bbae4f0a611146</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 027</title>
+                <track_number>27</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_027</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344088-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344088</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_028</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_028</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 028 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>34490688</size>
+                    <file_name>Track_028.mp3</file_name>
+                    <checksum type="md5">5fdf7dc7bcde1366deb50be401ef5670</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 028</title>
+                <track_number>28</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_028</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344089-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344089</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_029</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_029</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 029 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>32920832</size>
+                    <file_name>Track_029.mp3</file_name>
+                    <checksum type="md5">69d4e865f0442d09f18f4a7f8006eaee</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 029</title>
+                <track_number>29</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_029</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+            <track>
+                <!--Apple ID: 1435344090-->
+                <read_only_info>
+                    <read_only_value key="apple-id">1435344090</read_only_value>
+                </read_only_info>
+                <type>audiobook</type>
+                <vendor_id>9781509830602_030</vendor_id>
+                <xid>MacmillanPublishersInternationalLtd1:vendor_id:9781509830602_030</xid>
+                <gapless_play>false</gapless_play>
+                <label_name>Pan Macmillan</label_name>
+                <volume_number>1</volume_number>
+                <artists>
+                    <artist>
+                        <!--Apple ID: 30853857-->
+                        <apple_id>30853857</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">30853857</read_only_value>
+                        </read_only_info>
+                        <primary>true</primary>
+                        <language>en</language>
+                        <artist_name>Mary Wood</artist_name>
+                        <locales>
+                            <locale name="ja">
+                                <artist_name>Mary Wood</artist_name>
+                            </locale>
+                        </locales>
+                        <roles>
+                            <role>Author</role>
+                        </roles>
+                    </artist>
+                    <artist>
+                        <!--Apple ID: 254794403-->
+                        <apple_id>254794403</apple_id>
+                        <read_only_info>
+                            <read_only_value key="apple-id">254794403</read_only_value>
+                        </read_only_info>
+                        <language>en</language>
+                        <artist_name>Annie Aldington</artist_name>
+                        <roles>
+                            <role>Narrator</role>
+                        </roles>
+                    </artist>
+                </artists>
+                <chapters>
+                    <chapter>
+                        <chapter_start_time>00:00:00.000</chapter_start_time>
+                        <chapter_title>Chapter 030 - In Their Mother's Footsteps</chapter_title>
+                    </chapter>
+                </chapters>
+                <audio_file>
+                    <size>18570208</size>
+                    <file_name>Track_030.mp3</file_name>
+                    <checksum type="md5">8aee0397f79ce3f506e4281a8bb8a5d6</checksum>
+                </audio_file>
+                <title>In Their Mother's Footsteps Track 030</title>
+                <track_number>30</track_number>
+                <vendor_offer_code>9781509830602_9781509830602_030</vendor_offer_code>
+                <audio_language>en</audio_language>
+            </track>
+        </tracks>
+        <vendor_offer_code>9781509830602</vendor_offer_code>
+    </album>
+</package>
